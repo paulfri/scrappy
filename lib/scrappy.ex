@@ -1,0 +1,2 @@
+defmodule Scrappy do
+end

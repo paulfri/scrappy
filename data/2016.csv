@@ -1,0 +1,341 @@
+date,home,home_score,away,away_score,venue
+2016-03-06,New York Red Bulls,0,Toronto FC,2,Red Bull Arena
+2016-03-06,Orlando City SC,2,Real Salt Lake,2,Camping World Stadium
+2016-03-06,Chicago Fire,3,New York City FC,4,Toyota Park
+2016-03-06,FC Dallas,2,Philadelphia Union,0,Toyota Stadium
+2016-03-06,Houston Dynamo,3,New England Revolution,3,BBVA Compass Stadium
+2016-03-06,San Jose Earthquakes,1,Colorado Rapids,0,Avaya Stadium
+2016-03-06,Portland Timbers,2,Columbus Crew SC,1,Providence Park
+2016-03-06,Vancouver Whitecaps FC,2,Montreal Impact,3,BC Place
+2016-03-06,Seattle Sounders FC,0,Sporting Kansas City,1,CenturyLink Field
+2016-03-06,LA Galaxy,4,D.C. United,1,StubHub Center
+2016-03-11,Orlando City SC,1,Chicago Fire,1,Camping World Stadium
+2016-03-12,New England Revolution,0,D.C. United,0,Gillette Stadium
+2016-03-12,Real Salt Lake,2,Seattle Sounders FC,1,Rio Tinto Stadium
+2016-03-12,Montreal Impact,3,New York Red Bulls,0,Olympic Stadium
+2016-03-12,Colorado Rapids,1,LA Galaxy,0,Dick's Sporting Goods Park
+2016-03-12,Columbus Crew SC,1,Philadelphia Union,2,MAPFRE Stadium
+2016-03-12,Sporting Kansas City,2,Vancouver Whitecaps FC,1,Children's Mercy Park
+2016-03-12,Houston Dynamo,5,FC Dallas,0,BBVA Compass Stadium
+2016-03-13,New York City FC,2,Toronto FC,2,Yankee Stadium
+2016-03-13,San Jose Earthquakes,2,Portland Timbers,1,Avaya Stadium
+2016-03-18,New York City FC,0,Orlando City SC,1,Yankee Stadium
+2016-03-19,Chicago Fire,0,Columbus Crew SC,0,Toyota Park
+2016-03-19,New York Red Bulls,4,Houston Dynamo,3,Red Bull Arena
+2016-03-19,FC Dallas,2,Montreal Impact,0,Toyota Stadium
+2016-03-19,Seattle Sounders FC,1,Vancouver Whitecaps FC,2,CenturyLink Field
+2016-03-19,LA Galaxy,3,San Jose Earthquakes,1,StubHub Center
+2016-03-19,Portland Timbers,2,Real Salt Lake,2,Providence Park
+2016-03-20,Philadelphia Union,3,New England Revolution,0,Talen Energy Stadium
+2016-03-20,D.C. United,1,Colorado Rapids,1,RFK Stadium
+2016-03-20,Sporting Kansas City,1,Toronto FC,0,Children's Mercy Park
+2016-03-26,New York City FC,1,New England Revolution,1,Yankee Stadium
+2016-03-26,D.C. United,0,FC Dallas,3,RFK Stadium
+2016-03-26,Vancouver Whitecaps FC,1,Houston Dynamo,0,BC Place
+2016-04-01,New England Revolution,1,New York Red Bulls,0,Gillette Stadium
+2016-04-02,Chicago Fire,1,Philadelphia Union,0,Toyota Park
+2016-04-02,Colorado Rapids,1,Toronto FC,0,Dick's Sporting Goods Park
+2016-04-02,Sporting Kansas City,1,Real Salt Lake,2,Children's Mercy Park
+2016-04-02,FC Dallas,1,Columbus Crew SC,1,Toyota Stadium
+2016-04-02,Vancouver Whitecaps FC,0,LA Galaxy,0,BC Place
+2016-04-02,Seattle Sounders FC,1,Montreal Impact,0,CenturyLink Field
+2016-04-02,San Jose Earthquakes,1,D.C. United,1,Avaya Stadium
+2016-04-03,Orlando City SC,4,Portland Timbers,1,Camping World Stadium
+2016-04-08,Philadelphia Union,2,Orlando City SC,1,Talen Energy Stadium
+2016-04-09,Montreal Impact,2,Columbus Crew SC,0,Olympic Stadium
+2016-04-09,New England Revolution,1,Toronto FC,1,Gillette Stadium
+2016-04-09,D.C. United,4,Vancouver Whitecaps FC,0,RFK Stadium
+2016-04-09,New York Red Bulls,0,Sporting Kansas City,2,Red Bull Arena
+2016-04-09,FC Dallas,2,San Jose Earthquakes,2,Toyota Stadium
+2016-04-09,Real Salt Lake,1,Colorado Rapids,0,Rio Tinto Stadium
+2016-04-10,Houston Dynamo,1,Seattle Sounders FC,1,BBVA Compass Stadium
+2016-04-10,New York City FC,0,Chicago Fire,0,Yankee Stadium
+2016-04-10,LA Galaxy,1,Portland Timbers,1,StubHub Center
+2016-04-13,Sporting Kansas City,1,Colorado Rapids,2,Children's Mercy Park
+2016-04-13,San Jose Earthquakes,2,New York Red Bulls,0,Avaya Stadium
+2016-04-13,Portland Timbers,1,FC Dallas,3,Providence Park
+2016-04-15,Houston Dynamo,1,LA Galaxy,4,BBVA Compass Stadium
+2016-04-16,Chicago Fire,1,Montreal Impact,2,Toyota Park
+2016-04-16,D.C. United,0,Toronto FC,1,RFK Stadium
+2016-04-16,Columbus Crew SC,3,New York City FC,2,MAPFRE Stadium
+2016-04-16,Colorado Rapids,2,New York Red Bulls,1,Dick's Sporting Goods Park
+2016-04-16,Real Salt Lake,1,Vancouver Whitecaps FC,0,Rio Tinto Stadium
+2016-04-16,Seattle Sounders FC,2,Philadelphia Union,1,CenturyLink Field
+2016-04-16,Portland Timbers,3,San Jose Earthquakes,1,Providence Park
+2016-04-17,Orlando City SC,2,New England Revolution,2,Camping World Stadium
+2016-04-17,FC Dallas,2,Sporting Kansas City,1,Toyota Stadium
+2016-04-23,Philadelphia Union,2,New York City FC,0,Talen Energy Stadium
+2016-04-23,Montreal Impact,0,Toronto FC,2,Saputo Stadium
+2016-04-23,D.C. United,3,New England Revolution,0,RFK Stadium
+2016-04-23,Columbus Crew SC,1,Houston Dynamo,0,MAPFRE Stadium
+2016-04-23,Colorado Rapids,3,Seattle Sounders FC,1,Dick's Sporting Goods Park
+2016-04-23,LA Galaxy,5,Real Salt Lake,2,StubHub Center
+2016-04-23,Vancouver Whitecaps FC,3,FC Dallas,0,BC Place
+2016-04-24,San Jose Earthquakes,1,Sporting Kansas City,0,Avaya Stadium
+2016-04-24,New York Red Bulls,3,Orlando City SC,2,Red Bull Arena
+2016-04-27,New York City FC,1,Montreal Impact,1,Yankee Stadium
+2016-04-27,New England Revolution,1,Portland Timbers,1,Gillette Stadium
+2016-04-27,Vancouver Whitecaps FC,1,Sporting Kansas City,1,BC Place
+2016-04-29,New York Red Bulls,4,FC Dallas,0,Red Bull Arena
+2016-04-30,Philadelphia Union,1,San Jose Earthquakes,1,Talen Energy Stadium
+2016-04-30,Montreal Impact,2,Colorado Rapids,2,Saputo Stadium
+2016-04-30,Seattle Sounders FC,1,Columbus Crew SC,0,CenturyLink Field
+2016-04-30,New York City FC,3,Vancouver Whitecaps FC,2,Yankee Stadium
+2016-04-30,Chicago Fire,1,D.C. United,1,Toyota Park
+2016-04-30,New England Revolution,2,Orlando City SC,2,Gillette Stadium
+2016-04-30,Real Salt Lake,2,Houston Dynamo,1,Rio Tinto Stadium
+2016-05-01,Portland Timbers,2,Toronto FC,1,Providence Park
+2016-05-01,Sporting Kansas City,1,LA Galaxy,1,Children's Mercy Park
+2016-05-06,Orlando City SC,1,New York Red Bulls,1,Camping World Stadium
+2016-05-07,Vancouver Whitecaps FC,2,Portland Timbers,1,BC Place
+2016-05-07,Toronto FC,1,FC Dallas,0,BMO Field
+2016-05-07,Columbus Crew SC,4,Montreal Impact,4,MAPFRE Stadium
+2016-05-07,Houston Dynamo,2,Sporting Kansas City,0,BBVA Compass Stadium
+2016-05-07,Colorado Rapids,1,Real Salt Lake,0,Dick's Sporting Goods Park
+2016-05-07,Seattle Sounders FC,2,San Jose Earthquakes,0,CenturyLink Field
+2016-05-08,LA Galaxy,4,New England Revolution,2,StubHub Center
+2016-05-08,D.C. United,0,New York City FC,2,RFK Stadium
+2016-05-11,Philadelphia Union,2,LA Galaxy,2,Talen Energy Stadium
+2016-05-11,FC Dallas,2,Portland Timbers,1,Toyota Stadium
+2016-05-11,Colorado Rapids,1,Sporting Kansas City,0,Dick's Sporting Goods Park
+2016-05-11,Vancouver Whitecaps FC,2,Chicago Fire,1,BC Place
+2016-05-11,San Jose Earthquakes,3,Houston Dynamo,1,Avaya Stadium
+2016-05-13,D.C. United,2,New York Red Bulls,0,RFK Stadium
+2016-05-14,Montreal Impact,1,Philadelphia Union,1,Saputo Stadium
+2016-05-14,Columbus Crew SC,1,Colorado Rapids,1,MAPFRE Stadium
+2016-05-14,Toronto FC,3,Vancouver Whitecaps FC,4,BMO Field
+2016-05-14,New England Revolution,2,Chicago Fire,0,Gillette Stadium
+2016-05-14,FC Dallas,2,Seattle Sounders FC,0,Toyota Stadium
+2016-05-15,Houston Dynamo,1,Real Salt Lake,0,BBVA Compass Stadium
+2016-05-15,Sporting Kansas City,2,Orlando City SC,1,Children's Mercy Park
+2016-05-15,Portland Timbers,1,New York City FC,2,Providence Park
+2016-05-18,Toronto FC,1,New York City FC,1,BMO Field
+2016-05-18,New York Red Bulls,1,Chicago Fire,0,Red Bull Arena
+2016-05-20,Philadelphia Union,1,D.C. United,0,Talen Energy Stadium
+2016-05-21,New York City FC,0,New York Red Bulls,7,Yankee Stadium
+2016-05-21,Chicago Fire,1,Houston Dynamo,0,Toyota Park
+2016-05-21,Toronto FC,0,Columbus Crew SC,0,BMO Field
+2016-05-21,Orlando City SC,2,Montreal Impact,1,Camping World Stadium
+2016-05-21,New England Revolution,2,FC Dallas,4,Gillette Stadium
+2016-05-21,Sporting Kansas City,1,Real Salt Lake,3,Children's Mercy Park
+2016-05-21,Seattle Sounders FC,0,Colorado Rapids,1,CenturyLink Field
+2016-05-22,Portland Timbers,4,Vancouver Whitecaps FC,2,Providence Park
+2016-05-22,LA Galaxy,1,San Jose Earthquakes,1,StubHub Center
+2016-05-25,Orlando City SC,2,Philadelphia Union,2,Camping World Stadium
+2016-05-27,Sporting Kansas City,0,D.C. United,1,Children's Mercy Park
+2016-05-28,Vancouver Whitecaps FC,1,Houston Dynamo,1,BC Place
+2016-05-28,New York Red Bulls,3,Toronto FC,0,Red Bull Arena
+2016-05-28,Columbus Crew SC,4,Real Salt Lake,3,MAPFRE Stadium
+2016-05-28,New England Revolution,2,Seattle Sounders FC,1,Gillette Stadium
+2016-05-28,Montreal Impact,3,LA Galaxy,2,Saputo Stadium
+2016-05-28,Chicago Fire,1,Portland Timbers,1,Toyota Park
+2016-05-28,Colorado Rapids,1,Philadelphia Union,1,Dick's Sporting Goods Park
+2016-05-28,San Jose Earthquakes,0,FC Dallas,0,Avaya Stadium
+2016-05-29,New York City FC,2,Orlando City SC,2,Yankee Stadium
+2016-06-01,Philadelphia Union,3,Columbus Crew SC,2,Talen Energy Stadium
+2016-06-01,D.C. United,0,Seattle Sounders FC,2,RFK Stadium
+2016-06-01,Portland Timbers,1,San Jose Earthquakes,0,Providence Park
+2016-06-02,New York City FC,2,Real Salt Lake,3,Yankee Stadium
+2016-06-02,FC Dallas,1,Houston Dynamo,1,Toyota Stadium
+2016-06-02,LA Galaxy,0,Sporting Kansas City,0,StubHub Center
+2016-06-18,New York City FC,3,Philadelphia Union,2,Yankee Stadium
+2016-06-18,Vancouver Whitecaps FC,1,New England Revolution,2,BC Place
+2016-06-18,Columbus Crew SC,0,Montreal Impact,0,MAPFRE Stadium
+2016-06-18,Toronto FC,1,LA Galaxy,0,BMO Field
+2016-06-18,Orlando City SC,2,San Jose Earthquakes,2,Camping World Stadium
+2016-06-18,Houston Dynamo,0,D.C. United,0,BBVA Compass Stadium
+2016-06-18,Colorado Rapids,2,Chicago Fire,1,Dick's Sporting Goods Park
+2016-06-18,Real Salt Lake,2,Portland Timbers,2,Rio Tinto Stadium
+2016-06-19,Sporting Kansas City,2,FC Dallas,0,Children's Mercy Park
+2016-06-19,New York Red Bulls,2,Seattle Sounders FC,0,Red Bull Arena
+2016-06-22,Philadelphia Union,4,Chicago Fire,3,Talen Energy Stadium
+2016-06-22,Real Salt Lake,2,New York Red Bulls,1,Rio Tinto Stadium
+2016-06-22,LA Galaxy,0,Colorado Rapids,0,StubHub Center
+2016-06-25,Seattle Sounders FC,0,New York City FC,2,CenturyLink Field
+2016-06-25,D.C. United,2,New England Revolution,0,RFK Stadium
+2016-06-25,Philadelphia Union,2,Vancouver Whitecaps FC,3,Talen Energy Stadium
+2016-06-25,Montreal Impact,2,Sporting Kansas City,2,Saputo Stadium
+2016-06-25,Columbus Crew SC,1,New York Red Bulls,1,MAPFRE Stadium
+2016-06-25,Orlando City SC,3,Toronto FC,2,Camping World Stadium
+2016-06-25,FC Dallas,2,Real Salt Lake,0,Toyota Stadium
+2016-06-25,San Jose Earthquakes,1,LA Galaxy,1,Stanford Stadium
+2016-06-26,Portland Timbers,3,Houston Dynamo,2,Providence Park
+2016-07-01,Chicago Fire,1,San Jose Earthquakes,0,Toyota Park
+2016-07-01,Real Salt Lake,1,D.C. United,1,Rio Tinto Stadium
+2016-07-02,Montreal Impact,3,New England Revolution,2,Saputo Stadium
+2016-07-02,Toronto FC,1,Seattle Sounders FC,1,BMO Field
+2016-07-02,Houston Dynamo,1,Philadelphia Union,0,BBVA Compass Stadium
+2016-07-03,New York City FC,2,New York Red Bulls,0,Yankee Stadium
+2016-07-03,Sporting Kansas City,3,Columbus Crew SC,2,Children's Mercy Park
+2016-07-04,FC Dallas,4,Orlando City SC,0,Toyota Stadium
+2016-07-04,Colorado Rapids,0,Portland Timbers,0,Dick's Sporting Goods Park
+2016-07-04,LA Galaxy,2,Vancouver Whitecaps FC,0,StubHub Center
+2016-07-06,New England Revolution,0,New York City FC,1,Gillette Stadium
+2016-07-08,Orlando City SC,0,Houston Dynamo,0,Camping World Stadium
+2016-07-08,San Jose Earthquakes,0,FC Dallas,1,Avaya Stadium
+2016-07-09,Seattle Sounders FC,0,LA Galaxy,1,CenturyLink Field
+2016-07-09,Philadelphia Union,3,D.C. United,0,Talen Energy Stadium
+2016-07-09,Toronto FC,1,Chicago Fire,0,BMO Field
+2016-07-09,New England Revolution,3,Columbus Crew SC,1,Gillette Stadium
+2016-07-09,Real Salt Lake,1,Montreal Impact,1,Rio Tinto Stadium
+2016-07-09,Vancouver Whitecaps FC,2,Colorado Rapids,2,BC Place
+2016-07-10,New York Red Bulls,0,Portland Timbers,0,Red Bull Arena
+2016-07-10,Sporting Kansas City,3,New York City FC,1,Children's Mercy Park
+2016-07-13,Columbus Crew SC,1,Toronto FC,1,MAPFRE Stadium
+2016-07-13,New York Red Bulls,2,Orlando City SC,0,Red Bull Arena
+2016-07-13,Chicago Fire,1,Sporting Kansas City,0,Toyota Park
+2016-07-13,Vancouver Whitecaps FC,2,Real Salt Lake,0,BC Place
+2016-07-13,Seattle Sounders FC,5,FC Dallas,0,CenturyLink Field
+2016-07-13,Portland Timbers,1,Montreal Impact,1,Providence Park
+2016-07-15,LA Galaxy,1,Houston Dynamo,0,StubHub Center
+2016-07-16,Columbus Crew SC,1,D.C. United,1,MAPFRE Stadium
+2016-07-16,FC Dallas,3,Chicago Fire,1,Toyota Stadium
+2016-07-16,Colorado Rapids,1,Sporting Kansas City,0,Dick's Sporting Goods Park
+2016-07-16,Real Salt Lake,0,New England Revolution,0,Rio Tinto Stadium
+2016-07-16,Vancouver Whitecaps FC,2,Orlando City SC,2,BC Place
+2016-07-16,San Jose Earthquakes,2,Toronto FC,1,Avaya Stadium
+2016-07-17,Portland Timbers,3,Seattle Sounders FC,1,Providence Park
+2016-07-17,Montreal Impact,1,New York City FC,3,Saputo Stadium
+2016-07-17,Philadelphia Union,2,New York Red Bulls,2,Talen Energy Stadium
+2016-07-22,Real Salt Lake,1,San Jose Earthquakes,1,Rio Tinto Stadium
+2016-07-23,Portland Timbers,1,LA Galaxy,2,Providence Park
+2016-07-23,Toronto FC,4,D.C. United,1,BMO Field
+2016-07-23,Columbus Crew SC,2,Orlando City SC,2,MAPFRE Stadium
+2016-07-23,New England Revolution,1,Chicago Fire,0,Gillette Stadium
+2016-07-23,Montreal Impact,5,Philadelphia Union,1,Saputo Stadium
+2016-07-23,Colorado Rapids,1,FC Dallas,1,Dick's Sporting Goods Park
+2016-07-23,Houston Dynamo,0,Vancouver Whitecaps FC,0,BBVA Compass Stadium
+2016-07-24,New York Red Bulls,4,New York City FC,1,Red Bull Arena
+2016-07-24,Sporting Kansas City,3,Seattle Sounders FC,0,Children's Mercy Park
+2016-07-30,New York City FC,5,Colorado Rapids,1,Yankee Stadium
+2016-07-31,Sporting Kansas City,1,Portland Timbers,0,Children's Mercy Park
+2016-07-31,Seattle Sounders FC,1,LA Galaxy,1,CenturyLink Field
+2016-07-31,FC Dallas,2,Vancouver Whitecaps FC,0,Toyota Stadium
+2016-07-31,D.C. United,1,Montreal Impact,1,RFK Stadium
+2016-07-31,Chicago Fire,2,New York Red Bulls,2,Toyota Park
+2016-07-31,Philadelphia Union,1,Real Salt Lake,2,Talen Energy Stadium
+2016-07-31,Toronto FC,3,Columbus Crew SC,0,BMO Field
+2016-07-31,Orlando City SC,3,New England Revolution,1,Camping World Stadium
+2016-07-31,Houston Dynamo,1,San Jose Earthquakes,1,BBVA Compass Stadium
+2016-08-03,Toronto FC,1,Real Salt Lake,0,BMO Field
+2016-08-05,San Jose Earthquakes,0,New York City FC,0,Avaya Stadium
+2016-08-06,D.C. United,2,Philadelphia Union,2,RFK Stadium
+2016-08-06,Toronto FC,4,New England Revolution,1,BMO Field
+2016-08-06,Montreal Impact,1,Houston Dynamo,0,Saputo Stadium
+2016-08-06,Colorado Rapids,2,Vancouver Whitecaps FC,0,Dick's Sporting Goods Park
+2016-08-06,Real Salt Lake,3,Chicago Fire,1,Rio Tinto Stadium
+2016-08-07,Portland Timbers,3,Sporting Kansas City,0,Providence Park
+2016-08-07,Orlando City SC,1,Seattle Sounders FC,3,Camping World Stadium
+2016-08-07,LA Galaxy,2,New York Red Bulls,2,StubHub Center
+2016-08-12,Vancouver Whitecaps FC,1,San Jose Earthquakes,2,BC Place
+2016-08-13,New York Red Bulls,3,Montreal Impact,1,Red Bull Arena
+2016-08-13,Columbus Crew SC,3,New York City FC,3,MAPFRE Stadium
+2016-08-13,New England Revolution,0,Philadelphia Union,4,Gillette Stadium
+2016-08-13,D.C. United,2,Portland Timbers,0,RFK Stadium
+2016-08-13,FC Dallas,2,Sporting Kansas City,2,Toyota Stadium
+2016-08-13,LA Galaxy,1,Colorado Rapids,1,StubHub Center
+2016-08-14,Chicago Fire,2,Orlando City SC,2,Toyota Park
+2016-08-14,Seattle Sounders FC,2,Real Salt Lake,1,CenturyLink Field
+2016-08-14,Houston Dynamo,1,Toronto FC,1,BBVA Compass Stadium
+2016-08-19,San Jose Earthquakes,1,Houston Dynamo,2,Avaya Stadium
+2016-08-20,New York City FC,1,LA Galaxy,0,Yankee Stadium
+2016-08-20,Philadelphia Union,1,Toronto FC,3,Talen Energy Stadium
+2016-08-20,Montreal Impact,0,Chicago Fire,3,Saputo Stadium
+2016-08-20,New England Revolution,0,Columbus Crew SC,2,Gillette Stadium
+2016-08-20,Colorado Rapids,0,Orlando City SC,0,Dick's Sporting Goods Park
+2016-08-20,Real Salt Lake,1,FC Dallas,0,Rio Tinto Stadium
+2016-08-20,Sporting Kansas City,2,Vancouver Whitecaps FC,0,Children's Mercy Park
+2016-08-21,D.C. United,2,New York Red Bulls,2,RFK Stadium
+2016-08-21,Seattle Sounders FC,3,Portland Timbers,1,CenturyLink Field
+2016-08-24,Orlando City SC,1,Toronto FC,2,Camping World Stadium
+2016-08-24,Montreal Impact,1,D.C. United,1,Saputo Stadium
+2016-08-24,Columbus Crew SC,1,Philadelphia Union,2,MAPFRE Stadium
+2016-08-24,Chicago Fire,2,LA Galaxy,2,Toyota Park
+2016-08-24,Houston Dynamo,1,Seattle Sounders FC,1,BBVA Compass Stadium
+2016-08-24,San Jose Earthquakes,0,New England Revolution,0,Avaya Stadium
+2016-08-26,Real Salt Lake,2,Colorado Rapids,1,Rio Tinto Stadium
+2016-08-27,D.C. United,6,Chicago Fire,2,RFK Stadium
+2016-08-27,Philadelphia Union,2,Sporting Kansas City,0,Talen Energy Stadium
+2016-08-27,Columbus Crew SC,2,San Jose Earthquakes,0,MAPFRE Stadium
+2016-08-27,Toronto FC,0,Montreal Impact,1,BMO Field
+2016-08-27,Houston Dynamo,1,FC Dallas,3,BBVA Compass Stadium
+2016-08-27,LA Galaxy,0,Vancouver Whitecaps FC,0,StubHub Center
+2016-08-28,New York Red Bulls,1,New England Revolution,0,Red Bull Arena
+2016-08-28,Portland Timbers,4,Seattle Sounders FC,2,Providence Park
+2016-08-28,Orlando City SC,2,New York City FC,1,Camping World Stadium
+2016-09-01,New York City FC,3,D.C. United,2,Yankee Stadium
+2016-09-03,Vancouver Whitecaps FC,0,New York Red Bulls,1,BC Place
+2016-09-03,New England Revolution,2,Colorado Rapids,0,Gillette Stadium
+2016-09-03,Chicago Fire,3,Philadelphia Union,0,Toyota Park
+2016-09-03,FC Dallas,3,Portland Timbers,1,Toyota Stadium
+2016-09-03,LA Galaxy,2,Columbus Crew SC,1,StubHub Center
+2016-09-07,Montreal Impact,1,Orlando City SC,4,Saputo Stadium
+2016-09-07,Real Salt Lake,3,LA Galaxy,3,Rio Tinto Stadium
+2016-09-09,Sporting Kansas City,3,Houston Dynamo,3,Children's Mercy Park
+2016-09-10,Columbus Crew SC,1,Vancouver Whitecaps FC,3,MAPFRE Stadium
+2016-09-10,Philadelphia Union,1,Montreal Impact,1,Talen Energy Stadium
+2016-09-10,New England Revolution,3,New York City FC,1,Gillette Stadium
+2016-09-10,Chicago Fire,1,Toronto FC,2,Toyota Park
+2016-09-10,FC Dallas,0,Colorado Rapids,1,Toyota Stadium
+2016-09-10,San Jose Earthquakes,1,Seattle Sounders FC,1,Avaya Stadium
+2016-09-10,Portland Timbers,1,Real Salt Lake,0,Providence Park
+2016-09-11,New York Red Bulls,2,D.C. United,2,Red Bull Arena
+2016-09-11,LA Galaxy,4,Orlando City SC,2,StubHub Center
+2016-09-16,Chicago Fire,2,D.C. United,2,Toyota Park
+2016-09-17,Seattle Sounders FC,1,Vancouver Whitecaps FC,0,CenturyLink Field
+2016-09-17,Portland Timbers,2,Philadelphia Union,1,Providence Park
+2016-09-17,New York City FC,2,FC Dallas,2,Yankee Stadium
+2016-09-17,Orlando City SC,1,Columbus Crew SC,4,Camping World Stadium
+2016-09-17,Montreal Impact,1,New England Revolution,3,Saputo Stadium
+2016-09-17,Colorado Rapids,0,San Jose Earthquakes,0,Dick's Sporting Goods Park
+2016-09-17,Real Salt Lake,0,Houston Dynamo,1,Rio Tinto Stadium
+2016-09-18,Sporting Kansas City,2,LA Galaxy,2,Children's Mercy Park
+2016-09-18,Toronto FC,3,New York Red Bulls,3,BMO Field
+2016-09-23,New York City FC,4,Chicago Fire,1,Yankee Stadium
+2016-09-24,Toronto FC,1,Philadelphia Union,1,BMO Field
+2016-09-24,D.C. United,4,Orlando City SC,1,RFK Stadium
+2016-09-24,Vancouver Whitecaps FC,3,Colorado Rapids,3,BC Place
+2016-09-24,New York Red Bulls,1,Montreal Impact,0,Red Bull Arena
+2016-09-24,Houston Dynamo,3,Portland Timbers,1,BBVA Compass Stadium
+2016-09-24,Real Salt Lake,0,FC Dallas,0,Rio Tinto Stadium
+2016-09-24,San Jose Earthquakes,1,Sporting Kansas City,2,Avaya Stadium
+2016-09-25,LA Galaxy,2,Seattle Sounders FC,4,StubHub Center
+2016-09-25,Columbus Crew SC,2,New England Revolution,0,MAPFRE Stadium
+2016-09-28,D.C. United,3,Columbus Crew SC,0,RFK Stadium
+2016-09-28,Montreal Impact,3,San Jose Earthquakes,1,Saputo Stadium
+2016-09-28,Toronto FC,0,Orlando City SC,0,BMO Field
+2016-09-28,Seattle Sounders FC,1,Chicago Fire,0,CenturyLink Field
+2016-09-30,Houston Dynamo,0,New York City FC,2,BBVA Compass Stadium
+2016-10-01,New York Red Bulls,3,Philadelphia Union,2,Red Bull Arena
+2016-10-01,Columbus Crew SC,3,Chicago Fire,0,MAPFRE Stadium
+2016-10-01,Toronto FC,1,D.C. United,2,BMO Field
+2016-10-01,New England Revolution,3,Sporting Kansas City,1,Gillette Stadium
+2016-10-01,FC Dallas,1,LA Galaxy,0,Toyota Stadium
+2016-10-01,Colorado Rapids,1,Portland Timbers,0,Dick's Sporting Goods Park
+2016-10-01,San Jose Earthquakes,2,Real Salt Lake,1,Avaya Stadium
+2016-10-02,Orlando City SC,0,Montreal Impact,1,Camping World Stadium
+2016-10-02,Vancouver Whitecaps FC,1,Seattle Sounders FC,2,BC Place
+2016-10-08,Houston Dynamo,,Colorado Rapids,,BBVA Compass Stadium
+2016-10-12,Seattle Sounders FC,,Houston Dynamo,,CenturyLink Field
+2016-10-13,Chicago Fire,,Columbus Crew SC,,Toyota Park
+2016-10-13,Colorado Rapids,,San Jose Earthquakes,,Dick's Sporting Goods Park
+2016-10-16,D.C. United,,New York City FC,,RFK Stadium
+2016-10-16,New York Red Bulls,,Columbus Crew SC,,Red Bull Arena
+2016-10-16,Chicago Fire,,New England Revolution,,Toyota Park
+2016-10-16,Montreal Impact,,Toronto FC,,Saputo Stadium
+2016-10-16,Philadelphia Union,,Orlando City SC,,Talen Energy Stadium
+2016-10-16,FC Dallas,,Seattle Sounders FC,,Toyota Stadium
+2016-10-16,Houston Dynamo,,LA Galaxy,,BBVA Compass Stadium
+2016-10-16,Real Salt Lake,,Sporting Kansas City,,Rio Tinto Stadium
+2016-10-16,San Jose Earthquakes,,Vancouver Whitecaps FC,,Avaya Stadium
+2016-10-16,Portland Timbers,,Colorado Rapids,,Providence Park
+2016-10-23,Sporting Kansas City,,San Jose Earthquakes,,Children's Mercy Park
+2016-10-23,Toronto FC,,Chicago Fire,,BMO Field
+2016-10-23,Vancouver Whitecaps FC,,Portland Timbers,,BC Place
+2016-10-23,LA Galaxy,,FC Dallas,,StubHub Center
+2016-10-23,Orlando City SC,,D.C. United,,Camping World Stadium
+2016-10-23,New England Revolution,,Montreal Impact,,Gillette Stadium
+2016-10-23,Seattle Sounders FC,,Real Salt Lake,,CenturyLink Field
+2016-10-23,Philadelphia Union,,New York Red Bulls,,Talen Energy Stadium
+2016-10-23,Colorado Rapids,,Houston Dynamo,,Dick's Sporting Goods Park
+2016-10-23,New York City FC,,Columbus Crew SC,,Yankee Stadium

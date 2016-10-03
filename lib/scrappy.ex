@@ -14,14 +14,12 @@ defmodule Scrappy do
         true        -> build_url(year)
       end
 
-      Scrappy.scrape(url, ".match_item > .match_click_area")
-      |> write_csv
+      Scrappy.scrape(url) |> write_csv
     end
 
-    defp write_csv(results) do
-      IO.puts "home,home_score,away,away_score,venue\n"
-
-      results |> Enum.each(&IO.puts(&1))
+    defp write_csv(games) do
+      IO.puts "date,home,home_score,away,away_score,venue"
+      IO.puts games
     end
 
     defp build_url(year) do
@@ -29,35 +27,48 @@ defmodule Scrappy do
     end
   end
 
-  def scrape(url, selector) do
-    fetch(url)
-    |> Floki.find(selector)
-    |> Enum.map(&(parse_game(&1)))
+  def scrape(url) do
+    HTTPoison.get!(url, [], [timeout: :infinity, recv_timeout: :infinity])
+    |> get_fixtures
+    |> parse_games
+    |> Enum.join("\n")
   end
 
-  defp fetch(url) do
-    case HTTPoison.get(url) do
-      {:ok, %HTTPoison.Response{status_code: 200, body: body}} ->
-        body
-      {:error, %HTTPoison.Error{reason: reason}} ->
-        IO.inspect reason
-        nil
+  defp get_fixtures(response) do
+    Floki.find(response.body, "ul.schedule_list li.row")
+  end
+
+  defp parse_games(games, old_date \\ nil, acc \\ [])
+  defp parse_games([], _old_date, acc), do: Enum.reverse(acc)
+  defp parse_games([game | rest], old_date, acc) do
+    new_date = text(game, ".match_date")
+
+    if is_nil(new_date) do
+      parse_games(rest, old_date, [to_csv(game, old_date) | acc])
+    else
+      new_date = Timex.parse!(new_date, "%A, %B %e, %Y", :strftime)
+        |> Timex.format!("{YYYY}-{0M}-{0D}")
+
+      parse_games(rest, new_date, [to_csv(game, new_date) | acc])
     end
   end
 
-  defp parse_game(game_div) do
+  defp to_csv(game_div, date) do
     home       = game_div |> text(".home_club .club_name")
     home_score = game_div |> text(".home_club .match_score")
     away       = game_div |> text(".vs_club   .club_name")
     away_score = game_div |> text(".vs_club   .match_score")
     [_, venue] = game_div
-                 |> text(".match_location_competition")
-                 |> String.split(" / ")
+      |> text(".match_location_competition")
+      |> String.split(" / ")
 
-    "#{home},#{home_score},#{away},#{away_score},#{venue}"
+    "#{date},#{home},#{home_score},#{away},#{away_score},#{venue}"
   end
 
   defp text(content, selector) do
-    Floki.find(content, selector) |> Floki.text
+    case Floki.find(content, selector) |> Floki.text do
+      ""       -> nil
+      presence -> presence
+    end
   end
 end

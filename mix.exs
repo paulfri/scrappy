@@ -12,13 +12,15 @@ defmodule Scrappy.Mixfile do
   end
 
   def application do
-    [applications: [:logger, :httpoison]]
+    [applications: [:logger, :httpoison, :timex]]
   end
 
   defp deps do
     [
       {:httpoison, "~> 0.9.0"},
-      {:floki, "~> 0.10.1"}
+      {:floki, "~> 0.10.1"},
+      {:timex, "~> 3.0"},
+      {:tzdata, "== 0.1.8", override: true}
     ]
   end
 end

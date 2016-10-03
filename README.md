@@ -1,24 +1,20 @@
 # Scrappy
 
-**TODO: Add description**
+This is a scraper I wrote to get historical MLS game data from mlssoccer.com. It
+may or may not work if the layout of their page ever changes.
 
-## Installation
+The output is in the `data/` directory, e.g., results from the [1996
+season](https://github.com/paulfri/scrappy/blob/master/data/1996.csv). Somewhat
+hilariously, MLS preserved the names of the original stadiums, but not for teams
+that have had more than one name (RBNY, SJ, SKC, FC Dallas, etc).
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+I didn't bother filtering for full-time results, so if you run this during the
+middle of a game, it will show the score in progress.
 
-  1. Add `scrappy` to your list of dependencies in `mix.exs`:
+## Usage
 
-    ```elixir
-    def deps do
-      [{:scrappy, "~> 0.1.0"}]
-    end
-    ```
+Bundled as an escript, so requires an Elixir installation.
 
-  2. Ensure `scrappy` is started before your application:
-
-    ```elixir
-    def application do
-      [applications: [:scrappy]]
-    end
-    ```
-
+```
+./bin/scrappy --year 2016
+```

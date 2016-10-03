@@ -1,0 +1,161 @@
+date,home,home_score,away,away_score,venue
+1996-04-06,San Jose Earthquakes,1,D.C. United,0,Spartan Stadium
+1996-04-13,LA Galaxy,2,New York Red Bulls,1,Rose Bowl
+1996-04-13,Tampa Bay Mutiny,3,New England Revolution,2,Houlihan's Stadium
+1996-04-13,Columbus Crew SC,4,D.C. United,0,Ohio Stadium
+1996-04-13,Sporting Kansas City,3,Colorado Rapids,0,Arrowhead Stadium
+1996-04-14,FC Dallas,1,San Jose Earthquakes,0,Cotton Bowl
+1996-04-18,FC Dallas,3,Sporting Kansas City,0,Cotton Bowl
+1996-04-20,D.C. United,1,LA Galaxy,2,RFK Stadium
+1996-04-20,Columbus Crew SC,1,Tampa Bay Mutiny,2,Ohio Stadium
+1996-04-20,New York Red Bulls,0,New England Revolution,1,Giants Stadium
+1996-04-21,Colorado Rapids,3,FC Dallas,1,Mile High Stadium
+1996-04-21,San Jose Earthquakes,2,Sporting Kansas City,3,Spartan Stadium
+1996-04-27,New York Red Bulls,0,Columbus Crew SC,2,Giants Stadium
+1996-04-27,New England Revolution,2,D.C. United,1,Foxboro Stadium
+1996-04-28,Tampa Bay Mutiny,1,FC Dallas,2,Houlihan's Stadium
+1996-04-28,LA Galaxy,2,San Jose Earthquakes,1,Rose Bowl
+1996-05-01,D.C. United,3,FC Dallas,1,RFK Stadium
+1996-05-02,Sporting Kansas City,6,Columbus Crew SC,4,Arrowhead Stadium
+1996-05-04,New York Red Bulls,4,Tampa Bay Mutiny,3,Giants Stadium
+1996-05-04,New England Revolution,1,San Jose Earthquakes,2,Foxboro Stadium
+1996-05-05,FC Dallas,1,Columbus Crew SC,0,Cotton Bowl
+1996-05-05,Colorado Rapids,4,Sporting Kansas City,0,Mile High Stadium
+1996-05-05,LA Galaxy,3,D.C. United,1,Rose Bowl
+1996-05-08,San Jose Earthquakes,3,Colorado Rapids,1,Spartan Stadium
+1996-05-08,Tampa Bay Mutiny,2,Sporting Kansas City,0,Houlihan's Stadium
+1996-05-11,Colorado Rapids,1,Tampa Bay Mutiny,2,Mile High Stadium
+1996-05-11,Columbus Crew SC,3,New England Revolution,2,Ohio Stadium
+1996-05-11,Sporting Kansas City,2,FC Dallas,3,Arrowhead Stadium
+1996-05-12,D.C. United,1,New York Red Bulls,2,RFK Stadium
+1996-05-12,San Jose Earthquakes,1,LA Galaxy,2,Spartan Stadium
+1996-05-15,D.C. United,5,Columbus Crew SC,2,RFK Stadium
+1996-05-16,New York Red Bulls,3,Colorado Rapids,0,Giants Stadium
+1996-05-18,Tampa Bay Mutiny,3,San Jose Earthquakes,2,Houlihan's Stadium
+1996-05-18,FC Dallas,3,D.C. United,2,Cotton Bowl
+1996-05-19,New England Revolution,2,New York Red Bulls,0,Foxboro Stadium
+1996-05-19,Columbus Crew SC,2,Colorado Rapids,4,Ohio Stadium
+1996-05-19,LA Galaxy,2,Sporting Kansas City,0,Rose Bowl
+1996-05-22,Sporting Kansas City,2,New York Red Bulls,1,Arrowhead Stadium
+1996-05-23,FC Dallas,0,Tampa Bay Mutiny,1,Cotton Bowl
+1996-05-25,New England Revolution,3,Colorado Rapids,2,Foxboro Stadium
+1996-05-26,LA Galaxy,3,Columbus Crew SC,2,Rose Bowl
+1996-05-29,San Jose Earthquakes,2,Sporting Kansas City,1,Spartan Stadium
+1996-05-29,Colorado Rapids,2,FC Dallas,0,Mile High Stadium
+1996-05-30,New York Red Bulls,1,D.C. United,2,Giants Stadium
+1996-06-01,San Jose Earthquakes,3,Columbus Crew SC,2,Spartan Stadium
+1996-06-01,Tampa Bay Mutiny,1,LA Galaxy,2,Houlihan's Stadium
+1996-06-01,Sporting Kansas City,2,New England Revolution,1,Arrowhead Stadium
+1996-06-02,FC Dallas,0,New York Red Bulls,1,Cotton Bowl
+1996-06-02,Colorado Rapids,2,D.C. United,3,Mile High Stadium
+1996-06-05,D.C. United,3,San Jose Earthquakes,1,RFK Stadium
+1996-06-05,Sporting Kansas City,1,Tampa Bay Mutiny,3,Arrowhead Stadium
+1996-06-06,New England Revolution,2,LA Galaxy,3,Foxboro Stadium
+1996-06-08,Columbus Crew SC,3,Sporting Kansas City,4,Ohio Stadium
+1996-06-08,FC Dallas,4,San Jose Earthquakes,1,Cotton Bowl
+1996-06-08,Tampa Bay Mutiny,2,Colorado Rapids,1,Houlihan's Stadium
+1996-06-09,New York Red Bulls,0,LA Galaxy,4,Giants Stadium
+1996-06-15,New England Revolution,2,Sporting Kansas City,1,Foxboro Stadium
+1996-06-15,FC Dallas,2,Colorado Rapids,1,Cotton Bowl
+1996-06-16,New York Red Bulls,0,San Jose Earthquakes,1,Giants Stadium
+1996-06-16,LA Galaxy,3,Tampa Bay Mutiny,2,Rose Bowl
+1996-06-19,New York Red Bulls,1,FC Dallas,0,Giants Stadium
+1996-06-19,Columbus Crew SC,2,Colorado Rapids,3,Ohio Stadium
+1996-06-20,Sporting Kansas City,5,D.C. United,1,Arrowhead Stadium
+1996-06-22,Tampa Bay Mutiny,3,Columbus Crew SC,4,Houlihan's Stadium
+1996-06-23,New England Revolution,1,FC Dallas,4,Foxboro Stadium
+1996-06-23,San Jose Earthquakes,2,D.C. United,1,Spartan Stadium
+1996-06-26,LA Galaxy,3,Colorado Rapids,1,Rose Bowl
+1996-06-26,New York Red Bulls,2,Sporting Kansas City,0,Giants Stadium
+1996-06-27,New England Revolution,1,Columbus Crew SC,2,Foxboro Stadium
+1996-06-29,FC Dallas,0,Sporting Kansas City,1,Cotton Bowl
+1996-06-30,Columbus Crew SC,0,New York Red Bulls,4,Ohio Stadium
+1996-06-30,D.C. United,3,New England Revolution,1,RFK Stadium
+1996-06-30,Colorado Rapids,2,LA Galaxy,1,Mile High Stadium
+1996-06-30,San Jose Earthquakes,4,Tampa Bay Mutiny,0,Spartan Stadium
+1996-07-04,LA Galaxy,0,New England Revolution,1,Rose Bowl
+1996-07-04,Tampa Bay Mutiny,4,Columbus Crew SC,1,Houlihan's Stadium
+1996-07-04,FC Dallas,2,D.C. United,1,Cotton Bowl
+1996-07-04,Colorado Rapids,3,New York Red Bulls,1,Mile High Stadium
+1996-07-06,San Jose Earthquakes,1,New England Revolution,2,Spartan Stadium
+1996-07-06,Sporting Kansas City,3,LA Galaxy,1,Arrowhead Stadium
+1996-07-07,Colorado Rapids,2,Columbus Crew SC,1,Mile High Stadium
+1996-07-07,D.C. United,6,FC Dallas,1,RFK Stadium
+1996-07-10,New York Red Bulls,3,FC Dallas,2,Giants Stadium
+1996-07-10,Sporting Kansas City,2,Colorado Rapids,0,Arrowhead Stadium
+1996-07-11,Columbus Crew SC,1,New England Revolution,2,Ohio Stadium
+1996-07-12,D.C. United,1,Tampa Bay Mutiny,0,RFK Stadium
+1996-07-17,FC Dallas,5,LA Galaxy,2,Cotton Bowl
+1996-07-17,Colorado Rapids,1,San Jose Earthquakes,2,Mile High Stadium
+1996-07-18,Tampa Bay Mutiny,3,Sporting Kansas City,2,Houlihan's Stadium
+1996-07-20,New England Revolution,2,D.C. United,0,Foxboro Stadium
+1996-07-20,Columbus Crew SC,3,San Jose Earthquakes,4,Ohio Stadium
+1996-07-20,Sporting Kansas City,1,FC Dallas,2,Arrowhead Stadium
+1996-07-21,Colorado Rapids,1,Tampa Bay Mutiny,3,Mile High Stadium
+1996-07-21,LA Galaxy,3,New York Red Bulls,0,Rose Bowl
+1996-07-24,Colorado Rapids,2,New England Revolution,0,Mile High Stadium
+1996-07-24,San Jose Earthquakes,0,New York Red Bulls,1,Spartan Stadium
+1996-07-25,Columbus Crew SC,1,Tampa Bay Mutiny,0,Ohio Stadium
+1996-07-27,Tampa Bay Mutiny,4,LA Galaxy,3,Houlihan's Stadium
+1996-07-27,FC Dallas,3,Colorado Rapids,0,Cotton Bowl
+1996-07-27,Sporting Kansas City,4,New England Revolution,2,Arrowhead Stadium
+1996-07-28,New York Red Bulls,4,San Jose Earthquakes,1,Giants Stadium
+1996-07-28,D.C. United,2,Columbus Crew SC,0,RFK Stadium
+1996-07-31,Columbus Crew SC,1,FC Dallas,2,Ohio Stadium
+1996-07-31,D.C. United,2,Sporting Kansas City,3,RFK Stadium
+1996-07-31,New England Revolution,2,San Jose Earthquakes,0,Foxboro Stadium
+1996-08-01,Colorado Rapids,2,LA Galaxy,3,Mile High Stadium
+1996-08-03,New England Revolution,2,New York Red Bulls,1,Foxboro Stadium
+1996-08-03,Tampa Bay Mutiny,3,Colorado Rapids,1,Houlihan's Stadium
+1996-08-04,D.C. United,2,Sporting Kansas City,4,RFK Stadium
+1996-08-04,LA Galaxy,1,Columbus Crew SC,2,Rose Bowl
+1996-08-07,Tampa Bay Mutiny,1,D.C. United,3,Houlihan's Stadium
+1996-08-07,Colorado Rapids,4,Sporting Kansas City,2,Mile High Stadium
+1996-08-08,LA Galaxy,1,New England Revolution,0,Rose Bowl
+1996-08-10,Columbus Crew SC,3,D.C. United,2,Ohio Stadium
+1996-08-10,FC Dallas,2,Tampa Bay Mutiny,1,Cotton Bowl
+1996-08-11,Sporting Kansas City,3,LA Galaxy,2,Arrowhead Stadium
+1996-08-11,Colorado Rapids,0,New York Red Bulls,2,Mile High Stadium
+1996-08-11,San Jose Earthquakes,6,New England Revolution,1,Spartan Stadium
+1996-08-14,New York Red Bulls,4,New England Revolution,0,Giants Stadium
+1996-08-14,FC Dallas,2,Columbus Crew SC,3,Cotton Bowl
+1996-08-15,Sporting Kansas City,4,San Jose Earthquakes,1,Arrowhead Stadium
+1996-08-16,New England Revolution,2,Colorado Rapids,0,Foxboro Stadium
+1996-08-17,Tampa Bay Mutiny,3,New York Red Bulls,1,Houlihan's Stadium
+1996-08-18,Columbus Crew SC,2,San Jose Earthquakes,0,Ohio Stadium
+1996-08-18,D.C. United,2,LA Galaxy,1,RFK Stadium
+1996-08-21,LA Galaxy,1,Sporting Kansas City,2,Rose Bowl
+1996-08-21,New York Red Bulls,2,D.C. United,3,Giants Stadium
+1996-08-21,New England Revolution,4,Tampa Bay Mutiny,2,Foxboro Stadium
+1996-08-22,San Jose Earthquakes,1,FC Dallas,0,Spartan Stadium
+1996-08-24,Columbus Crew SC,2,Sporting Kansas City,1,Ohio Stadium
+1996-08-25,D.C. United,3,Tampa Bay Mutiny,0,RFK Stadium
+1996-08-25,San Jose Earthquakes,1,Colorado Rapids,0,Spartan Stadium
+1996-08-25,LA Galaxy,2,FC Dallas,3,Rose Bowl
+1996-08-28,Columbus Crew SC,2,LA Galaxy,0,Ohio Stadium
+1996-08-29,Colorado Rapids,1,D.C. United,2,Mile High Stadium
+1996-08-31,Tampa Bay Mutiny,3,New England Revolution,1,Houlihan's Stadium
+1996-09-01,Sporting Kansas City,3,New York Red Bulls,2,Arrowhead Stadium
+1996-09-01,San Jose Earthquakes,1,LA Galaxy,2,Spartan Stadium
+1996-09-04,New York Red Bulls,0,Tampa Bay Mutiny,2,Giants Stadium
+1996-09-04,New England Revolution,2,FC Dallas,1,Foxboro Stadium
+1996-09-05,LA Galaxy,0,Colorado Rapids,1,Rose Bowl
+1996-09-06,D.C. United,1,New York Red Bulls,2,RFK Stadium
+1996-09-07,Sporting Kansas City,1,Columbus Crew SC,5,Arrowhead Stadium
+1996-09-07,FC Dallas,0,New England Revolution,2,Cotton Bowl
+1996-09-08,Colorado Rapids,1,San Jose Earthquakes,3,Mile High Stadium
+1996-09-10,New York Red Bulls,3,LA Galaxy,1,Giants Stadium
+1996-09-11,San Jose Earthquakes,2,FC Dallas,3,Spartan Stadium
+1996-09-12,New England Revolution,1,Tampa Bay Mutiny,2,Foxboro Stadium
+1996-09-14,Tampa Bay Mutiny,2,D.C. United,0,Houlihan's Stadium
+1996-09-15,Columbus Crew SC,2,New York Red Bulls,0,Ohio Stadium
+1996-09-15,LA Galaxy,4,San Jose Earthquakes,2,Rose Bowl
+1996-09-17,D.C. United,3,New England Revolution,2,RFK Stadium
+1996-09-18,San Jose Earthquakes,1,Tampa Bay Mutiny,2,Spartan Stadium
+1996-09-18,New York Red Bulls,1,Columbus Crew SC,0,Giants Stadium
+1996-09-19,FC Dallas,1,LA Galaxy,2,Cotton Bowl
+1996-09-21,New England Revolution,0,Columbus Crew SC,1,Foxboro Stadium
+1996-09-21,D.C. United,3,Colorado Rapids,1,RFK Stadium
+1996-09-21,Tampa Bay Mutiny,4,New York Red Bulls,1,Houlihan's Stadium
+1996-09-21,Sporting Kansas City,0,San Jose Earthquakes,1,Arrowhead Stadium
+1996-09-22,LA Galaxy,2,FC Dallas,1,Rose Bowl

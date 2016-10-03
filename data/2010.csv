@@ -1,0 +1,241 @@
+date,home,home_score,away,away_score,venue
+2010-03-25,Seattle Sounders FC,2,Philadelphia Union,0,Qwest Field
+2010-03-26,CD Chivas USA,0,Colorado Rapids,1,The Home Depot Center
+2010-03-27,Columbus Crew SC,2,Toronto FC,0,Columbus Crew Stadium
+2010-03-27,FC Dallas,1,Houston Dynamo,1,Pizza Hut Park
+2010-03-27,New York Red Bulls,1,Chicago Fire,0,Red Bull Arena
+2010-03-27,Sporting Kansas City,4,D.C. United,0,CommunityAmerica Ballpark
+2010-03-27,San Jose Earthquakes,0,Real Salt Lake,3,Buck Shaw Stadium
+2010-03-27,LA Galaxy,1,New England Revolution,0,The Home Depot Center
+2010-04-01,Houston Dynamo,2,Real Salt Lake,1,Robertson Stadium
+2010-04-01,LA Galaxy,2,CD Chivas USA,0,The Home Depot Center
+2010-04-03,Colorado Rapids,2,Chicago Fire,2,Dick's Sporting Goods Park
+2010-04-03,D.C. United,0,New England Revolution,2,RFK Stadium
+2010-04-03,Seattle Sounders FC,0,New York Red Bulls,1,Qwest Field
+2010-04-10,CD Chivas USA,2,New York Red Bulls,0,The Home Depot Center
+2010-04-10,Philadelphia Union,3,D.C. United,2,Lincoln Financial Field
+2010-04-10,New England Revolution,4,Toronto FC,1,Gillette Stadium
+2010-04-10,Chicago Fire,1,San Jose Earthquakes,2,Toyota Park
+2010-04-10,FC Dallas,2,Columbus Crew SC,2,Pizza Hut Park
+2010-04-10,Houston Dynamo,0,LA Galaxy,2,Robertson Stadium
+2010-04-10,Sporting Kansas City,1,Colorado Rapids,0,CommunityAmerica Ballpark
+2010-04-10,Real Salt Lake,2,Seattle Sounders FC,2,Rio Tinto Stadium
+2010-04-15,Toronto FC,2,Philadelphia Union,1,BMO Field
+2010-04-17,Seattle Sounders FC,1,Sporting Kansas City,0,Qwest Field
+2010-04-17,Houston Dynamo,3,CD Chivas USA,0,Robertson Stadium
+2010-04-17,New York Red Bulls,2,FC Dallas,1,Red Bull Arena
+2010-04-17,D.C. United,0,Chicago Fire,2,RFK Stadium
+2010-04-17,San Jose Earthquakes,2,New England Revolution,0,Buck Shaw Stadium
+2010-04-17,LA Galaxy,2,Real Salt Lake,1,The Home Depot Center
+2010-04-18,Colorado Rapids,3,Toronto FC,1,Dick's Sporting Goods Park
+2010-04-22,FC Dallas,2,Seattle Sounders FC,2,Pizza Hut Park
+2010-04-24,New York Red Bulls,2,Philadelphia Union,1,Red Bull Arena
+2010-04-24,Columbus Crew SC,1,Real Salt Lake,0,Columbus Crew Stadium
+2010-04-24,New England Revolution,1,Colorado Rapids,2,Gillette Stadium
+2010-04-24,Chicago Fire,2,Houston Dynamo,0,Toyota Park
+2010-04-24,Sporting Kansas City,0,LA Galaxy,0,CommunityAmerica Ballpark
+2010-04-24,CD Chivas USA,3,San Jose Earthquakes,2,The Home Depot Center
+2010-04-25,Toronto FC,2,Seattle Sounders FC,0,BMO
+2010-05-01,D.C. United,0,New York Red Bulls,2,RFK Stadium
+2010-05-01,New England Revolution,1,FC Dallas,1,Gillette Stadium
+2010-05-01,Chicago Fire,1,CD Chivas USA,1,Toyota Park
+2010-05-01,Houston Dynamo,3,Sporting Kansas City,0,Robertson Stadium
+2010-05-01,Real Salt Lake,2,Toronto FC,1,Rio Tinto Stadium
+2010-05-01,San Jose Earthquakes,1,Colorado Rapids,0,Buck Shaw Stadium
+2010-05-01,Seattle Sounders FC,1,Columbus Crew SC,1,Qwest Field
+2010-05-01,LA Galaxy,3,Philadelphia Union,1,The Home Depot Center
+2010-05-05,D.C. United,2,Sporting Kansas City,1,RFK Stadium
+2010-05-05,New England Revolution,0,CD Chivas USA,4,Gillette Stadium
+2010-05-05,Houston Dynamo,0,FC Dallas,1,Robertson Stadium
+2010-05-05,Colorado Rapids,0,LA Galaxy,1,Dick's Sporting Goods Park
+2010-05-08,Real Salt Lake,3,Philadelphia Union,0,Rio Tinto Stadium
+2010-05-08,Toronto FC,4,Chicago Fire,1,BMO Field
+2010-05-08,Seattle Sounders FC,0,LA Galaxy,4,Qwest Field
+2010-05-08,Columbus Crew SC,3,New England Revolution,2,Columbus Crew Stadium
+2010-05-08,FC Dallas,1,D.C. United,0,Pizza Hut Park
+2010-05-08,San Jose Earthquakes,4,New York Red Bulls,0,Buck Shaw Stadium
+2010-05-08,CD Chivas USA,0,Houston Dynamo,2,The Home Depot Center
+2010-05-13,Real Salt Lake,3,Houston Dynamo,1,Rio Tinto Stadium
+2010-05-15,Philadelphia Union,1,FC Dallas,1,Lincoln Financial Field
+2010-05-15,New England Revolution,0,San Jose Earthquakes,0,Gillette Stadium
+2010-05-15,Columbus Crew SC,1,CD Chivas USA,0,Columbus Crew Stadium
+2010-05-15,D.C. United,0,Colorado Rapids,1,RFK Stadium
+2010-05-15,New York Red Bulls,0,Seattle Sounders FC,1,Red Bull Arena
+2010-05-15,Sporting Kansas City,2,Chicago Fire,2,CommunityAmerica Ballpark
+2010-05-15,LA Galaxy,0,Toronto FC,0,The Home Depot Center
+2010-05-20,New York Red Bulls,1,Columbus Crew SC,3,Red Bull Arena
+2010-05-20,FC Dallas,0,LA Galaxy,1,Pizza Hut Park
+2010-05-22,Toronto FC,1,New England Revolution,0,BMO Field
+2010-05-22,Seattle Sounders FC,0,San Jose Earthquakes,1,Qwest Field
+2010-05-22,Houston Dynamo,2,D.C. United,0,Robertson Stadium
+2010-05-22,CD Chivas USA,1,Real Salt Lake,2,Home Depot Center
+2010-05-23,Sporting Kansas City,0,Columbus Crew SC,1,CommunityAmerica Ballpark
+2010-05-27,Chicago Fire,1,FC Dallas,1,Toyota Park
+2010-05-29,Columbus Crew SC,0,LA Galaxy,2,Crew Stadium
+2010-05-29,D.C. United,3,CD Chivas USA,2,RFK Stadium
+2010-05-29,New England Revolution,3,New York Red Bulls,2,Gillette Stadium
+2010-05-29,Houston Dynamo,2,Philadelphia Union,3,Robertson Stadium
+2010-05-29,Real Salt Lake,4,Sporting Kansas City,1,Rio Tinto Stadium
+2010-05-29,Colorado Rapids,1,Seattle Sounders FC,0,Dick's Sporting Goods Park
+2010-05-29,San Jose Earthquakes,1,Toronto FC,3,Buck Shaw Stadium
+2010-06-02,New York Red Bulls,2,Houston Dynamo,1,Red Bull Arena
+2010-06-02,San Jose Earthquakes,2,Columbus Crew SC,2,Buck Shaw Stadium
+2010-06-05,Toronto FC,0,Sporting Kansas City,0,BMO Field
+2010-06-05,D.C. United,0,Real Salt Lake,0,RFK Stadium
+2010-06-05,New York Red Bulls,1,CD Chivas USA,0,Red Bull Arena
+2010-06-05,LA Galaxy,4,Houston Dynamo,1,The Home Depot Center
+2010-06-05,Chicago Fire,2,Philadelphia Union,1,Toyota Park
+2010-06-05,FC Dallas,2,San Jose Earthquakes,0,Pizza Hut Park
+2010-06-05,Colorado Rapids,1,Columbus Crew SC,0,Dick's Sporting Goods Park
+2010-06-05,Seattle Sounders FC,3,New England Revolution,0,Qwest Field
+2010-06-09,Chicago Fire,2,Colorado Rapids,2,Toyota Park
+2010-06-09,Real Salt Lake,1,LA Galaxy,0,Rio Tinto Stadium
+2010-06-10,Sporting Kansas City,2,Philadelphia Union,0,CommunityAmerica Ballpark
+2010-06-10,Seattle Sounders FC,2,D.C. United,3,Qwest Field
+2010-06-25,Real Salt Lake,0,San Jose Earthquakes,0,Rio Tinto Stadium
+2010-06-26,Toronto FC,0,LA Galaxy,0,BMO Field
+2010-06-26,Columbus Crew SC,2,D.C. United,0,Columbus Crew Stadium
+2010-06-26,Houston Dynamo,2,Colorado Rapids,2,Robertson Stadium
+2010-06-26,Sporting Kansas City,0,New York Red Bulls,3,CommunityAmerica Ballpark
+2010-06-26,CD Chivas USA,1,FC Dallas,2,The Home Depot Center
+2010-06-27,Philadelphia Union,3,Seattle Sounders FC,1,Talen Energy Stadium
+2010-06-27,New England Revolution,0,Chicago Fire,1,Gillette Stadium
+2010-07-01,Toronto FC,1,Houston Dynamo,1,BMO Field
+2010-07-02,Real Salt Lake,5,New England Revolution,0,Rio Tinto Stadium
+2010-07-03,Columbus Crew SC,2,Chicago Fire,1,Columbus Crew Stadium
+2010-07-03,FC Dallas,1,Sporting Kansas City,0,Pizza Hut Park
+2010-07-03,San Jose Earthquakes,1,D.C. United,1,Buck Shaw Stadium
+2010-07-03,CD Chivas USA,1,Philadelphia Union,1,Home Depot Center
+2010-07-04,Colorado Rapids,1,New York Red Bulls,1,Dick's Sporting Goods Park
+2010-07-04,LA Galaxy,3,Seattle Sounders FC,1,The Home Depot Center
+2010-07-08,Chicago Fire,0,Real Salt Lake,1,Toyota Park
+2010-07-10,Toronto FC,1,Colorado Rapids,0,BMO Field
+2010-07-10,Philadelphia Union,1,San Jose Earthquakes,2,Lincoln Financial Field
+2010-07-10,New England Revolution,2,LA Galaxy,0,Gillette Stadium
+2010-07-10,New York Red Bulls,0,D.C. United,0,Red Bull Arena
+2010-07-10,Houston Dynamo,0,Columbus Crew SC,0,Robertson Stadium
+2010-07-10,Sporting Kansas City,0,CD Chivas USA,2,CommunityAmerica Ballpark
+2010-07-11,Seattle Sounders FC,1,FC Dallas,1,Qwest Field
+2010-07-14,Columbus Crew SC,0,Sporting Kansas City,1,Columbus Crew Stadium
+2010-07-15,D.C. United,0,Seattle Sounders FC,1,RFK Stadium
+2010-07-17,Philadelphia Union,2,Toronto FC,1,Talen Energy Stadium
+2010-07-17,Columbus Crew SC,2,New York Red Bulls,0,Columbus Crew Stadium
+2010-07-17,FC Dallas,2,Real Salt Lake,0,Pizza Hut Park
+2010-07-17,Colorado Rapids,1,Sporting Kansas City,1,Dick's Sporting Goods Park
+2010-07-18,D.C. United,1,LA Galaxy,2,RFK Stadium
+2010-07-22,LA Galaxy,2,San Jose Earthquakes,2,The Home Depot Center
+2010-07-24,Toronto FC,1,FC Dallas,1,BMO Field
+2010-07-24,Columbus Crew SC,3,Houston Dynamo,0,Columbus Crew Stadium
+2010-07-24,Real Salt Lake,1,CD Chivas USA,1,Rio Tinto Stadium
+2010-07-25,Seattle Sounders FC,2,Colorado Rapids,1,Qwest Field
+2010-07-31,Philadelphia Union,1,New England Revolution,1,Talen Energy Stadium
+2010-07-31,Colorado Rapids,1,FC Dallas,1,Dick's Sporting Goods Park
+2010-07-31,Houston Dynamo,2,New York Red Bulls,2,Robertson Stadium
+2010-07-31,Sporting Kansas City,1,Toronto FC,0,CommunityAmerica Ballpark
+2010-07-31,Real Salt Lake,3,D.C. United,0,Rio Tinto Stadium
+2010-07-31,San Jose Earthquakes,0,Seattle Sounders FC,1,Buck Shaw Stadium
+2010-07-31,CD Chivas USA,3,Columbus Crew SC,1,The Home Depot Center
+2010-08-01,LA Galaxy,2,Chicago Fire,3,The Home Depot Center
+2010-08-05,Philadelphia Union,1,Columbus Crew SC,2,Talen Energy Stadium
+2010-08-07,Toronto FC,2,CD Chivas USA,1,BMO Field
+2010-08-07,New England Revolution,1,D.C. United,0,Gillette Stadium
+2010-08-07,Sporting Kansas City,1,Real Salt Lake,1,CommunityAmerica Ballpark
+2010-08-07,Colorado Rapids,1,San Jose Earthquakes,0,Dick's Sporting Goods Park
+2010-08-08,FC Dallas,3,Philadelphia Union,1,Pizza Hut Park
+2010-08-08,Chicago Fire,0,New York Red Bulls,0,Toyota Park
+2010-08-08,Seattle Sounders FC,2,Houston Dynamo,0,Qwest Field
+2010-08-11,New York Red Bulls,1,Toronto FC,0,Red Bull Arena
+2010-08-11,Philadelphia Union,1,Real Salt Lake,1,Talen Energy Stadium
+2010-08-14,Philadelphia Union,1,Colorado Rapids,1,Talen Energy Stadium
+2010-08-14,New York Red Bulls,0,LA Galaxy,1,Red Bull Arena
+2010-08-14,D.C. United,1,FC Dallas,3,RFK Stadium
+2010-08-14,New England Revolution,1,Houston Dynamo,0,Gillette Stadium
+2010-08-14,Real Salt Lake,2,Columbus Crew SC,0,Rio Tinto Stadium
+2010-08-14,San Jose Earthquakes,1,Sporting Kansas City,0,Buck Shaw Stadium
+2010-08-14,CD Chivas USA,0,Seattle Sounders FC,0,The Home Depot Center
+2010-08-18,Chicago Fire,2,New England Revolution,1,Toyota Park
+2010-08-21,Toronto FC,1,New York Red Bulls,4,BMO Field
+2010-08-21,San Jose Earthquakes,1,LA Galaxy,0,Buck Shaw Stadium
+2010-08-21,Columbus Crew SC,3,Colorado Rapids,1,Columbus Crew Stadium
+2010-08-21,FC Dallas,1,CD Chivas USA,0,Pizza Hut Park
+2010-08-21,Sporting Kansas City,4,New England Revolution,1,CommunityAmerica Ballpark
+2010-08-21,Houston Dynamo,4,Chicago Fire,3,Robertson Stadium
+2010-08-22,D.C. United,2,Philadelphia Union,0,RFK Stadium
+2010-08-28,Columbus Crew SC,0,FC Dallas,0,Columbus Crew Stadium
+2010-08-28,Toronto FC,0,Real Salt Lake,0,BMO Field
+2010-08-28,New England Revolution,1,Philadelphia Union,2,Gillette Stadium
+2010-08-28,New York Red Bulls,2,San Jose Earthquakes,0,Red Bull Arena
+2010-08-28,Colorado Rapids,3,Houston Dynamo,0,Dick's Sporting Goods Park
+2010-08-28,Seattle Sounders FC,2,Chicago Fire,1,Qwest Field
+2010-08-28,LA Galaxy,0,Sporting Kansas City,2,The Home Depot Center
+2010-08-29,CD Chivas USA,1,D.C. United,0,The Home Depot Center
+2010-09-04,Philadelphia Union,1,Sporting Kansas City,1,Talen Energy Stadium
+2010-09-04,Chicago Fire,1,LA Galaxy,1,Toyota Park
+2010-09-04,D.C. United,0,Columbus Crew SC,1,RFK Stadium
+2010-09-04,New England Revolution,3,Seattle Sounders FC,1,Gillette Stadium
+2010-09-04,FC Dallas,1,Toronto FC,0,Pizza Hut Park
+2010-09-04,Real Salt Lake,1,New York Red Bulls,0,Rio Tinto Stadium
+2010-09-04,Colorado Rapids,3,CD Chivas USA,0,Dick's Sporting Goods Park
+2010-09-05,Houston Dynamo,1,San Jose Earthquakes,2,Robertson Stadium
+2010-09-08,Chicago Fire,0,Toronto FC,0,Toyota Park
+2010-09-09,Seattle Sounders FC,0,Real Salt Lake,0,Qwest Field
+2010-09-10,CD Chivas USA,2,New England Revolution,0,The Home Depot Center
+2010-09-11,New York Red Bulls,3,Colorado Rapids,1,Red Bull Arena
+2010-09-11,Toronto FC,0,D.C. United,1,BMO Field
+2010-09-11,Philadelphia Union,1,Chicago Fire,0,Talen Energy Stadium
+2010-09-11,San Jose Earthquakes,0,FC Dallas,0,Buck Shaw Stadium
+2010-09-11,LA Galaxy,3,Columbus Crew SC,1,The Home Depot Center
+2010-09-15,San Jose Earthquakes,1,Philadelphia Union,0,Buck Shaw Stadium
+2010-09-16,FC Dallas,2,New York Red Bulls,2,Pizza Hut Park
+2010-09-18,Real Salt Lake,1,Chicago Fire,0,Rio Tinto Stadium
+2010-09-18,Columbus Crew SC,0,Seattle Sounders FC,4,Columbus Crew Stadium
+2010-09-18,Houston Dynamo,1,Toronto FC,2,Robertson Stadium
+2010-09-18,Colorado Rapids,3,New England Revolution,0,Dick's Sporting Goods Park
+2010-09-18,LA Galaxy,2,D.C. United,1,The Home Depot Center
+2010-09-19,CD Chivas USA,0,Sporting Kansas City,2,The Home Depot Center
+2010-09-22,Sporting Kansas City,4,Houston Dynamo,3,CommunityAmerica Ballpark
+2010-09-22,FC Dallas,2,New England Revolution,2,Pizza Hut Park
+2010-09-24,LA Galaxy,0,New York Red Bulls,2,The Home Depot Center
+2010-09-25,Philadelphia Union,3,CD Chivas USA,0,Talen Energy Stadium
+2010-09-25,Toronto FC,2,San Jose Earthquakes,3,BMO Field
+2010-09-25,D.C. United,1,Houston Dynamo,3,RFK Stadium
+2010-09-25,New England Revolution,2,Columbus Crew SC,2,Gillette Stadium
+2010-09-25,Sporting Kansas City,1,FC Dallas,3,CommunityAmerica Ballpark
+2010-09-25,Chicago Fire,0,Seattle Sounders FC,1,Toyota Park
+2010-09-25,Real Salt Lake,1,Colorado Rapids,1,Rio Tinto Stadium
+2010-09-29,Colorado Rapids,4,Philadelphia Union,1,Dick's Sporting Goods Park
+2010-09-29,San Jose Earthquakes,0,Chicago Fire,3,Buck Shaw Stadium
+2010-10-02,Seattle Sounders FC,3,Toronto FC,2,Qwest Field
+2010-10-02,Philadelphia Union,1,Houston Dynamo,1,Talen Energy Stadium
+2010-10-02,Columbus Crew SC,0,San Jose Earthquakes,0,Columbus Crew Stadium
+2010-10-02,New England Revolution,1,Real Salt Lake,2,Gillette Stadium
+2010-10-02,New York Red Bulls,1,Sporting Kansas City,0,Red Bull Arena
+2010-10-02,FC Dallas,3,Chicago Fire,0,Pizza Hut Park
+2010-10-02,Colorado Rapids,0,D.C. United,1,Dick's Sporting Goods Park
+2010-10-03,CD Chivas USA,1,LA Galaxy,2,The Home Depot Center
+2010-10-07,Philadelphia Union,0,LA Galaxy,1,Talen Energy Stadium
+2010-10-08,Chicago Fire,2,Columbus Crew SC,0,Toyota Park
+2010-10-09,New York Red Bulls,0,Real Salt Lake,0,Red Bull Arena
+2010-10-09,FC Dallas,2,Colorado Rapids,2,Pizza Hut Park
+2010-10-09,D.C. United,0,San Jose Earthquakes,2,RFK Stadium
+2010-10-09,Sporting Kansas City,1,Seattle Sounders FC,2,CommunityAmerica Ballpark
+2010-10-09,CD Chivas USA,3,Toronto FC,0,The Home Depot Center
+2010-10-10,Houston Dynamo,1,New England Revolution,2,Robertson Stadium
+2010-10-12,Chicago Fire,0,Sporting Kansas City,2,Toyota Park
+2010-10-15,Seattle Sounders FC,2,CD Chivas USA,1,Qwest Field
+2010-10-16,Chicago Fire,0,D.C. United,0,Toyota Park
+2010-10-16,Toronto FC,2,Columbus Crew SC,2,BMO Field
+2010-10-16,Philadelphia Union,2,New York Red Bulls,1,Talen Energy Stadium
+2010-10-16,New England Revolution,1,Sporting Kansas City,0,Gillette Stadium
+2010-10-16,Real Salt Lake,2,FC Dallas,0,Rio Tinto Stadium
+2010-10-16,San Jose Earthquakes,0,Houston Dynamo,1,Buck Shaw Stadium
+2010-10-16,LA Galaxy,1,Colorado Rapids,3,The Home Depot Center
+2010-10-20,San Jose Earthquakes,3,CD Chivas USA,0,Buck Shaw Stadium
+2010-10-21,New York Red Bulls,2,New England Revolution,0,Red Bull Arena
+2010-10-23,Houston Dynamo,2,Seattle Sounders FC,1,Robertson Stadium
+2010-10-23,D.C. United,2,Toronto FC,3,RFK Stadium
+2010-10-23,Sporting Kansas City,4,San Jose Earthquakes,1,CommunityAmerica Ballpark
+2010-10-23,Colorado Rapids,2,Real Salt Lake,2,Dick's Sporting Goods Park
+2010-10-23,CD Chivas USA,1,Chicago Fire,4,The Home Depot Center
+2010-10-24,Columbus Crew SC,3,Philadelphia Union,1,Columbus Crew Stadium
+2010-10-24,LA Galaxy,2,FC Dallas,1,The Home Depot Center

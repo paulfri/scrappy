@@ -1,0 +1,193 @@
+date,home,home_score,away,away_score,venue
+2006-04-01,FC Dallas,3,Chicago Fire,2,Pizza Hut Park
+2006-04-01,Sporting Kansas City,3,Columbus Crew SC,1,Arrowhead Stadium
+2006-04-02,LA Galaxy,0,New England Revolution,1,The Home Depot Center
+2006-04-02,D.C. United,2,New York Red Bulls,2,RFK Stadium
+2006-04-02,CD Chivas USA,3,Real Salt Lake,0,The Home Depot Center
+2006-04-02,Houston Dynamo,5,Colorado Rapids,2,Robertson Stadium
+2006-04-08,D.C. United,2,CD Chivas USA,0,RFK Stadium
+2006-04-08,New York Red Bulls,0,New England Revolution,0,Giants Stadium
+2006-04-08,Houston Dynamo,1,Sporting Kansas City,2,Robertson Stadium
+2006-04-08,FC Dallas,2,Real Salt Lake,1,Pizza Hut Park
+2006-04-08,Colorado Rapids,3,Columbus Crew SC,1,Invesco Field at Mile High
+2006-04-08,LA Galaxy,1,Chicago Fire,1,The Home Depot Center
+2006-04-15,Columbus Crew SC,1,Chicago Fire,1,Columbus Crew Stadium
+2006-04-15,D.C. United,2,Houston Dynamo,0,RFK Stadium
+2006-04-15,Sporting Kansas City,1,New England Revolution,0,Arrowhead Stadium
+2006-04-15,Colorado Rapids,2,FC Dallas,2,Invesco Field at Mile High
+2006-04-15,Real Salt Lake,1,New York Red Bulls,1,Rice-Eccles Stadium
+2006-04-15,CD Chivas USA,1,LA Galaxy,2,The Home Depot Center
+2006-04-22,New York Red Bulls,1,D.C. United,4,Giants Stadium
+2006-04-22,Houston Dynamo,2,Real Salt Lake,1,Robertson Stadium
+2006-04-22,LA Galaxy,0,Columbus Crew SC,1,The Home Depot Center
+2006-04-23,FC Dallas,2,Sporting Kansas City,1,Pizza Hut Park
+2006-04-29,Real Salt Lake,2,LA Galaxy,3,Rice-Eccles Stadium
+2006-04-29,D.C. United,1,FC Dallas,1,RFK Stadium
+2006-04-29,Columbus Crew SC,0,Sporting Kansas City,1,Columbus Crew Stadium
+2006-04-29,Colorado Rapids,0,Houston Dynamo,1,Invesco Field at Mile High
+2006-04-29,CD Chivas USA,0,New York Red Bulls,0,The Home Depot Center
+2006-04-30,New England Revolution,1,Chicago Fire,2,Gillette Stadium
+2006-05-06,New England Revolution,4,LA Galaxy,0,Gillette Stadium
+2006-05-06,Sporting Kansas City,1,Chicago Fire,1,Arrowhead Stadium
+2006-05-06,Houston Dynamo,4,FC Dallas,3,Robertson Stadium
+2006-05-06,Real Salt Lake,0,Columbus Crew SC,1,Rice-Eccles Stadium
+2006-05-06,Colorado Rapids,2,D.C. United,1,Invesco Field at Mile High
+2006-05-10,FC Dallas,1,LA Galaxy,0,Pizza Hut Park
+2006-05-13,FC Dallas,1,Houston Dynamo,1,Pizza Hut Park
+2006-05-13,New England Revolution,3,CD Chivas USA,1,Gillette Stadium
+2006-05-13,Columbus Crew SC,1,Colorado Rapids,0,Columbus Crew Stadium
+2006-05-13,D.C. United,2,Sporting Kansas City,1,RFK Stadium
+2006-05-13,New York Red Bulls,1,Chicago Fire,1,Giants Stadium
+2006-05-13,LA Galaxy,0,Real Salt Lake,3,The Home Depot Center
+2006-05-20,Houston Dynamo,0,Chicago Fire,1,Robertson Stadium
+2006-05-20,New York Red Bulls,5,CD Chivas USA,4,Giants Stadium
+2006-05-20,Columbus Crew SC,1,D.C. United,1,Columbus Crew Stadium
+2006-05-20,FC Dallas,4,New England Revolution,0,Pizza Hut Park
+2006-05-20,Real Salt Lake,2,Sporting Kansas City,1,Rice-Eccles Stadium
+2006-05-20,LA Galaxy,0,Colorado Rapids,1,The Home Depot Center
+2006-05-24,New York Red Bulls,1,FC Dallas,2,Giants Stadium
+2006-05-27,Real Salt Lake,2,Colorado Rapids,2,Rice-Eccles Stadium
+2006-05-27,New England Revolution,1,Houston Dynamo,1,Gillette Stadium
+2006-05-27,Sporting Kansas City,1,D.C. United,3,Arrowhead Stadium
+2006-05-27,CD Chivas USA,1,Chicago Fire,0,The Home Depot Center
+2006-05-31,D.C. United,5,Columbus Crew SC,1,RFK Stadium
+2006-05-31,Colorado Rapids,1,LA Galaxy,0,Invesco Field at Mile High
+2006-06-03,D.C. United,1,New England Revolution,0,RFK Stadium
+2006-06-03,FC Dallas,1,Columbus Crew SC,2,Pizza Hut Park
+2006-06-03,Houston Dynamo,2,LA Galaxy,1,Robertson Stadium
+2006-06-03,Sporting Kansas City,1,New York Red Bulls,1,Arrowhead Stadium
+2006-06-03,Real Salt Lake,3,Chicago Fire,1,Rice-Eccles Stadium
+2006-06-03,CD Chivas USA,4,Colorado Rapids,1,The Home Depot Center
+2006-06-08,LA Galaxy,1,CD Chivas USA,2,The Home Depot Center
+2006-06-09,Colorado Rapids,1,Real Salt Lake,0,Invesco Field at Mile High
+2006-06-10,New York Red Bulls,1,Houston Dynamo,1,Giants Stadium
+2006-06-10,Columbus Crew SC,0,Sporting Kansas City,1,Columbus Crew Stadium
+2006-06-11,FC Dallas,2,CD Chivas USA,1,Pizza Hut Park
+2006-06-11,Chicago Fire,3,New England Revolution,3,Toyota Park
+2006-06-11,LA Galaxy,1,D.C. United,1,The Home Depot Center
+2006-06-17,New England Revolution,1,D.C. United,1,Gillette Stadium
+2006-06-17,New York Red Bulls,2,LA Galaxy,1,Giants Stadium
+2006-06-17,Sporting Kansas City,3,Chicago Fire,2,Arrowhead Stadium
+2006-06-17,Houston Dynamo,2,Real Salt Lake,1,Robertson Stadium
+2006-06-18,CD Chivas USA,2,Columbus Crew SC,0,The Home Depot Center
+2006-06-21,D.C. United,1,Chicago Fire,0,RFK Stadium
+2006-06-21,Columbus Crew SC,1,New England Revolution,1,Columbus Crew Stadium
+2006-06-21,Colorado Rapids,1,CD Chivas USA,1,Invesco Field at Mile High
+2006-06-24,Columbus Crew SC,1,CD Chivas USA,1,Columbus Crew Stadium
+2006-06-24,D.C. United,1,Sporting Kansas City,0,RFK Stadium
+2006-06-24,FC Dallas,1,Colorado Rapids,0,Pizza Hut Park
+2006-06-24,Real Salt Lake,0,New England Revolution,0,Rice-Eccles Stadium
+2006-06-24,LA Galaxy,0,Houston Dynamo,0,The Home Depot Center
+2006-06-25,Chicago Fire,2,New York Red Bulls,0,Toyota Park
+2006-06-28,New York Red Bulls,0,Columbus Crew SC,0,Giants Stadium
+2006-06-28,New England Revolution,1,FC Dallas,0,Gillette Stadium
+2006-06-28,Sporting Kansas City,2,D.C. United,3,Arrowhead Stadium
+2006-06-28,Chicago Fire,2,Real Salt Lake,1,Toyota Park
+2006-06-28,CD Chivas USA,1,Houston Dynamo,1,The Home Depot Center
+2006-07-01,New England Revolution,3,New York Red Bulls,2,Gillette Stadium
+2006-07-01,Sporting Kansas City,0,LA Galaxy,2,Arrowhead Stadium
+2006-07-01,CD Chivas USA,3,FC Dallas,0,The Home Depot Center
+2006-07-04,FC Dallas,0,D.C. United,1,Pizza Hut Park
+2006-07-04,Chicago Fire,1,Sporting Kansas City,0,Toyota Park
+2006-07-04,Houston Dynamo,1,Columbus Crew SC,1,Robertson Stadium
+2006-07-04,Colorado Rapids,3,New England Revolution,2,Invesco Field at Mile High
+2006-07-04,Real Salt Lake,0,CD Chivas USA,0,Rice-Eccles Stadium
+2006-07-04,LA Galaxy,1,New York Red Bulls,0,The Home Depot Center
+2006-07-08,Houston Dynamo,3,CD Chivas USA,1,Robertson Stadium
+2006-07-08,Columbus Crew SC,0,D.C. United,1,Columbus Crew Stadium
+2006-07-08,FC Dallas,2,New York Red Bulls,1,Pizza Hut Park
+2006-07-08,Chicago Fire,1,New England Revolution,2,Toyota Park
+2006-07-08,Colorado Rapids,1,Sporting Kansas City,0,Invesco Field at Mile High
+2006-07-08,LA Galaxy,2,Real Salt Lake,0,The Home Depot Center
+2006-07-14,New York Red Bulls,1,Colorado Rapids,0,Giants Stadium
+2006-07-14,New England Revolution,1,Real Salt Lake,3,Gillette Stadium
+2006-07-15,Chicago Fire,2,FC Dallas,3,Toyota Park
+2006-07-15,D.C. United,3,Columbus Crew SC,2,RFK Stadium
+2006-07-15,Sporting Kansas City,2,Houston Dynamo,3,Arrowhead Stadium
+2006-07-15,CD Chivas USA,0,LA Galaxy,0,The Home Depot Center
+2006-07-19,Columbus Crew SC,0,New York Red Bulls,2,Columbus Crew Stadium
+2006-07-20,Colorado Rapids,3,CD Chivas USA,3,Invesco Field at Mile High
+2006-07-22,Columbus Crew SC,1,LA Galaxy,1,Columbus Crew Stadium
+2006-07-22,New York Red Bulls,1,Sporting Kansas City,0,Giants Stadium
+2006-07-22,Chicago Fire,1,D.C. United,1,Toyota Park
+2006-07-22,Houston Dynamo,1,New England Revolution,1,Robertson Stadium
+2006-07-22,Real Salt Lake,0,FC Dallas,1,Rice-Eccles Stadium
+2006-07-26,Real Salt Lake,3,CD Chivas USA,3,Rice-Eccles Stadium
+2006-07-26,Colorado Rapids,1,Houston Dynamo,0,Invesco Field at Mile High
+2006-07-29,FC Dallas,4,Colorado Rapids,1,Pizza Hut Park
+2006-07-29,Houston Dynamo,1,New York Red Bulls,1,Robertson Stadium
+2006-07-29,Sporting Kansas City,1,New England Revolution,1,Arrowhead Stadium
+2006-07-29,Chicago Fire,0,Columbus Crew SC,0,Toyota Park
+2006-07-29,Real Salt Lake,2,D.C. United,1,Rice-Eccles Stadium
+2006-08-06,CD Chivas USA,1,New England Revolution,1,Los Angeles Memorial Coliseum
+2006-08-09,Houston Dynamo,0,LA Galaxy,1,Reliant Stadium
+2006-08-09,New England Revolution,0,Sporting Kansas City,0,Gillette Stadium
+2006-08-09,Colorado Rapids,1,Real Salt Lake,4,Invesco Field at Mile High
+2006-08-12,Chicago Fire,1,CD Chivas USA,2,Toyota Park
+2006-08-12,Sporting Kansas City,4,Columbus Crew SC,0,Arrowhead Stadium
+2006-08-12,Houston Dynamo,1,FC Dallas,0,Robertson Stadium
+2006-08-12,Colorado Rapids,1,LA Galaxy,0,Invesco Field at Mile High
+2006-08-16,New York Red Bulls,0,D.C. United,0,Giants Stadium
+2006-08-16,Columbus Crew SC,1,Real Salt Lake,2,Columbus Crew Stadium
+2006-08-16,Chicago Fire,3,Sporting Kansas City,0,Toyota Park
+2006-08-19,D.C. United,1,Colorado Rapids,1,RFK Stadium
+2006-08-19,Columbus Crew SC,1,New York Red Bulls,0,Columbus Crew Stadium
+2006-08-19,Real Salt Lake,3,Houston Dynamo,1,Rice-Eccles Stadium
+2006-08-19,CD Chivas USA,1,Sporting Kansas City,1,The Home Depot Center
+2006-08-20,New England Revolution,0,Chicago Fire,1,Gillette Stadium
+2006-08-20,LA Galaxy,2,FC Dallas,0,The Home Depot Center
+2006-08-26,D.C. United,2,LA Galaxy,5,RFK Stadium
+2006-08-26,New York Red Bulls,6,Real Salt Lake,0,Giants Stadium
+2006-08-26,Chicago Fire,1,Colorado Rapids,0,Toyota Park
+2006-08-26,CD Chivas USA,3,Houston Dynamo,2,The Home Depot Center
+2006-08-27,New England Revolution,1,Columbus Crew SC,0,Gillette Stadium
+2006-08-27,Sporting Kansas City,1,FC Dallas,0,Arrowhead Stadium
+2006-08-30,Sporting Kansas City,2,New York Red Bulls,2,Arrowhead Stadium
+2006-08-30,Chicago Fire,2,Houston Dynamo,2,Toyota Park
+2006-08-30,Real Salt Lake,1,LA Galaxy,0,Rice-Eccles Stadium
+2006-08-30,Colorado Rapids,0,FC Dallas,2,Invesco Field at Mile High
+2006-09-02,Columbus Crew SC,3,New England Revolution,0,Columbus Crew Stadium
+2006-09-02,FC Dallas,1,Houston Dynamo,0,Pizza Hut Park
+2006-09-02,Real Salt Lake,0,Colorado Rapids,1,Rice-Eccles Stadium
+2006-09-02,LA Galaxy,2,Sporting Kansas City,1,The Home Depot Center
+2006-09-03,CD Chivas USA,1,D.C. United,2,The Home Depot Center
+2006-09-03,Chicago Fire,2,New York Red Bulls,1,Toyota Park
+2006-09-09,Columbus Crew SC,1,Chicago Fire,2,Columbus Crew Stadium
+2006-09-09,New England Revolution,1,New York Red Bulls,0,Gillette Stadium
+2006-09-09,D.C. United,1,Real Salt Lake,1,RFK Stadium
+2006-09-09,Sporting Kansas City,4,Colorado Rapids,1,Arrowhead Stadium
+2006-09-09,CD Chivas USA,1,FC Dallas,1,The Home Depot Center
+2006-09-10,LA Galaxy,1,Houston Dynamo,2,The Home Depot Center
+2006-09-13,New England Revolution,1,D.C. United,1,Gillette Stadium
+2006-09-13,FC Dallas,0,CD Chivas USA,1,Pizza Hut Park
+2006-09-13,Colorado Rapids,1,Chicago Fire,0,Invesco Field at Mile High
+2006-09-16,New York Red Bulls,1,Columbus Crew SC,0,Giants Stadium
+2006-09-16,Real Salt Lake,3,FC Dallas,2,Rice-Eccles Stadium
+2006-09-16,LA Galaxy,0,Colorado Rapids,0,The Home Depot Center
+2006-09-17,Chicago Fire,1,D.C. United,0,Toyota Park
+2006-09-17,Houston Dynamo,0,CD Chivas USA,0,Robertson Stadium
+2006-09-20,New York Red Bulls,0,New England Revolution,2,Giants Stadium
+2006-09-23,Columbus Crew SC,1,Houston Dynamo,1,Columbus Crew Stadium
+2006-09-23,New England Revolution,1,Sporting Kansas City,1,Gillette Stadium
+2006-09-23,D.C. United,4,New York Red Bulls,3,RFK Stadium
+2006-09-23,Chicago Fire,2,LA Galaxy,1,Toyota Park
+2006-09-23,FC Dallas,2,Real Salt Lake,1,Pizza Hut Park
+2006-09-23,CD Chivas USA,1,Colorado Rapids,0,The Home Depot Center
+2006-09-30,New York Red Bulls,1,Chicago Fire,0,Giants Stadium
+2006-09-30,New England Revolution,3,Colorado Rapids,1,Gillette Stadium
+2006-09-30,Columbus Crew SC,3,FC Dallas,1,Columbus Crew Stadium
+2006-09-30,Houston Dynamo,1,D.C. United,0,Robertson Stadium
+2006-09-30,Sporting Kansas City,3,Real Salt Lake,3,Arrowhead Stadium
+2006-09-30,LA Galaxy,3,CD Chivas USA,0,The Home Depot Center
+2006-10-07,D.C. United,1,New England Revolution,2,RFK Stadium
+2006-10-07,Chicago Fire,1,Columbus Crew SC,4,Toyota Park
+2006-10-07,FC Dallas,2,LA Galaxy,1,Pizza Hut Park
+2006-10-07,Sporting Kansas City,2,CD Chivas USA,1,Arrowhead Stadium
+2006-10-07,Real Salt Lake,1,Houston Dynamo,1,Rice-Eccles Stadium
+2006-10-07,Colorado Rapids,1,New York Red Bulls,1,Invesco Field at Mile High
+2006-10-14,New England Revolution,1,Columbus Crew SC,0,Gillette Stadium
+2006-10-14,New York Red Bulls,3,Sporting Kansas City,2,Giants Stadium
+2006-10-14,Houston Dynamo,3,Colorado Rapids,3,Robertson Stadium
+2006-10-14,LA Galaxy,5,FC Dallas,2,The Home Depot Center
+2006-10-15,D.C. United,2,Chicago Fire,3,RFK Stadium
+2006-10-15,CD Chivas USA,1,Real Salt Lake,1,The Home Depot Center

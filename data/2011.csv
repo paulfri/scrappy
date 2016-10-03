@@ -1,0 +1,307 @@
+date,home,home_score,away,away_score,venue
+2011-03-15,Seattle Sounders FC,0,LA Galaxy,1,Qwest Field
+2011-03-19,Vancouver Whitecaps FC,4,Toronto FC,2,Empire Field
+2011-03-19,New York Red Bulls,1,Seattle Sounders FC,0,Red Bull Arena
+2011-03-19,D.C. United,3,Columbus Crew SC,1,RFK Stadium
+2011-03-19,FC Dallas,1,Chicago Fire,1,Pizza Hut Park
+2011-03-19,Houston Dynamo,0,Philadelphia Union,1,Robertson Stadium
+2011-03-19,Colorado Rapids,3,Portland Timbers,1,Dick's Sporting Goods Park
+2011-03-19,CD Chivas USA,2,Sporting Kansas City,3,The Home Depot Center
+2011-03-19,San Jose Earthquakes,0,Real Salt Lake,1,Buck Shaw Stadium
+2011-03-20,LA Galaxy,1,New England Revolution,1,The Home Depot Center
+2011-03-25,Seattle Sounders FC,1,Houston Dynamo,1,Qwest Field
+2011-03-26,Toronto FC,2,Portland Timbers,0,BMO Field
+2011-03-26,Columbus Crew SC,0,New York Red Bulls,0,Crew Stadium
+2011-03-26,Chicago Fire,3,Sporting Kansas City,2,Toyota Park
+2011-03-26,Philadelphia Union,1,Vancouver Whitecaps FC,0,Talen Energy Stadium
+2011-03-26,New England Revolution,2,D.C. United,1,Gillette Stadium
+2011-03-26,FC Dallas,0,San Jose Earthquakes,2,Pizza Hut Park
+2011-03-26,Real Salt Lake,4,LA Galaxy,1,Rio Tinto Stadium
+2011-03-26,CD Chivas USA,0,Colorado Rapids,1,The Home Depot Center
+2011-04-01,Columbus Crew SC,2,FC Dallas,0,Crew Stadium
+2011-04-02,Toronto FC,1,CD Chivas USA,1,BMO Field
+2011-04-02,Vancouver Whitecaps FC,3,Sporting Kansas City,3,Empire Field
+2011-04-02,New York Red Bulls,1,Houston Dynamo,1,Red Bull Arena
+2011-04-02,New England Revolution,1,Portland Timbers,1,Gillette Stadium
+2011-04-02,LA Galaxy,1,Philadelphia Union,0,The Home Depot Center
+2011-04-02,San Jose Earthquakes,2,Seattle Sounders FC,2,Buck Shaw Stadium
+2011-04-03,Colorado Rapids,4,D.C. United,1,Dick's Sporting Goods Park
+2011-04-06,Vancouver Whitecaps FC,1,New England Revolution,1,Empire Field
+2011-04-08,FC Dallas,3,Colorado Rapids,0,Pizza Hut Park
+2011-04-09,Seattle Sounders FC,2,Chicago Fire,1,Qwest Field
+2011-04-09,Philadelphia Union,1,New York Red Bulls,0,Talen Energy Stadium
+2011-04-09,New England Revolution,0,Real Salt Lake,2,Gillette Stadium
+2011-04-09,D.C. United,1,LA Galaxy,1,RFK Stadium
+2011-04-09,CD Chivas USA,0,Columbus Crew SC,0,The Home Depot Center
+2011-04-09,San Jose Earthquakes,1,Toronto FC,1,Buck Shaw Stadium
+2011-04-10,Houston Dynamo,3,Vancouver Whitecaps FC,1,Robertson Stadium
+2011-04-13,Toronto FC,0,LA Galaxy,0,BMO Field
+2011-04-13,Real Salt Lake,1,Colorado Rapids,0,Rio Tinto Stadium
+2011-04-14,Portland Timbers,4,Chicago Fire,2,JELD-WEN Field
+2011-04-16,Philadelphia Union,1,Seattle Sounders FC,1,Talen Energy Stadium
+2011-04-16,Vancouver Whitecaps FC,0,CD Chivas USA,0,Empire Field
+2011-04-16,Toronto FC,0,D.C. United,3,BMO Field
+2011-04-16,New York Red Bulls,3,San Jose Earthquakes,0,Red Bull Arena
+2011-04-16,Columbus Crew SC,1,Sporting Kansas City,0,Crew Stadium
+2011-04-17,Chicago Fire,1,LA Galaxy,2,Toyota Park
+2011-04-17,Portland Timbers,3,FC Dallas,2,JELD-WEN Field
+2011-04-17,Houston Dynamo,1,New England Revolution,0,Robertson Stadium
+2011-04-21,D.C. United,0,New York Red Bulls,4,RFK Stadium
+2011-04-22,Colorado Rapids,0,Seattle Sounders FC,1,Dick's Sporting Goods Park
+2011-04-23,San Jose Earthquakes,1,CD Chivas USA,2,Buck Shaw Stadium
+2011-04-23,Toronto FC,1,Columbus Crew SC,1,BMO Field
+2011-04-23,Vancouver Whitecaps FC,1,FC Dallas,2,Empire Field
+2011-04-23,New England Revolution,3,Sporting Kansas City,2,Gillette Stadium
+2011-04-23,Chicago Fire,1,Houston Dynamo,1,Toyota Park
+2011-04-23,LA Galaxy,3,Portland Timbers,0,The Home Depot Center
+2011-04-29,Houston Dynamo,4,D.C. United,1,Robertson Stadium
+2011-04-30,Philadelphia Union,1,San Jose Earthquakes,0,Talen Energy Stadium
+2011-04-30,Columbus Crew SC,2,Vancouver Whitecaps FC,1,Crew Stadium
+2011-04-30,New York Red Bulls,1,Sporting Kansas City,0,Red Bull Arena
+2011-04-30,Colorado Rapids,1,Chicago Fire,1,Dick's Sporting Goods Park
+2011-04-30,Seattle Sounders FC,3,Toronto FC,0,Qwest Field
+2011-04-30,CD Chivas USA,3,New England Revolution,0,The Home Depot Center
+2011-04-30,Portland Timbers,1,Real Salt Lake,0,JELD-WEN Field
+2011-05-01,FC Dallas,2,LA Galaxy,1,Pizza Hut Park
+2011-05-04,D.C. United,2,Seattle Sounders FC,1,RFK Stadium
+2011-05-04,Houston Dynamo,1,Colorado Rapids,2,Robertson Stadium
+2011-05-06,Portland Timbers,1,Philadelphia Union,0,JELD-WEN Field
+2011-05-07,Real Salt Lake,1,CD Chivas USA,0,Rio Tinto Stadium
+2011-05-07,Toronto FC,2,Houston Dynamo,1,BMO Field
+2011-05-07,Columbus Crew SC,1,Seattle Sounders FC,1,Crew Stadium
+2011-05-07,D.C. United,0,FC Dallas,0,RFK Stadium
+2011-05-07,New England Revolution,0,Colorado Rapids,0,Gillette Stadium
+2011-05-07,Chicago Fire,0,Vancouver Whitecaps FC,0,Toyota Park
+2011-05-07,LA Galaxy,1,New York Red Bulls,1,The Home Depot Center
+2011-05-11,Philadelphia Union,1,LA Galaxy,1,Talen Energy Stadium
+2011-05-11,FC Dallas,1,Toronto FC,0,Pizza Hut Park
+2011-05-11,Vancouver Whitecaps FC,1,San Jose Earthquakes,1,Empire Field
+2011-05-14,Toronto FC,2,Chicago Fire,2,BMO Field
+2011-05-14,New England Revolution,1,Vancouver Whitecaps FC,0,Gillette Stadium
+2011-05-14,D.C. United,1,Colorado Rapids,1,RFK Stadium
+2011-05-14,FC Dallas,2,Philadelphia Union,0,Pizza Hut Park
+2011-05-14,Real Salt Lake,0,Houston Dynamo,0,Rio Tinto Stadium
+2011-05-14,LA Galaxy,4,Sporting Kansas City,1,The Home Depot Center
+2011-05-14,San Jose Earthquakes,3,Columbus Crew SC,0,Buck Shaw Stadium
+2011-05-14,Seattle Sounders FC,1,Portland Timbers,1,Qwest Field
+2011-05-15,New York Red Bulls,2,CD Chivas USA,3,Red Bull Arena
+2011-05-21,Philadelphia Union,2,Chicago Fire,1,Talen Energy Stadium
+2011-05-21,Houston Dynamo,2,New York Red Bulls,2,Robertson Stadium
+2011-05-21,CD Chivas USA,0,LA Galaxy,1,The Home Depot Center
+2011-05-21,Seattle Sounders FC,1,Sporting Kansas City,0,Qwest Field
+2011-05-21,San Jose Earthquakes,2,New England Revolution,1,Buck Shaw Stadium
+2011-05-21,Portland Timbers,1,Columbus Crew SC,0,JELD-WEN Field
+2011-05-22,Colorado Rapids,0,Toronto FC,0,Dick's Sporting Goods Park
+2011-05-22,FC Dallas,0,Real Salt Lake,0,Pizza Hut Park
+2011-05-25,New York Red Bulls,2,Colorado Rapids,2,Red Bull Arena
+2011-05-25,Seattle Sounders FC,0,FC Dallas,1,Qwest Field
+2011-05-25,LA Galaxy,1,Houston Dynamo,0,The Home Depot Center
+2011-05-28,Toronto FC,2,Philadelphia Union,6,BMO Field
+2011-05-28,Vancouver Whitecaps FC,1,New York Red Bulls,1,Empire Field
+2011-05-28,Columbus Crew SC,3,CD Chivas USA,3,Crew Stadium
+2011-05-28,New England Revolution,0,LA Galaxy,1,Gillette Stadium
+2011-05-28,Houston Dynamo,2,FC Dallas,2,Robertson Stadium
+2011-05-28,Chicago Fire,2,San Jose Earthquakes,2,Toyota Park
+2011-05-28,Colorado Rapids,1,Sporting Kansas City,1,Dick's Sporting Goods Park
+2011-05-28,Real Salt Lake,1,Seattle Sounders FC,2,Rio Tinto Stadium
+2011-05-29,Portland Timbers,2,D.C. United,3,JELD-WEN Field
+2011-06-01,CD Chivas USA,1,Vancouver Whitecaps FC,1,The Home Depot Center
+2011-06-03,LA Galaxy,0,D.C. United,0,The Home Depot Center
+2011-06-04,Toronto FC,0,Sporting Kansas City,0,BMO Field
+2011-06-04,New York Red Bulls,1,Columbus Crew SC,1,Red Bull Arena
+2011-06-04,Chicago Fire,0,Seattle Sounders FC,0,Toyota Park
+2011-06-04,FC Dallas,1,New England Revolution,0,Pizza Hut Park
+2011-06-04,Real Salt Lake,2,Vancouver Whitecaps FC,0,Rio Tinto Stadium
+2011-06-04,Colorado Rapids,1,Philadelphia Union,1,Dick's Sporting Goods Park
+2011-06-04,San Jose Earthquakes,2,Houston Dynamo,0,Buck Shaw Stadium
+2011-06-04,CD Chivas USA,1,Portland Timbers,0,The Home Depot Center
+2011-06-08,Columbus Crew SC,2,Real Salt Lake,1,Crew Stadium
+2011-06-09,Sporting Kansas City,0,Chicago Fire,0,Livestrong Sporting Park
+2011-06-10,New York Red Bulls,2,New England Revolution,1,Red Bull Arena
+2011-06-11,Philadelphia Union,1,Real Salt Lake,1,Talen Energy Stadium
+2011-06-11,D.C. United,2,San Jose Earthquakes,4,RFK Stadium
+2011-06-11,Houston Dynamo,2,CD Chivas USA,1,Robertson Stadium
+2011-06-11,Portland Timbers,0,Colorado Rapids,1,JELD-WEN Field
+2011-06-11,LA Galaxy,2,Toronto FC,2,The Home Depot Center
+2011-06-11,Seattle Sounders FC,2,Vancouver Whitecaps FC,2,Qwest Field
+2011-06-12,Columbus Crew SC,0,Chicago Fire,1,Crew Stadium
+2011-06-12,FC Dallas,1,Sporting Kansas City,4,Pizza Hut Park
+2011-06-15,New England Revolution,0,Toronto FC,0,Gillette Stadium
+2011-06-17,Sporting Kansas City,1,San Jose Earthquakes,0,Livestrong Sporting Park
+2011-06-18,Toronto FC,0,Seattle Sounders FC,1,BMO Field
+2011-06-18,New England Revolution,1,Chicago Fire,1,Gillette Stadium
+2011-06-18,Houston Dynamo,0,Columbus Crew SC,2,Robertson Stadium
+2011-06-18,Real Salt Lake,1,D.C. United,1,Rio Tinto Stadium
+2011-06-18,Colorado Rapids,1,LA Galaxy,3,Dick's Sporting Goods Park
+2011-06-18,Vancouver Whitecaps FC,1,Philadelphia Union,0,Empire Field
+2011-06-18,CD Chivas USA,1,FC Dallas,2,The Home Depot Center
+2011-06-19,Portland Timbers,3,New York Red Bulls,3,JELD-WEN Field
+2011-06-22,Philadelphia Union,0,Sporting Kansas City,0,Talen Energy Stadium
+2011-06-22,Chicago Fire,0,Real Salt Lake,0,Toyota Park
+2011-06-23,Seattle Sounders FC,4,New York Red Bulls,2,CenturyLink Field
+2011-06-25,D.C. United,2,Houston Dynamo,2,RFK Stadium
+2011-06-25,San Jose Earthquakes,0,LA Galaxy,0,Buck Shaw Stadium
+2011-06-25,Philadelphia Union,3,CD Chivas USA,2,Talen Energy Stadium
+2011-06-25,FC Dallas,4,Portland Timbers,0,Pizza Hut Park
+2011-06-25,Sporting Kansas City,2,Vancouver Whitecaps FC,1,Livestrong Sporting Park
+2011-06-25,Real Salt Lake,3,Toronto FC,1,Rio Tinto Stadium
+2011-06-26,Chicago Fire,1,New York Red Bulls,1,Toyota Park
+2011-06-26,Seattle Sounders FC,2,New England Revolution,1,CenturyLink Field
+2011-06-26,Columbus Crew SC,4,Colorado Rapids,1,Crew Stadium
+2011-06-29,Toronto FC,1,Vancouver Whitecaps FC,0,BMO Field
+2011-07-02,D.C. United,2,Philadelphia Union,2,RFK Stadium
+2011-07-02,FC Dallas,2,Columbus Crew SC,0,Pizza Hut Park
+2011-07-02,CD Chivas USA,1,Chicago Fire,1,The Home Depot Center
+2011-07-02,San Jose Earthquakes,2,New York Red Bulls,2,Stanford Stadium
+2011-07-02,Portland Timbers,1,Sporting Kansas City,2,JELD-WEN Field
+2011-07-03,Colorado Rapids,0,Houston Dynamo,0,Dick's Sporting Goods Park
+2011-07-04,Real Salt Lake,3,New England Revolution,3,Rio Tinto Stadium
+2011-07-04,LA Galaxy,0,Seattle Sounders FC,0,The Home Depot Center
+2011-07-06,New York Red Bulls,5,Toronto FC,0,Red Bull Arena
+2011-07-06,Sporting Kansas City,1,Colorado Rapids,1,Livestrong Sporting Park
+2011-07-06,Vancouver Whitecaps FC,0,Columbus Crew SC,1,Empire Field
+2011-07-06,CD Chivas USA,2,San Jose Earthquakes,0,The Home Depot Center
+2011-07-09,Sporting Kansas City,1,CD Chivas USA,1,Livestrong Sporting Park
+2011-07-09,New York Red Bulls,0,D.C. United,1,Red Bull Arena
+2011-07-09,Houston Dynamo,2,Toronto FC,0,Robertson Stadium
+2011-07-09,Real Salt Lake,2,FC Dallas,0,Rio Tinto Stadium
+2011-07-09,Colorado Rapids,2,Vancouver Whitecaps FC,1,Dick's Sporting Goods Park
+2011-07-09,San Jose Earthquakes,0,Philadelphia Union,0,Buck Shaw Stadium
+2011-07-09,LA Galaxy,2,Chicago Fire,1,The Home Depot Center
+2011-07-10,Portland Timbers,2,Seattle Sounders FC,3,JELD-WEN Field
+2011-07-16,Seattle Sounders FC,4,Colorado Rapids,3,CenturyLink Field
+2011-07-16,Columbus Crew SC,0,San Jose Earthquakes,0,Crew Stadium
+2011-07-16,Chicago Fire,0,Portland Timbers,1,Toyota Park
+2011-07-16,Houston Dynamo,1,Sporting Kansas City,1,Robertson Stadium
+2011-07-16,FC Dallas,0,D.C. United,0,Pizza Hut Park
+2011-07-16,CD Chivas USA,0,New York Red Bulls,0,The Home Depot Center
+2011-07-17,New England Revolution,0,Philadelphia Union,3,Gillette Stadium
+2011-07-20,D.C. United,0,New England Revolution,1,RFK Stadium
+2011-07-20,Toronto FC,0,FC Dallas,1,BMO Field
+2011-07-20,Colorado Rapids,4,New York Red Bulls,1,Dick's Sporting Goods Park
+2011-07-20,LA Galaxy,1,Columbus Crew SC,0,The Home Depot Center
+2011-07-20,San Jose Earthquakes,2,Vancouver Whitecaps FC,2,Buck Shaw Stadium
+2011-07-23,New York Red Bulls,2,FC Dallas,2,Red Bull Arena
+2011-07-23,Columbus Crew SC,1,Portland Timbers,0,Crew Stadium
+2011-07-23,Sporting Kansas City,4,Toronto FC,2,Livestrong Sporting Park
+2011-07-23,Colorado Rapids,2,New England Revolution,2,Dick's Sporting Goods Park
+2011-07-23,Real Salt Lake,4,San Jose Earthquakes,0,Rio Tinto Stadium
+2011-07-23,CD Chivas USA,3,Houston Dynamo,0,The Home Depot Center
+2011-07-29,Philadelphia Union,1,Colorado Rapids,2,Talen Energy Stadium
+2011-07-30,Vancouver Whitecaps FC,0,LA Galaxy,4,Empire Field
+2011-07-30,Houston Dynamo,3,Seattle Sounders FC,1,Robertson Stadium
+2011-07-30,Sporting Kansas City,1,New England Revolution,1,Livestrong Sporting Park
+2011-07-30,Real Salt Lake,0,Columbus Crew SC,2,Rio Tinto Stadium
+2011-07-30,San Jose Earthquakes,0,D.C. United,2,Buck Shaw Stadium
+2011-07-30,Portland Timbers,2,Toronto FC,2,JELD-WEN Field
+2011-07-31,FC Dallas,1,CD Chivas USA,0,Pizza Hut Park
+2011-08-03,Sporting Kansas City,2,Real Salt Lake,0,Livestrong Sporting Park
+2011-08-03,Chicago Fire,1,Philadelphia Union,1,Toyota Park
+2011-08-03,Portland Timbers,3,LA Galaxy,0,JELD-WEN Field
+2011-08-05,Colorado Rapids,2,Columbus Crew SC,0,Dick's Sporting Goods Park
+2011-08-06,D.C. United,3,Toronto FC,3,RFK Stadium
+2011-08-06,New England Revolution,2,CD Chivas USA,3,Gillette Stadium
+2011-08-06,Philadelphia Union,1,Houston Dynamo,1,Talen Energy Stadium
+2011-08-06,Sporting Kansas City,1,Seattle Sounders FC,2,Livestrong Sporting Park
+2011-08-06,Real Salt Lake,3,New York Red Bulls,0,Rio Tinto Stadium
+2011-08-06,San Jose Earthquakes,1,Portland Timbers,1,Buck Shaw Stadium
+2011-08-06,LA Galaxy,3,FC Dallas,1,The Home Depot Center
+2011-08-07,Vancouver Whitecaps FC,4,Chicago Fire,2,Empire Field
+2011-08-13,Seattle Sounders FC,0,CD Chivas USA,0,CenturyLink Field
+2011-08-13,Toronto FC,1,Real Salt Lake,0,BMO Field
+2011-08-13,D.C. United,4,Vancouver Whitecaps FC,0,RFK Stadium
+2011-08-13,New York Red Bulls,2,Chicago Fire,2,Red Bull Arena
+2011-08-13,Columbus Crew SC,3,New England Revolution,1,Crew Stadium
+2011-08-13,Philadelphia Union,2,FC Dallas,2,Talen Energy Stadium
+2011-08-13,San Jose Earthquakes,1,Colorado Rapids,2,Buck Shaw Stadium
+2011-08-14,Houston Dynamo,2,Portland Timbers,1,Robertson Stadium
+2011-08-17,New England Revolution,1,Houston Dynamo,1,Gillette Stadium
+2011-08-17,Sporting Kansas City,3,Portland Timbers,1,Livestrong Sporting Park
+2011-08-18,Chicago Fire,1,D.C. United,1,Toyota Park
+2011-08-20,New England Revolution,2,New York Red Bulls,2,Gillette Stadium
+2011-08-20,Columbus Crew SC,2,Philadelphia Union,1,Crew Stadium
+2011-08-20,Houston Dynamo,3,Real Salt Lake,2,Robertson Stadium
+2011-08-20,FC Dallas,0,Seattle Sounders FC,1,Pizza Hut Park
+2011-08-20,Colorado Rapids,2,CD Chivas USA,2,Dick's Sporting Goods Park
+2011-08-20,Portland Timbers,2,Vancouver Whitecaps FC,1,JELD-WEN Field
+2011-08-20,LA Galaxy,2,San Jose Earthquakes,0,The Home Depot Center
+2011-08-21,Chicago Fire,2,Toronto FC,0,Toyota Park
+2011-08-21,Sporting Kansas City,1,D.C. United,0,Livestrong Sporting Park
+2011-08-24,Portland Timbers,1,CD Chivas USA,0,JELD-WEN Field
+2011-08-27,Seattle Sounders FC,6,Columbus Crew SC,2,CenturyLink Field
+2011-08-27,Vancouver Whitecaps FC,1,Houston Dynamo,0,Empire Field
+2011-08-27,Toronto FC,1,San Jose Earthquakes,1,BMO Field
+2011-08-27,Chicago Fire,2,Colorado Rapids,0,Toyota Park
+2011-08-27,Sporting Kansas City,2,FC Dallas,3,Livestrong Sporting Park
+2011-08-27,CD Chivas USA,0,Real Salt Lake,1,The Home Depot Center
+2011-09-03,Real Salt Lake,2,Philadelphia Union,1,Rio Tinto Stadium
+2011-09-05,Sporting Kansas City,2,LA Galaxy,2,Livestrong Sporting Park
+2011-09-07,Philadelphia Union,4,New England Revolution,4,Talen Energy Stadium
+2011-09-09,LA Galaxy,1,Colorado Rapids,0,The Home Depot Center
+2011-09-10,Sporting Kansas City,3,Houston Dynamo,0,Livestrong Sporting Park
+2011-09-10,Seattle Sounders FC,1,Real Salt Lake,2,CenturyLink Field
+2011-09-10,New York Red Bulls,1,Vancouver Whitecaps FC,1,Red Bull Arena
+2011-09-10,Columbus Crew SC,2,Toronto FC,4,Crew Stadium
+2011-09-10,New England Revolution,2,FC Dallas,0,Gillette Stadium
+2011-09-10,Philadelphia Union,0,Portland Timbers,0,Talen Energy Stadium
+2011-09-10,San Jose Earthquakes,2,Chicago Fire,0,Buck Shaw Stadium
+2011-09-10,CD Chivas USA,0,D.C. United,3,The Home Depot Center
+2011-09-14,Columbus Crew SC,2,Houston Dynamo,2,Crew Stadium
+2011-09-16,Portland Timbers,3,New England Revolution,0,JELD-WEN Field
+2011-09-17,Toronto FC,2,Colorado Rapids,1,BMO Field
+2011-09-17,Chicago Fire,3,CD Chivas USA,2,Toyota Park
+2011-09-17,Philadelphia Union,1,Columbus Crew SC,0,Talen Energy Stadium
+2011-09-17,Houston Dynamo,2,San Jose Earthquakes,1,Robertson Stadium
+2011-09-17,FC Dallas,0,New York Red Bulls,1,Pizza Hut Park
+2011-09-17,Real Salt Lake,1,Sporting Kansas City,0,Rio Tinto Stadium
+2011-09-17,Seattle Sounders FC,3,D.C. United,0,CenturyLink Field
+2011-09-17,LA Galaxy,3,Vancouver Whitecaps FC,0,The Home Depot Center
+2011-09-21,D.C. United,2,CD Chivas USA,2,RFK Stadium
+2011-09-21,New York Red Bulls,1,Real Salt Lake,3,Red Bull Arena
+2011-09-21,Portland Timbers,1,San Jose Earthquakes,1,JELD-WEN Field
+2011-09-23,Sporting Kansas City,1,Philadelphia Union,1,Livestrong Sporting Park
+2011-09-24,FC Dallas,0,Houston Dynamo,1,Pizza Hut Park
+2011-09-24,D.C. United,4,Real Salt Lake,1,RFK Stadium
+2011-09-24,Columbus Crew SC,0,LA Galaxy,1,Crew Stadium
+2011-09-24,New York Red Bulls,2,Portland Timbers,0,Red Bull Arena
+2011-09-24,Colorado Rapids,1,San Jose Earthquakes,1,Dick's Sporting Goods Park
+2011-09-24,Vancouver Whitecaps FC,1,Seattle Sounders FC,3,Empire Field
+2011-09-24,CD Chivas USA,3,Toronto FC,0,The Home Depot Center
+2011-09-25,Chicago Fire,3,New England Revolution,2,Toyota Park
+2011-09-28,Sporting Kansas City,2,Columbus Crew SC,1,Livestrong Sporting Park
+2011-09-28,Real Salt Lake,0,Chicago Fire,3,Rio Tinto Stadium
+2011-09-29,Philadelphia Union,3,D.C. United,2,Talen Energy Stadium
+2011-10-01,Houston Dynamo,1,Chicago Fire,1,Robertson Stadium
+2011-10-01,Toronto FC,1,New York Red Bulls,1,BMO Field
+2011-10-01,New England Revolution,1,Seattle Sounders FC,2,Gillette Stadium
+2011-10-01,Colorado Rapids,1,FC Dallas,0,Dick's Sporting Goods Park
+2011-10-01,San Jose Earthquakes,1,Sporting Kansas City,1,Buck Shaw Stadium
+2011-10-01,LA Galaxy,2,Real Salt Lake,1,The Home Depot Center
+2011-10-02,Columbus Crew SC,2,D.C. United,1,Crew Stadium
+2011-10-02,Vancouver Whitecaps FC,0,Portland Timbers,1,BC Place
+2011-10-02,CD Chivas USA,1,Philadelphia Union,1,The Home Depot Center
+2011-10-04,New York Red Bulls,2,LA Galaxy,0,Red Bull Arena
+2011-10-06,Vancouver Whitecaps FC,3,Real Salt Lake,0,BC Place Stadium
+2011-10-08,New England Revolution,1,San Jose Earthquakes,2,Gillette Stadium
+2011-10-08,Seattle Sounders FC,0,Philadelphia Union,2,CenturyLink Field
+2011-10-12,Chicago Fire,1,FC Dallas,2,Toyota Park
+2011-10-12,Vancouver Whitecaps FC,2,D.C. United,1,BC Place
+2011-10-14,Portland Timbers,0,Houston Dynamo,2,JELD-WEN Field
+2011-10-14,Colorado Rapids,0,Real Salt Lake,0,Dick's Sporting Goods Park
+2011-10-15,Sporting Kansas City,2,New York Red Bulls,0,Livestrong Sporting Park
+2011-10-15,Philadelphia Union,1,Toronto FC,1,Talen Energy Stadium
+2011-10-15,D.C. United,1,Chicago Fire,2,RFK Stadium
+2011-10-15,New England Revolution,0,Columbus Crew SC,3,Gillette Stadium
+2011-10-15,FC Dallas,2,Vancouver Whitecaps FC,0,Pizza Hut Park
+2011-10-15,Seattle Sounders FC,2,San Jose Earthquakes,1,CenturyLink Field
+2011-10-16,LA Galaxy,1,CD Chivas USA,0,The Home Depot Center
+2011-10-19,D.C. United,1,Portland Timbers,1,RFK Stadium
+2011-10-20,New York Red Bulls,1,Philadelphia Union,0,Red Bull Arena
+2011-10-22,Toronto FC,2,New England Revolution,2,BMO Field
+2011-10-22,Vancouver Whitecaps FC,1,Colorado Rapids,2,BC Place
+2011-10-22,D.C. United,0,Sporting Kansas City,1,RFK Stadium
+2011-10-22,Chicago Fire,3,Columbus Crew SC,2,Toyota Park
+2011-10-22,Real Salt Lake,1,Portland Timbers,1,Rio Tinto Stadium
+2011-10-22,San Jose Earthquakes,4,FC Dallas,2,Buck Shaw Stadium
+2011-10-22,CD Chivas USA,1,Seattle Sounders FC,3,The Home Depot Center
+2011-10-23,Houston Dynamo,3,LA Galaxy,1,Robertson Stadium

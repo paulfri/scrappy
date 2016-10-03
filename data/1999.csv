@@ -1,0 +1,193 @@
+date,home,home_score,away,away_score,venue
+1999-03-20,LA Galaxy,2,Colorado Rapids,1,Rose Bowl
+1999-03-20,San Jose Earthquakes,1,Chicago Fire,3,Spartan Stadium
+1999-03-20,Tampa Bay Mutiny,2,D.C. United,5,Raymond James Stadium
+1999-03-20,Miami Fusion,2,New York Red Bulls,3,Lockhart Stadium
+1999-03-20,FC Dallas,4,Sporting Kansas City,0,Cotton Bowl
+1999-03-27,Sporting Kansas City,0,Chicago Fire,3,Arrowhead Stadium
+1999-03-27,San Jose Earthquakes,3,Colorado Rapids,2,Spartan Stadium
+1999-03-28,New York Red Bulls,1,Columbus Crew SC,0,Giants Stadium
+1999-03-28,Miami Fusion,2,New England Revolution,1,Lockhart Stadium
+1999-03-28,LA Galaxy,1,FC Dallas,0,Rose Bowl
+1999-04-03,San Jose Earthquakes,2,LA Galaxy,1,Spartan Stadium
+1999-04-03,Tampa Bay Mutiny,2,Columbus Crew SC,3,Raymond James Stadium
+1999-04-03,Miami Fusion,1,Chicago Fire,4,Lockhart Stadium
+1999-04-03,New York Red Bulls,0,D.C. United,1,Giants Stadium
+1999-04-03,Sporting Kansas City,0,New England Revolution,1,Arrowhead Stadium
+1999-04-08,LA Galaxy,1,Columbus Crew SC,2,Rose Bowl
+1999-04-10,Sporting Kansas City,1,San Jose Earthquakes,2,Arrowhead Stadium
+1999-04-10,New England Revolution,2,D.C. United,3,Foxboro Stadium
+1999-04-10,Chicago Fire,0,FC Dallas,1,Soldier Field
+1999-04-10,Colorado Rapids,4,Miami Fusion,1,Mile High Stadium
+1999-04-11,Tampa Bay Mutiny,1,New York Red Bulls,2,Raymond James Stadium
+1999-04-15,Miami Fusion,2,FC Dallas,1,Lockhart Stadium
+1999-04-17,New England Revolution,0,Columbus Crew SC,1,Foxboro Stadium
+1999-04-17,D.C. United,1,San Jose Earthquakes,2,RFK Stadium
+1999-04-17,Chicago Fire,1,LA Galaxy,0,Soldier Field
+1999-04-17,Colorado Rapids,2,Sporting Kansas City,1,Mile High Stadium
+1999-04-18,FC Dallas,2,Tampa Bay Mutiny,1,Cotton Bowl
+1999-04-24,LA Galaxy,1,San Jose Earthquakes,0,Rose Bowl
+1999-04-24,D.C. United,2,New England Revolution,3,RFK Stadium
+1999-04-24,Miami Fusion,1,Sporting Kansas City,0,Lockhart Stadium
+1999-04-24,FC Dallas,2,Columbus Crew SC,0,Cotton Bowl
+1999-04-25,New York Red Bulls,0,Tampa Bay Mutiny,1,Giants Stadium
+1999-04-28,Sporting Kansas City,0,Columbus Crew SC,1,Arrowhead Stadium
+1999-04-30,San Jose Earthquakes,2,FC Dallas,1,Spartan Stadium
+1999-05-01,Tampa Bay Mutiny,2,Miami Fusion,1,Raymond James Stadium
+1999-05-01,New York Red Bulls,0,LA Galaxy,1,Giants Stadium
+1999-05-01,New England Revolution,1,Colorado Rapids,2,Foxboro Stadium
+1999-05-01,Chicago Fire,3,D.C. United,2,Soldier Field
+1999-05-08,D.C. United,2,New York Red Bulls,1,RFK Stadium
+1999-05-08,Tampa Bay Mutiny,2,Chicago Fire,1,Raymond James Stadium
+1999-05-08,New England Revolution,1,Miami Fusion,0,Foxboro Stadium
+1999-05-08,Sporting Kansas City,2,LA Galaxy,1,Arrowhead Stadium
+1999-05-08,FC Dallas,1,Colorado Rapids,2,Cotton Bowl
+1999-05-09,San Jose Earthquakes,1,Columbus Crew SC,2,Spartan Stadium
+1999-05-15,LA Galaxy,0,Tampa Bay Mutiny,1,Rose Bowl
+1999-05-15,New York Red Bulls,3,Miami Fusion,2,Giants Stadium
+1999-05-15,Columbus Crew SC,2,New England Revolution,0,Columbus Crew Stadium
+1999-05-15,Sporting Kansas City,3,D.C. United,4,Arrowhead Stadium
+1999-05-15,FC Dallas,2,San Jose Earthquakes,1,Cotton Bowl
+1999-05-16,Chicago Fire,0,Colorado Rapids,1,Soldier Field
+1999-05-22,San Jose Earthquakes,2,FC Dallas,1,Spartan Stadium
+1999-05-22,Miami Fusion,1,D.C. United,3,Lockhart Stadium
+1999-05-22,Columbus Crew SC,0,Tampa Bay Mutiny,1,Columbus Crew Stadium
+1999-05-22,Chicago Fire,3,Sporting Kansas City,1,Soldier Field
+1999-05-22,Colorado Rapids,2,New York Red Bulls,0,Mile High Stadium
+1999-05-23,LA Galaxy,1,New England Revolution,0,Rose Bowl
+1999-05-26,FC Dallas,2,Miami Fusion,1,Cotton Bowl
+1999-05-27,Colorado Rapids,4,San Jose Earthquakes,2,Mile High Stadium
+1999-05-29,New York Red Bulls,3,New England Revolution,4,Giants Stadium
+1999-05-29,Columbus Crew SC,2,LA Galaxy,1,Columbus Crew Stadium
+1999-05-29,D.C. United,3,Chicago Fire,1,RFK Stadium
+1999-05-29,Miami Fusion,2,Tampa Bay Mutiny,1,Lockhart Stadium
+1999-06-03,San Jose Earthquakes,4,Colorado Rapids,3,Spartan Stadium
+1999-06-05,Tampa Bay Mutiny,1,Miami Fusion,0,Raymond James Stadium
+1999-06-05,New York Red Bulls,2,FC Dallas,5,Giants Stadium
+1999-06-05,New England Revolution,2,Chicago Fire,0,Foxboro Stadium
+1999-06-05,D.C. United,1,Columbus Crew SC,0,RFK Stadium
+1999-06-06,LA Galaxy,1,Sporting Kansas City,0,Rose Bowl
+1999-06-10,D.C. United,3,Miami Fusion,1,RFK Stadium
+1999-06-12,LA Galaxy,2,Chicago Fire,1,Rose Bowl
+1999-06-12,San Jose Earthquakes,2,Tampa Bay Mutiny,1,Spartan Stadium
+1999-06-12,New York Red Bulls,0,Colorado Rapids,1,Giants Stadium
+1999-06-12,Sporting Kansas City,1,FC Dallas,0,Arrowhead Stadium
+1999-06-13,New England Revolution,4,Miami Fusion,3,Foxboro Stadium
+1999-06-13,Columbus Crew SC,1,D.C. United,2,Columbus Crew Stadium
+1999-06-16,Columbus Crew SC,2,New England Revolution,1,Columbus Crew Stadium
+1999-06-16,FC Dallas,3,D.C. United,0,Cotton Bowl
+1999-06-19,Tampa Bay Mutiny,2,New England Revolution,3,Raymond James Stadium
+1999-06-19,D.C. United,1,LA Galaxy,2,RFK Stadium
+1999-06-19,Chicago Fire,2,San Jose Earthquakes,0,Soldier Field
+1999-06-19,Colorado Rapids,2,FC Dallas,1,Mile High Stadium
+1999-06-20,Sporting Kansas City,6,New York Red Bulls,0,Arrowhead Stadium
+1999-06-26,D.C. United,3,Sporting Kansas City,0,RFK Stadium
+1999-06-26,Miami Fusion,1,San Jose Earthquakes,2,Lockhart Stadium
+1999-06-26,Columbus Crew SC,2,New York Red Bulls,1,Columbus Crew Stadium
+1999-06-26,FC Dallas,2,New England Revolution,0,Cotton Bowl
+1999-06-26,Colorado Rapids,2,Chicago Fire,0,Mile High Stadium
+1999-06-27,Tampa Bay Mutiny,2,LA Galaxy,4,Raymond James Stadium
+1999-06-30,New York Red Bulls,2,Tampa Bay Mutiny,1,Giants Stadium
+1999-06-30,Columbus Crew SC,4,San Jose Earthquakes,3,Columbus Crew Stadium
+1999-07-02,Chicago Fire,2,FC Dallas,1,Soldier Field
+1999-07-03,Tampa Bay Mutiny,1,Sporting Kansas City,2,Raymond James Stadium
+1999-07-04,LA Galaxy,1,Miami Fusion,2,Rose Bowl
+1999-07-04,New England Revolution,3,New York Red Bulls,2,Foxboro Stadium
+1999-07-04,FC Dallas,1,Chicago Fire,2,Cotton Bowl
+1999-07-04,San Jose Earthquakes,2,D.C. United,1,Stanford Stadium
+1999-07-04,Colorado Rapids,0,Columbus Crew SC,3,Mile High Stadium
+1999-07-07,Columbus Crew SC,1,D.C. United,2,Columbus Crew Stadium
+1999-07-07,Sporting Kansas City,1,Colorado Rapids,2,Arrowhead Stadium
+1999-07-08,Tampa Bay Mutiny,2,San Jose Earthquakes,1,Raymond James Stadium
+1999-07-10,D.C. United,1,Colorado Rapids,2,RFK Stadium
+1999-07-10,Miami Fusion,2,Columbus Crew SC,0,Lockhart Stadium
+1999-07-10,Chicago Fire,2,New York Red Bulls,0,Soldier Field
+1999-07-10,FC Dallas,5,Sporting Kansas City,0,Cotton Bowl
+1999-07-11,New England Revolution,2,LA Galaxy,5,Foxboro Stadium
+1999-07-22,Sporting Kansas City,4,Tampa Bay Mutiny,3,Arrowhead Stadium
+1999-07-23,Chicago Fire,2,San Jose Earthquakes,3,Soldier Field
+1999-07-24,New York Red Bulls,0,Miami Fusion,1,Giants Stadium
+1999-07-24,Columbus Crew SC,4,FC Dallas,1,Columbus Crew Stadium
+1999-07-25,New England Revolution,0,D.C. United,2,Foxboro Stadium
+1999-07-25,LA Galaxy,2,Sporting Kansas City,1,Rose Bowl
+1999-07-25,Colorado Rapids,2,Tampa Bay Mutiny,3,Mile High Stadium
+1999-07-28,Colorado Rapids,1,LA Galaxy,0,Mile High Stadium
+1999-07-29,Miami Fusion,3,Tampa Bay Mutiny,2,Lockhart Stadium
+1999-07-31,Chicago Fire,0,LA Galaxy,1,Soldier Field
+1999-07-31,Tampa Bay Mutiny,4,New England Revolution,1,Raymond James Stadium
+1999-07-31,Sporting Kansas City,3,San Jose Earthquakes,2,Arrowhead Stadium
+1999-07-31,FC Dallas,0,Colorado Rapids,2,Cotton Bowl
+1999-08-01,Columbus Crew SC,4,Miami Fusion,0,Columbus Crew Stadium
+1999-08-04,FC Dallas,2,New York Red Bulls,0,Cotton Bowl
+1999-08-05,Sporting Kansas City,1,Chicago Fire,2,Arrowhead Stadium
+1999-08-06,Colorado Rapids,1,New England Revolution,0,Mile High Stadium
+1999-08-07,San Jose Earthquakes,1,LA Galaxy,4,Spartan Stadium
+1999-08-07,Miami Fusion,2,New York Red Bulls,0,Lockhart Stadium
+1999-08-08,Chicago Fire,5,Colorado Rapids,0,Soldier Field
+1999-08-08,D.C. United,3,Tampa Bay Mutiny,2,RFK Stadium
+1999-08-08,Columbus Crew SC,2,Sporting Kansas City,1,Columbus Crew Stadium
+1999-08-11,New York Red Bulls,1,D.C. United,4,Giants Stadium
+1999-08-12,New England Revolution,1,San Jose Earthquakes,2,Foxboro Stadium
+1999-08-13,Tampa Bay Mutiny,0,Colorado Rapids,1,Raymond James Stadium
+1999-08-14,LA Galaxy,2,FC Dallas,0,Rose Bowl
+1999-08-14,D.C. United,2,Columbus Crew SC,1,RFK Stadium
+1999-08-14,New York Red Bulls,1,Sporting Kansas City,2,Giants Stadium
+1999-08-14,Chicago Fire,1,Miami Fusion,2,Soldier Field
+1999-08-18,New York Red Bulls,2,Columbus Crew SC,4,Giants Stadium
+1999-08-18,New England Revolution,0,Tampa Bay Mutiny,1,Foxboro Stadium
+1999-08-18,Colorado Rapids,0,FC Dallas,3,Mile High Stadium
+1999-08-21,LA Galaxy,4,New York Red Bulls,1,Rose Bowl
+1999-08-21,Miami Fusion,2,D.C. United,3,Lockhart Stadium
+1999-08-21,San Jose Earthquakes,2,New England Revolution,1,Spartan Stadium
+1999-08-22,FC Dallas,4,Chicago Fire,3,Cotton Bowl
+1999-08-22,Columbus Crew SC,1,Tampa Bay Mutiny,2,Columbus Crew Stadium
+1999-08-25,New York Red Bulls,1,New England Revolution,2,Giants Stadium
+1999-08-25,D.C. United,3,Miami Fusion,1,RFK Stadium
+1999-08-25,Chicago Fire,2,Sporting Kansas City,0,Soldier Field
+1999-08-27,Tampa Bay Mutiny,2,Columbus Crew SC,1,Raymond James Stadium
+1999-08-28,San Jose Earthquakes,2,New York Red Bulls,1,Spartan Stadium
+1999-08-28,Chicago Fire,2,New England Revolution,1,Soldier Field
+1999-08-28,FC Dallas,1,LA Galaxy,0,Cotton Bowl
+1999-08-28,Colorado Rapids,0,D.C. United,1,Mile High Stadium
+1999-08-29,Sporting Kansas City,2,Miami Fusion,0,Arrowhead Stadium
+1999-09-01,LA Galaxy,3,San Jose Earthquakes,1,Rose Bowl
+1999-09-04,D.C. United,4,FC Dallas,1,RFK Stadium
+1999-09-04,New England Revolution,1,Tampa Bay Mutiny,5,Foxboro Stadium
+1999-09-04,Columbus Crew SC,2,Colorado Rapids,1,Columbus Crew Stadium
+1999-09-04,Miami Fusion,1,LA Galaxy,2,Lockhart Stadium
+1999-09-04,San Jose Earthquakes,2,Sporting Kansas City,0,Spartan Stadium
+1999-09-05,New York Red Bulls,1,Chicago Fire,2,Giants Stadium
+1999-09-07,New England Revolution,3,Sporting Kansas City,2,Foxboro Stadium
+1999-09-10,Tampa Bay Mutiny,1,D.C. United,2,Raymond James Stadium
+1999-09-10,Colorado Rapids,1,Sporting Kansas City,0,Mile High Stadium
+1999-09-11,LA Galaxy,1,Chicago Fire,0,Rose Bowl
+1999-09-11,Miami Fusion,2,New England Revolution,1,Lockhart Stadium
+1999-09-11,FC Dallas,1,San Jose Earthquakes,0,Cotton Bowl
+1999-09-12,Columbus Crew SC,1,New York Red Bulls,2,Columbus Crew Stadium
+1999-09-17,Chicago Fire,2,Tampa Bay Mutiny,1,Soldier Field
+1999-09-18,New England Revolution,0,Columbus Crew SC,1,Foxboro Stadium
+1999-09-18,D.C. United,2,New York Red Bulls,1,RFK Stadium
+1999-09-18,Sporting Kansas City,1,FC Dallas,2,Arrowhead Stadium
+1999-09-18,Colorado Rapids,1,LA Galaxy,0,Mile High Stadium
+1999-09-19,San Jose Earthquakes,6,Miami Fusion,1,Spartan Stadium
+1999-09-22,New York Red Bulls,1,San Jose Earthquakes,2,Giants Stadium
+1999-09-23,Chicago Fire,1,Columbus Crew SC,2,Soldier Field
+1999-09-24,New England Revolution,0,FC Dallas,1,Foxboro Stadium
+1999-09-25,LA Galaxy,0,D.C. United,2,Rose Bowl
+1999-09-25,Tampa Bay Mutiny,1,New York Red Bulls,2,Raymond James Stadium
+1999-09-25,Sporting Kansas City,0,Colorado Rapids,1,Arrowhead Stadium
+1999-09-26,Columbus Crew SC,2,Miami Fusion,1,Columbus Crew Stadium
+1999-09-26,San Jose Earthquakes,2,Chicago Fire,0,Spartan Stadium
+1999-09-29,LA Galaxy,4,Colorado Rapids,0,Rose Bowl
+1999-10-01,Colorado Rapids,1,San Jose Earthquakes,0,Mile High Stadium
+1999-10-02,New England Revolution,2,New York Red Bulls,1,Foxboro Stadium
+1999-10-03,FC Dallas,4,LA Galaxy,3,Cotton Bowl
+1999-10-03,Miami Fusion,4,Columbus Crew SC,1,Lockhart Stadium
+1999-10-06,San Jose Earthquakes,1,Sporting Kansas City,0,Spartan Stadium
+1999-10-06,D.C. United,2,Tampa Bay Mutiny,4,RFK Stadium
+1999-10-06,Colorado Rapids,0,Chicago Fire,1,Mile High Stadium
+1999-10-09,D.C. United,1,New England Revolution,2,RFK Stadium
+1999-10-09,Miami Fusion,2,Colorado Rapids,0,Lockhart Stadium
+1999-10-09,Sporting Kansas City,0,LA Galaxy,1,Arrowhead Stadium
+1999-10-10,Columbus Crew SC,2,Chicago Fire,3,Columbus Crew Stadium
+1999-10-10,Tampa Bay Mutiny,1,FC Dallas,2,Raymond James Stadium

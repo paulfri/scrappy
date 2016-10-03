@@ -1,0 +1,212 @@
+date,home,home_score,away,away_score,venue
+2008-03-29,Columbus Crew SC,2,Toronto FC,0,Columbus Crew Stadium
+2008-03-29,Real Salt Lake,1,Chicago Fire,1,Rice-Eccles Stadium
+2008-03-29,New England Revolution,3,Houston Dynamo,0,Gillette Stadium
+2008-03-29,Sporting Kansas City,2,D.C. United,0,CommunityAmerica Ballpark
+2008-03-29,Colorado Rapids,4,LA Galaxy,0,Dick's Sporting Goods Park
+2008-03-30,FC Dallas,1,CD Chivas USA,1,Pizza Hut Park
+2008-04-03,Chicago Fire,4,New England Revolution,0,Toyota Park
+2008-04-03,LA Galaxy,2,San Jose Earthquakes,0,The Home Depot Center
+2008-04-05,Sporting Kansas City,3,Colorado Rapids,2,CommunityAmerica Ballpark
+2008-04-05,D.C. United,4,Toronto FC,1,RFK Stadium
+2008-04-05,New York Red Bulls,2,Columbus Crew SC,0,Giants Stadium
+2008-04-05,CD Chivas USA,3,Real Salt Lake,1,The Home Depot Center
+2008-04-06,Houston Dynamo,3,FC Dallas,3,Robertson Stadium
+2008-04-09,Sporting Kansas City,1,New England Revolution,3,CommunityAmerica Ballpark
+2008-04-12,San Jose Earthquakes,0,Chicago Fire,1,Oakland Coliseum
+2008-04-12,Columbus Crew SC,4,CD Chivas USA,3,Columbus Crew Stadium
+2008-04-12,New England Revolution,0,Colorado Rapids,1,Gillette Stadium
+2008-04-12,Sporting Kansas City,0,Houston Dynamo,0,CommunityAmerica Ballpark
+2008-04-12,FC Dallas,2,New York Red Bulls,0,Pizza Hut Park
+2008-04-12,Real Salt Lake,4,D.C. United,0,Rice-Eccles Stadium
+2008-04-13,LA Galaxy,2,Toronto FC,3,The Home Depot Center
+2008-04-17,D.C. United,1,Columbus Crew SC,2,RFK Stadium
+2008-04-19,Toronto FC,1,Real Salt Lake,0,BMO Field
+2008-04-19,New York Red Bulls,1,New England Revolution,1,Giants Stadium
+2008-04-19,Colorado Rapids,0,San Jose Earthquakes,2,Dick's Sporting Goods Park
+2008-04-19,LA Galaxy,2,Houston Dynamo,2,The Home Depot Center
+2008-04-20,Chicago Fire,0,Sporting Kansas City,1,Toyota Park
+2008-04-20,CD Chivas USA,0,FC Dallas,2,The Home Depot Center
+2008-04-24,FC Dallas,0,New England Revolution,1,Pizza Hut Park
+2008-04-26,Toronto FC,2,Sporting Kansas City,0,BMO Field
+2008-04-26,Columbus Crew SC,1,Houston Dynamo,0,Columbus Crew Stadium
+2008-04-26,D.C. United,4,Real Salt Lake,1,RFK Stadium
+2008-04-26,Chicago Fire,2,Colorado Rapids,1,Toyota Park
+2008-04-26,LA Galaxy,5,CD Chivas USA,2,The Home Depot Center
+2008-04-27,New York Red Bulls,2,San Jose Earthquakes,0,Giants Stadium
+2008-05-01,Toronto FC,1,New York Red Bulls,1,BMO Field
+2008-05-03,Columbus Crew SC,2,Sporting Kansas City,1,Columbus Crew Stadium
+2008-05-03,New England Revolution,0,Chicago Fire,3,Gillette Stadium
+2008-05-03,Houston Dynamo,0,CD Chivas USA,0,Robertson Stadium
+2008-05-03,Real Salt Lake,2,LA Galaxy,2,Rice-Eccles Stadium
+2008-05-03,San Jose Earthquakes,0,FC Dallas,0,Buck Shaw Stadium
+2008-05-04,Colorado Rapids,2,D.C. United,0,Dick's Sporting Goods Park
+2008-05-08,D.C. United,0,Chicago Fire,2,RFK Stadium
+2008-05-10,Houston Dynamo,2,Colorado Rapids,1,Robertson Stadium
+2008-05-10,Real Salt Lake,2,FC Dallas,1,Rice-Eccles Stadium
+2008-05-10,San Jose Earthquakes,2,Columbus Crew SC,3,Buck Shaw Stadium
+2008-05-10,LA Galaxy,1,New York Red Bulls,2,The Home Depot Center
+2008-05-11,CD Chivas USA,1,New England Revolution,2,The Home Depot Center
+2008-05-15,Colorado Rapids,2,Real Salt Lake,0,Dick's Sporting Goods Park
+2008-05-17,Toronto FC,0,Columbus Crew SC,0,BMO Field
+2008-05-17,New England Revolution,2,San Jose Earthquakes,0,Gillette Stadium
+2008-05-17,New York Red Bulls,1,Sporting Kansas City,1,Giants Stadium
+2008-05-17,Chicago Fire,1,Houston Dynamo,2,Toyota Park
+2008-05-17,CD Chivas USA,3,D.C. United,1,The Home Depot Center
+2008-05-18,FC Dallas,1,LA Galaxy,5,Pizza Hut Park
+2008-05-21,Toronto FC,1,D.C. United,0,BMO Field
+2008-05-22,San Jose Earthquakes,2,Houston Dynamo,1,Buck Shaw Stadium
+2008-05-24,D.C. United,3,Toronto FC,2,RFK Stadium
+2008-05-24,Columbus Crew SC,0,New England Revolution,1,Columbus Crew Stadium
+2008-05-24,FC Dallas,2,Real Salt Lake,1,Pizza Hut Park
+2008-05-24,Colorado Rapids,1,CD Chivas USA,2,Dick's Sporting Goods Park
+2008-05-24,LA Galaxy,3,Sporting Kansas City,1,The Home Depot Center
+2008-05-25,New York Red Bulls,1,Chicago Fire,5,Giants Stadium
+2008-05-28,FC Dallas,2,Houston Dynamo,2,Pizza Hut Park
+2008-05-29,New England Revolution,2,D.C. United,2,Gillette Stadium
+2008-05-31,Toronto FC,2,LA Galaxy,0,BMO Field
+2008-05-31,Houston Dynamo,1,New York Red Bulls,0,Robertson Stadium
+2008-05-31,Real Salt Lake,3,San Jose Earthquakes,1,Rice-Eccles Stadium
+2008-05-31,CD Chivas USA,2,Columbus Crew SC,0,The Home Depot Center
+2008-06-01,Colorado Rapids,2,FC Dallas,1,Dick's Sporting Goods Park
+2008-06-05,New York Red Bulls,1,CD Chivas USA,0,Giants Stadium
+2008-06-06,New England Revolution,2,FC Dallas,1,Gillette Stadium
+2008-06-07,Columbus Crew SC,0,San Jose Earthquakes,2,Columbus Crew Stadium
+2008-06-07,Chicago Fire,1,D.C. United,2,Toyota Park
+2008-06-07,Real Salt Lake,0,Sporting Kansas City,0,Rice-Eccles Stadium
+2008-06-07,LA Galaxy,3,Colorado Rapids,2,The Home Depot Center
+2008-06-08,Houston Dynamo,3,Toronto FC,1,Robertson Stadium
+2008-06-12,Houston Dynamo,0,New England Revolution,2,Robertson Stadium
+2008-06-14,Toronto FC,3,Colorado Rapids,1,BMO Field
+2008-06-14,D.C. United,4,New York Red Bulls,1,RFK Stadium
+2008-06-14,Sporting Kansas City,0,Columbus Crew SC,3,CommunityAmerica Ballpark
+2008-06-14,San Jose Earthquakes,0,LA Galaxy,3,Oakland Coliseum
+2008-06-14,CD Chivas USA,0,Real Salt Lake,1,The Home Depot Center
+2008-06-15,FC Dallas,1,Chicago Fire,0,Pizza Hut Park
+2008-06-18,New England Revolution,1,New York Red Bulls,1,Gillette Stadium
+2008-06-18,Real Salt Lake,0,San Jose Earthquakes,0,Rice-Eccles Stadium
+2008-06-19,CD Chivas USA,2,Chicago Fire,0,The Home Depot Center
+2008-06-21,Toronto FC,0,Sporting Kansas City,0,BMO Field
+2008-06-21,New York Red Bulls,1,FC Dallas,0,Giants Stadium
+2008-06-21,Colorado Rapids,0,Houston Dynamo,0,Dick's Sporting Goods Park
+2008-06-21,Real Salt Lake,2,New England Revolution,1,Rice-Eccles Stadium
+2008-06-21,LA Galaxy,3,Columbus Crew SC,3,The Home Depot Center
+2008-06-22,D.C. United,3,San Jose Earthquakes,1,RFK Stadium
+2008-06-26,Houston Dynamo,1,FC Dallas,1,Robertson Stadium
+2008-06-28,Columbus Crew SC,2,Colorado Rapids,1,Columbus Crew Stadium
+2008-06-28,New England Revolution,2,Toronto FC,1,Gillette Stadium
+2008-06-28,Sporting Kansas City,1,Real Salt Lake,0,CommunityAmerica Ballpark
+2008-06-28,Chicago Fire,0,San Jose Earthquakes,0,Toyota Park
+2008-06-28,CD Chivas USA,1,New York Red Bulls,1,The Home Depot Center
+2008-06-29,D.C. United,4,LA Galaxy,1,RFK Stadium
+2008-07-03,Real Salt Lake,0,Houston Dynamo,0,Rice-Eccles Stadium
+2008-07-04,FC Dallas,1,Sporting Kansas City,1,Pizza Hut Park
+2008-07-04,Colorado Rapids,4,New York Red Bulls,0,Dick's Sporting Goods Park
+2008-07-04,LA Galaxy,1,New England Revolution,2,The Home Depot Center
+2008-07-05,Columbus Crew SC,2,Chicago Fire,2,Columbus Crew Stadium
+2008-07-05,CD Chivas USA,1,San Jose Earthquakes,0,The Home Depot Center
+2008-07-10,Sporting Kansas City,2,New York Red Bulls,1,CommunityAmerica Ballpark
+2008-07-10,LA Galaxy,1,CD Chivas USA,1,The Home Depot Center
+2008-07-12,San Jose Earthquakes,1,Colorado Rapids,1,Buck Shaw Stadium
+2008-07-12,Chicago Fire,2,Toronto FC,1,Toyota Park
+2008-07-12,Real Salt Lake,2,Columbus Crew SC,0,Rice-Eccles Stadium
+2008-07-17,Columbus Crew SC,3,Sporting Kansas City,3,Columbus Crew Stadium
+2008-07-19,Toronto FC,0,San Jose Earthquakes,0,BMO Field
+2008-07-19,New York Red Bulls,2,LA Galaxy,2,Giants Stadium
+2008-07-19,Chicago Fire,0,Real Salt Lake,0,Toyota Park
+2008-07-19,FC Dallas,2,Colorado Rapids,2,Pizza Hut Park
+2008-07-22,D.C. United,0,Houston Dynamo,0,RFK Stadium
+2008-07-23,D.C. United,0,Houston Dynamo,2,RFK Stadium
+2008-07-27,San Jose Earthquakes,1,New York Red Bulls,1,Buck Shaw Stadium
+2008-07-27,FC Dallas,4,LA Galaxy,0,Pizza Hut Park
+2008-07-27,Sporting Kansas City,0,Chicago Fire,0,CommunityAmerica Ballpark
+2008-07-27,Colorado Rapids,0,Columbus Crew SC,2,Dick's Sporting Goods Park
+2008-07-28,Real Salt Lake,2,Toronto FC,1,Rice-Eccles Stadium
+2008-08-02,D.C. United,2,Sporting Kansas City,0,RFK Stadium
+2008-08-02,Chicago Fire,1,CD Chivas USA,0,Toyota Park
+2008-08-02,Houston Dynamo,2,Columbus Crew SC,0,Robertson Stadium
+2008-08-03,San Jose Earthquakes,3,LA Galaxy,2,Oakland Coliseum
+2008-08-03,Toronto FC,0,FC Dallas,2,BMO Field
+2008-08-09,Colorado Rapids,0,Toronto FC,1,Dick's Sporting Goods Park
+2008-08-09,New England Revolution,1,Chicago Fire,2,Gillette Stadium
+2008-08-09,Sporting Kansas City,3,CD Chivas USA,2,CommunityAmerica Ballpark
+2008-08-10,New York Red Bulls,4,D.C. United,1,Giants Stadium
+2008-08-14,CD Chivas USA,2,LA Galaxy,2,The Home Depot Center
+2008-08-16,Columbus Crew SC,2,FC Dallas,1,Columbus Crew Stadium
+2008-08-16,Chicago Fire,0,D.C. United,1,Toyota Park
+2008-08-16,Houston Dynamo,4,Real Salt Lake,3,Robertson Stadium
+2008-08-16,Colorado Rapids,2,Sporting Kansas City,1,Dick's Sporting Goods Park
+2008-08-16,San Jose Earthquakes,4,New England Revolution,0,Buck Shaw Stadium
+2008-08-17,New York Red Bulls,2,Toronto FC,0,Giants Stadium
+2008-08-20,New England Revolution,2,D.C. United,1,Gillette Stadium
+2008-08-20,Houston Dynamo,4,CD Chivas USA,0,Robertson Stadium
+2008-08-21,LA Galaxy,0,Chicago Fire,1,The Home Depot Center
+2008-08-23,Toronto FC,1,New England Revolution,1,BMO Field
+2008-08-23,Columbus Crew SC,3,Real Salt Lake,0,Columbus Crew Stadium
+2008-08-23,D.C. United,3,Colorado Rapids,0,RFK Stadium
+2008-08-23,Sporting Kansas City,1,FC Dallas,1,CommunityAmerica Ballpark
+2008-08-23,CD Chivas USA,0,San Jose Earthquakes,0,The Home Depot Center
+2008-08-24,New York Red Bulls,3,Houston Dynamo,0,Giants Stadium
+2008-08-29,Real Salt Lake,2,Colorado Rapids,0,Rice-Eccles Stadium
+2008-08-30,D.C. United,0,New York Red Bulls,0,RFK Stadium
+2008-08-30,New England Revolution,2,LA Galaxy,2,Gillette Stadium
+2008-08-30,FC Dallas,1,Columbus Crew SC,2,Pizza Hut Park
+2008-08-30,San Jose Earthquakes,2,Sporting Kansas City,1,Buck Shaw Stadium
+2008-08-30,CD Chivas USA,2,Toronto FC,1,The Home Depot Center
+2008-08-31,Houston Dynamo,2,Chicago Fire,1,Robertson Stadium
+2008-09-04,FC Dallas,0,Colorado Rapids,1,Pizza Hut Park
+2008-09-06,Toronto FC,1,CD Chivas USA,3,BMO Field
+2008-09-06,Columbus Crew SC,4,New England Revolution,0,Columbus Crew Stadium
+2008-09-06,Chicago Fire,1,New York Red Bulls,0,Toyota Park
+2008-09-06,San Jose Earthquakes,2,D.C. United,1,Buck Shaw Stadium
+2008-09-06,LA Galaxy,2,Real Salt Lake,2,The Home Depot Center
+2008-09-07,Houston Dynamo,3,Sporting Kansas City,1,Robertson Stadium
+2008-09-11,New England Revolution,4,CD Chivas USA,0,Gillette Stadium
+2008-09-13,Toronto FC,1,Columbus Crew SC,1,BMO Field
+2008-09-13,Sporting Kansas City,2,LA Galaxy,0,Arrowhead Stadium
+2008-09-13,New York Red Bulls,2,Real Salt Lake,1,Giants Stadium
+2008-09-13,D.C. United,2,FC Dallas,2,RFK Stadium
+2008-09-13,San Jose Earthquakes,1,Houston Dynamo,1,Buck Shaw Stadium
+2008-09-14,Colorado Rapids,2,Chicago Fire,0,Dick's Sporting Goods Park
+2008-09-18,Columbus Crew SC,3,New York Red Bulls,1,Columbus Crew Stadium
+2008-09-20,Sporting Kansas City,2,Toronto FC,0,CommunityAmerica Ballpark
+2008-09-20,Real Salt Lake,0,CD Chivas USA,1,Rice-Eccles Stadium
+2008-09-20,Colorado Rapids,1,New England Revolution,1,Dick's Sporting Goods Park
+2008-09-20,LA Galaxy,5,D.C. United,2,The Home Depot Center
+2008-09-21,Chicago Fire,1,FC Dallas,4,Toyota Park
+2008-09-25,Chicago Fire,3,LA Galaxy,1,Toyota Park
+2008-09-27,Toronto FC,1,Houston Dynamo,1,BMO Field
+2008-09-27,New York Red Bulls,4,Colorado Rapids,5,Giants Stadium
+2008-09-27,New England Revolution,0,Columbus Crew SC,1,Gillette Stadium
+2008-09-27,San Jose Earthquakes,2,Real Salt Lake,3,Buck Shaw Stadium
+2008-09-27,CD Chivas USA,2,Sporting Kansas City,1,The Home Depot Center
+2008-09-28,FC Dallas,3,D.C. United,0,Pizza Hut Park
+2008-10-02,FC Dallas,1,San Jose Earthquakes,1,Pizza Hut Park
+2008-10-04,D.C. United,0,CD Chivas USA,3,RFK Stadium
+2008-10-04,Columbus Crew SC,1,LA Galaxy,1,Columbus Crew Stadium
+2008-10-04,New York Red Bulls,1,Toronto FC,3,Giants Stadium
+2008-10-04,New England Revolution,2,Real Salt Lake,2,Gillette Stadium
+2008-10-04,Colorado Rapids,1,Houston Dynamo,3,Dick's Sporting Goods Park
+2008-10-05,Sporting Kansas City,1,Chicago Fire,1,CommunityAmerica Ballpark
+2008-10-09,Real Salt Lake,1,New York Red Bulls,1,Rio Tinto Stadium
+2008-10-11,Sporting Kansas City,1,New England Revolution,0,CommunityAmerica Ballpark
+2008-10-11,FC Dallas,2,Toronto FC,2,Pizza Hut Park
+2008-10-11,San Jose Earthquakes,0,CD Chivas USA,1,Buck Shaw Stadium
+2008-10-12,Chicago Fire,2,Columbus Crew SC,2,Toyota Park
+2008-10-12,Houston Dynamo,0,D.C. United,0,Robertson Stadium
+2008-10-12,LA Galaxy,3,Colorado Rapids,2,The Home Depot Center
+2008-10-15,Houston Dynamo,2,San Jose Earthquakes,1,Robertson Stadium
+2008-10-16,D.C. United,2,New England Revolution,1,RFK Stadium
+2008-10-18,Toronto FC,3,Chicago Fire,2,BMO Field
+2008-10-18,New York Red Bulls,3,Columbus Crew SC,1,Giants Stadium
+2008-10-18,Sporting Kansas City,3,San Jose Earthquakes,2,CommunityAmerica Ballpark
+2008-10-18,Houston Dynamo,3,LA Galaxy,0,Robertson Stadium
+2008-10-18,Real Salt Lake,3,FC Dallas,1,Rio Tinto Stadium
+2008-10-19,CD Chivas USA,1,Colorado Rapids,2,The Home Depot Center
+2008-10-23,Chicago Fire,5,New York Red Bulls,2,Toyota Park
+2008-10-25,New England Revolution,1,Sporting Kansas City,3,Gillette Stadium
+2008-10-25,Colorado Rapids,1,Real Salt Lake,1,Dick's Sporting Goods Park
+2008-10-25,San Jose Earthquakes,2,Toronto FC,0,Buck Shaw Stadium
+2008-10-25,CD Chivas USA,1,Houston Dynamo,1,The Home Depot Center
+2008-10-26,LA Galaxy,2,FC Dallas,2,The Home Depot Center
+2008-10-26,Columbus Crew SC,1,D.C. United,0,Columbus Crew Stadium

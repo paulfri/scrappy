@@ -1,0 +1,141 @@
+date,home,home_score,away,away_score,venue
+2002-03-23,LA Galaxy,2,D.C. United,1,Rose Bowl
+2002-03-23,Columbus Crew SC,0,Chicago Fire,2,Columbus Crew Stadium
+2002-03-23,New York Red Bulls,3,New England Revolution,1,Giants Stadium
+2002-03-23,Sporting Kansas City,1,Colorado Rapids,1,Arrowhead Stadium
+2002-03-23,FC Dallas,0,San Jose Earthquakes,2,Cotton Bowl
+2002-03-27,New York Red Bulls,0,Columbus Crew SC,1,Giants Stadium
+2002-03-30,D.C. United,2,Chicago Fire,0,RFK Stadium
+2002-03-30,Colorado Rapids,1,San Jose Earthquakes,0,Invesco Field at Mile High
+2002-04-03,Colorado Rapids,2,D.C. United,0,Invesco Field at Mile High
+2002-04-06,LA Galaxy,2,Chicago Fire,1,Rose Bowl
+2002-04-06,San Jose Earthquakes,2,New England Revolution,1,Spartan Stadium
+2002-04-06,Columbus Crew SC,1,New York Red Bulls,2,Columbus Crew Stadium
+2002-04-06,FC Dallas,2,D.C. United,1,Cotton Bowl
+2002-04-13,LA Galaxy,1,FC Dallas,1,Rose Bowl
+2002-04-13,Sporting Kansas City,2,San Jose Earthquakes,0,Arrowhead Stadium
+2002-04-13,Colorado Rapids,1,New York Red Bulls,2,Invesco Field at Mile High
+2002-04-20,San Jose Earthquakes,2,Colorado Rapids,0,Spartan Stadium
+2002-04-20,Columbus Crew SC,0,New England Revolution,2,Columbus Crew Stadium
+2002-04-20,D.C. United,2,Sporting Kansas City,1,RFK Stadium
+2002-04-20,New York Red Bulls,0,Chicago Fire,2,Giants Stadium
+2002-04-20,FC Dallas,1,LA Galaxy,1,Cotton Bowl
+2002-04-27,LA Galaxy,0,Colorado Rapids,1,Rose Bowl
+2002-04-27,Columbus Crew SC,1,D.C. United,0,Columbus Crew Stadium
+2002-04-27,New York Red Bulls,1,San Jose Earthquakes,1,Giants Stadium
+2002-04-27,Chicago Fire,2,New England Revolution,2,Cardinal Stadium
+2002-04-27,FC Dallas,1,Sporting Kansas City,1,Cotton Bowl
+2002-05-04,San Jose Earthquakes,3,Columbus Crew SC,2,Spartan Stadium
+2002-05-04,D.C. United,0,Chicago Fire,3,RFK Stadium
+2002-05-04,Sporting Kansas City,1,LA Galaxy,2,Arrowhead Stadium
+2002-05-04,New York Red Bulls,1,FC Dallas,2,Giants Stadium
+2002-05-11,San Jose Earthquakes,2,New York Red Bulls,1,Spartan Stadium
+2002-05-11,Chicago Fire,0,LA Galaxy,1,Cardinal Stadium
+2002-05-11,New England Revolution,2,FC Dallas,0,Gillette Stadium
+2002-05-11,Colorado Rapids,2,Sporting Kansas City,0,Invesco Field at Mile High
+2002-05-12,D.C. United,1,Columbus Crew SC,1,RFK Stadium
+2002-05-18,FC Dallas,3,Colorado Rapids,1,Cotton Bowl
+2002-05-18,D.C. United,4,New York Red Bulls,2,RFK Stadium
+2002-05-18,Columbus Crew SC,2,San Jose Earthquakes,0,Columbus Crew Stadium
+2002-05-18,Sporting Kansas City,2,LA Galaxy,1,Arrowhead Stadium
+2002-05-19,New England Revolution,1,Chicago Fire,3,Gillette Stadium
+2002-05-22,Colorado Rapids,5,New England Revolution,2,Invesco Field at Mile High
+2002-05-25,New England Revolution,3,LA Galaxy,2,Gillette Stadium
+2002-05-25,Columbus Crew SC,1,FC Dallas,1,Columbus Crew Stadium
+2002-05-25,New York Red Bulls,1,Sporting Kansas City,1,Giants Stadium
+2002-05-26,Chicago Fire,1,San Jose Earthquakes,1,Cardinal Stadium
+2002-06-01,Colorado Rapids,3,LA Galaxy,2,Invesco Field at Mile High
+2002-06-01,New England Revolution,0,San Jose Earthquakes,2,Gillette Stadium
+2002-06-01,Sporting Kansas City,2,FC Dallas,2,Arrowhead Stadium
+2002-06-02,Chicago Fire,5,Columbus Crew SC,4,Cardinal Stadium
+2002-06-08,San Jose Earthquakes,3,Sporting Kansas City,0,Spartan Stadium
+2002-06-08,LA Galaxy,1,Chicago Fire,0,Rose Bowl
+2002-06-08,D.C. United,3,New England Revolution,2,RFK Stadium
+2002-06-08,FC Dallas,4,Colorado Rapids,1,Cotton Bowl
+2002-06-12,New England Revolution,1,Columbus Crew SC,2,Gillette Stadium
+2002-06-15,New York Red Bulls,5,LA Galaxy,0,Giants Stadium
+2002-06-15,Columbus Crew SC,2,San Jose Earthquakes,1,Columbus Crew Stadium
+2002-06-15,Sporting Kansas City,2,D.C. United,0,Arrowhead Stadium
+2002-06-15,Chicago Fire,1,FC Dallas,3,Cardinal Stadium
+2002-06-15,Colorado Rapids,1,New England Revolution,2,Invesco Field at Mile High
+2002-06-19,D.C. United,2,Colorado Rapids,0,RFK Stadium
+2002-06-19,Columbus Crew SC,1,Sporting Kansas City,1,Columbus Crew Stadium
+2002-06-22,San Jose Earthquakes,4,Colorado Rapids,0,Spartan Stadium
+2002-06-22,LA Galaxy,3,FC Dallas,0,Rose Bowl
+2002-06-22,Chicago Fire,0,New York Red Bulls,1,Cardinal Stadium
+2002-06-22,Sporting Kansas City,3,New England Revolution,2,Arrowhead Stadium
+2002-06-26,New York Red Bulls,0,Colorado Rapids,1,Giants Stadium
+2002-06-29,San Jose Earthquakes,2,Sporting Kansas City,1,Spartan Stadium
+2002-06-29,New England Revolution,0,New York Red Bulls,2,Gillette Stadium
+2002-06-29,D.C. United,1,LA Galaxy,0,RFK Stadium
+2002-06-29,FC Dallas,1,Columbus Crew SC,0,Cotton Bowl
+2002-07-04,LA Galaxy,2,San Jose Earthquakes,1,Rose Bowl
+2002-07-04,New England Revolution,4,Columbus Crew SC,1,Gillette Stadium
+2002-07-04,Sporting Kansas City,2,D.C. United,1,Arrowhead Stadium
+2002-07-04,FC Dallas,2,New York Red Bulls,0,Cotton Bowl
+2002-07-04,Colorado Rapids,3,Chicago Fire,2,Invesco Field at Mile High
+2002-07-06,Columbus Crew SC,2,New York Red Bulls,3,Columbus Crew Stadium
+2002-07-06,New England Revolution,2,D.C. United,0,Gillette Stadium
+2002-07-06,Sporting Kansas City,1,FC Dallas,1,Arrowhead Stadium
+2002-07-07,San Jose Earthquakes,1,LA Galaxy,0,Spartan Stadium
+2002-07-07,Chicago Fire,2,Colorado Rapids,1,Cardinal Stadium
+2002-07-13,New England Revolution,2,Sporting Kansas City,4,Gillette Stadium
+2002-07-13,New York Red Bulls,2,Chicago Fire,3,Giants Stadium
+2002-07-13,D.C. United,1,Columbus Crew SC,3,RFK Stadium
+2002-07-13,FC Dallas,2,San Jose Earthquakes,1,Cotton Bowl
+2002-07-13,Colorado Rapids,1,LA Galaxy,3,Invesco Field at Mile High
+2002-07-20,San Jose Earthquakes,4,FC Dallas,0,Spartan Stadium
+2002-07-20,LA Galaxy,2,Sporting Kansas City,2,Rose Bowl
+2002-07-20,New York Red Bulls,4,New England Revolution,3,Giants Stadium
+2002-07-20,Columbus Crew SC,1,Colorado Rapids,1,Columbus Crew Stadium
+2002-07-20,Chicago Fire,0,D.C. United,0,Cardinal Stadium
+2002-07-24,San Jose Earthquakes,1,Chicago Fire,0,Spartan Stadium
+2002-07-24,Columbus Crew SC,1,D.C. United,0,Columbus Crew Stadium
+2002-07-24,New England Revolution,2,Colorado Rapids,3,Gillette Stadium
+2002-07-24,Sporting Kansas City,1,New York Red Bulls,3,Arrowhead Stadium
+2002-07-27,LA Galaxy,2,Columbus Crew SC,1,Rose Bowl
+2002-07-27,Chicago Fire,3,New York Red Bulls,0,Cardinal Stadium
+2002-07-27,D.C. United,0,New England Revolution,1,RFK Stadium
+2002-07-27,Sporting Kansas City,2,San Jose Earthquakes,1,Arrowhead Stadium
+2002-07-27,Colorado Rapids,2,FC Dallas,2,Invesco Field at Mile High
+2002-07-31,New York Red Bulls,2,Columbus Crew SC,3,Giants Stadium
+2002-07-31,Chicago Fire,0,D.C. United,0,Cardinal Stadium
+2002-07-31,FC Dallas,0,Sporting Kansas City,1,Cotton Bowl
+2002-08-10,LA Galaxy,2,New England Revolution,1,Rose Bowl
+2002-08-10,FC Dallas,3,Chicago Fire,1,Cotton Bowl
+2002-08-10,D.C. United,0,Sporting Kansas City,0,RFK Stadium
+2002-08-10,Colorado Rapids,2,Columbus Crew SC,1,Invesco Field at Mile High
+2002-08-14,Columbus Crew SC,3,LA Galaxy,2,Columbus Crew Stadium
+2002-08-14,Chicago Fire,5,Sporting Kansas City,1,Cardinal Stadium
+2002-08-17,LA Galaxy,4,Colorado Rapids,0,Rose Bowl
+2002-08-17,San Jose Earthquakes,2,D.C. United,2,Spartan Stadium
+2002-08-17,New York Red Bulls,1,FC Dallas,3,Giants Stadium
+2002-08-18,New England Revolution,0,Chicago Fire,2,Gillette Stadium
+2002-08-18,Sporting Kansas City,0,Columbus Crew SC,4,Arrowhead Stadium
+2002-08-21,San Jose Earthquakes,3,FC Dallas,1,Spartan Stadium
+2002-08-21,LA Galaxy,2,Sporting Kansas City,1,Rose Bowl
+2002-08-24,Colorado Rapids,3,San Jose Earthquakes,0,Invesco Field at Mile High
+2002-08-24,Chicago Fire,1,New England Revolution,2,Cardinal Stadium
+2002-08-24,FC Dallas,1,LA Galaxy,0,Cotton Bowl
+2002-08-25,New York Red Bulls,1,D.C. United,0,Giants Stadium
+2002-08-28,New England Revolution,3,Colorado Rapids,1,Gillette Stadium
+2002-08-31,LA Galaxy,3,New York Red Bulls,0,Rose Bowl
+2002-08-31,Columbus Crew SC,0,New England Revolution,0,Columbus Crew Stadium
+2002-08-31,D.C. United,4,San Jose Earthquakes,2,RFK Stadium
+2002-08-31,Sporting Kansas City,2,Chicago Fire,1,Arrowhead Stadium
+2002-09-01,Colorado Rapids,3,FC Dallas,2,Invesco Field at Mile High
+2002-09-05,FC Dallas,1,New York Red Bulls,3,Cotton Bowl
+2002-09-07,San Jose Earthquakes,4,Columbus Crew SC,3,Spartan Stadium
+2002-09-07,New England Revolution,3,D.C. United,0,Gillette Stadium
+2002-09-07,Chicago Fire,1,LA Galaxy,2,Cardinal Stadium
+2002-09-12,New York Red Bulls,0,D.C. United,1,Giants Stadium
+2002-09-14,LA Galaxy,1,San Jose Earthquakes,0,Rose Bowl
+2002-09-14,Columbus Crew SC,2,Chicago Fire,0,Columbus Crew Stadium
+2002-09-14,D.C. United,2,New York Red Bulls,1,RFK Stadium
+2002-09-14,Sporting Kansas City,1,Colorado Rapids,2,Arrowhead Stadium
+2002-09-14,FC Dallas,1,New England Revolution,2,Cotton Bowl
+2002-09-19,D.C. United,3,FC Dallas,4,RFK Stadium
+2002-09-20,Colorado Rapids,1,Sporting Kansas City,1,Invesco Field at Mile High
+2002-09-21,San Jose Earthquakes,0,LA Galaxy,1,Spartan Stadium
+2002-09-21,New England Revolution,3,New York Red Bulls,0,Gillette Stadium
+2002-09-22,Chicago Fire,2,Columbus Crew SC,1,Cardinal Stadium

@@ -1,0 +1,193 @@
+date,home,home_score,away,away_score,venue
+1998-03-15,Miami Fusion,0,D.C. United,2,Lockhart Stadium
+1998-03-21,LA Galaxy,4,San Jose Earthquakes,3,Rose Bowl
+1998-03-21,Miami Fusion,0,Chicago Fire,2,Lockhart Stadium
+1998-03-21,Tampa Bay Mutiny,1,Columbus Crew SC,2,Houlihan's Stadium
+1998-03-21,D.C. United,3,Sporting Kansas City,2,RFK Stadium
+1998-03-21,FC Dallas,2,Colorado Rapids,1,Cotton Bowl
+1998-03-26,Tampa Bay Mutiny,0,Miami Fusion,1,Houlihan's Stadium
+1998-03-28,LA Galaxy,3,New York Red Bulls,2,Rose Bowl
+1998-03-28,San Jose Earthquakes,2,Colorado Rapids,3,Stanford Stadium
+1998-03-29,FC Dallas,2,Columbus Crew SC,1,Cotton Bowl
+1998-03-29,D.C. United,2,New England Revolution,1,RFK Stadium
+1998-04-04,Miami Fusion,2,New England Revolution,1,Lockhart Stadium
+1998-04-04,Columbus Crew SC,2,D.C. United,1,Ohio Stadium
+1998-04-04,Chicago Fire,2,Tampa Bay Mutiny,0,Soldier Field
+1998-04-04,Sporting Kansas City,2,New York Red Bulls,0,Arrowhead Stadium
+1998-04-04,Colorado Rapids,0,LA Galaxy,1,Mile High Stadium
+1998-04-05,San Jose Earthquakes,2,FC Dallas,3,Stanford Stadium
+1998-04-08,Sporting Kansas City,1,Chicago Fire,0,Arrowhead Stadium
+1998-04-11,San Jose Earthquakes,1,Chicago Fire,0,Stanford Stadium
+1998-04-11,New York Red Bulls,2,LA Galaxy,3,Giants Stadium
+1998-04-11,Miami Fusion,2,Sporting Kansas City,1,Lockhart Stadium
+1998-04-11,Tampa Bay Mutiny,3,FC Dallas,1,Houlihan's Stadium
+1998-04-11,D.C. United,4,Colorado Rapids,3,RFK Stadium
+1998-04-11,Columbus Crew SC,3,New England Revolution,2,Ohio Stadium
+1998-04-17,Chicago Fire,0,New York Red Bulls,1,Soldier Field
+1998-04-18,New England Revolution,2,D.C. United,1,Foxboro Stadium
+1998-04-18,Columbus Crew SC,5,Miami Fusion,1,Ohio Stadium
+1998-04-18,FC Dallas,1,San Jose Earthquakes,2,Cotton Bowl
+1998-04-18,Sporting Kansas City,1,LA Galaxy,2,Arrowhead Stadium
+1998-04-19,Colorado Rapids,3,Tampa Bay Mutiny,0,Mile High Stadium
+1998-04-25,LA Galaxy,5,Tampa Bay Mutiny,1,Rose Bowl
+1998-04-25,New York Red Bulls,4,San Jose Earthquakes,3,Giants Stadium
+1998-04-25,New England Revolution,3,Miami Fusion,0,Foxboro Stadium
+1998-04-25,FC Dallas,3,Sporting Kansas City,1,Cotton Bowl
+1998-04-25,Colorado Rapids,5,Chicago Fire,4,Mile High Stadium
+1998-04-26,D.C. United,2,Columbus Crew SC,1,RFK Stadium
+1998-04-29,D.C. United,3,San Jose Earthquakes,1,RFK Stadium
+1998-04-29,Sporting Kansas City,0,LA Galaxy,2,Arrowhead Stadium
+1998-04-30,Tampa Bay Mutiny,0,Columbus Crew SC,1,Houlihan's Stadium
+1998-05-02,Miami Fusion,3,Colorado Rapids,2,Lockhart Stadium
+1998-05-02,Chicago Fire,1,D.C. United,3,Soldier Field
+1998-05-03,Tampa Bay Mutiny,0,New York Red Bulls,1,Houlihan's Stadium
+1998-05-03,San Jose Earthquakes,1,New England Revolution,3,Spartan Stadium
+1998-05-06,LA Galaxy,7,Colorado Rapids,4,Rose Bowl
+1998-05-06,New York Red Bulls,0,FC Dallas,1,Giants Stadium
+1998-05-09,Miami Fusion,2,Columbus Crew SC,0,Lockhart Stadium
+1998-05-09,D.C. United,2,New York Red Bulls,0,RFK Stadium
+1998-05-09,Colorado Rapids,2,San Jose Earthquakes,3,Mile High Stadium
+1998-05-10,New England Revolution,4,Tampa Bay Mutiny,3,Foxboro Stadium
+1998-05-13,D.C. United,3,New England Revolution,2,RFK Stadium
+1998-05-13,Tampa Bay Mutiny,2,Sporting Kansas City,1,Houlihan's Stadium
+1998-05-16,San Jose Earthquakes,2,Miami Fusion,0,Spartan Stadium
+1998-05-16,New York Red Bulls,4,D.C. United,3,Giants Stadium
+1998-05-16,Tampa Bay Mutiny,1,Chicago Fire,2,Houlihan's Stadium
+1998-05-16,New England Revolution,1,Sporting Kansas City,3,Foxboro Stadium
+1998-05-16,FC Dallas,2,Colorado Rapids,1,Cotton Bowl
+1998-05-17,Columbus Crew SC,2,LA Galaxy,4,Ohio Stadium
+1998-05-20,Chicago Fire,3,LA Galaxy,1,Soldier Field
+1998-05-20,FC Dallas,1,Sporting Kansas City,2,Cotton Bowl
+1998-05-22,New England Revolution,0,Columbus Crew SC,2,Foxboro Stadium
+1998-05-23,LA Galaxy,4,FC Dallas,1,Rose Bowl
+1998-05-23,New York Red Bulls,4,Miami Fusion,2,Giants Stadium
+1998-05-23,D.C. United,3,Tampa Bay Mutiny,2,RFK Stadium
+1998-05-23,Chicago Fire,5,Colorado Rapids,0,Soldier Field
+1998-05-23,Sporting Kansas City,0,San Jose Earthquakes,1,Arrowhead Stadium
+1998-05-27,Sporting Kansas City,2,Columbus Crew SC,1,Arrowhead Stadium
+1998-05-28,Colorado Rapids,3,Miami Fusion,0,Mile High Stadium
+1998-05-30,LA Galaxy,1,Chicago Fire,2,Rose Bowl
+1998-05-30,Tampa Bay Mutiny,1,D.C. United,2,Houlihan's Stadium
+1998-05-30,Columbus Crew SC,4,San Jose Earthquakes,1,Ohio Stadium
+1998-05-31,New England Revolution,1,New York Red Bulls,2,Foxboro Stadium
+1998-05-31,FC Dallas,2,Miami Fusion,0,Cotton Bowl
+1998-05-31,Colorado Rapids,2,Sporting Kansas City,1,Mile High Stadium
+1998-06-03,San Jose Earthquakes,0,D.C. United,4,Spartan Stadium
+1998-06-03,New York Red Bulls,1,Tampa Bay Mutiny,2,Giants Stadium
+1998-06-04,FC Dallas,1,LA Galaxy,8,Cotton Bowl
+1998-06-06,Chicago Fire,2,Columbus Crew SC,0,Soldier Field
+1998-06-06,Sporting Kansas City,1,Tampa Bay Mutiny,0,Arrowhead Stadium
+1998-06-06,Colorado Rapids,2,San Jose Earthquakes,0,Mile High Stadium
+1998-06-07,D.C. United,4,FC Dallas,5,RFK Stadium
+1998-06-07,Miami Fusion,1,New York Red Bulls,2,Lockhart Stadium
+1998-06-07,LA Galaxy,5,New England Revolution,1,Rose Bowl
+1998-06-11,Chicago Fire,5,San Jose Earthquakes,2,Soldier Field
+1998-06-13,New York Red Bulls,3,Miami Fusion,1,Giants Stadium
+1998-06-13,Columbus Crew SC,3,D.C. United,4,Ohio Stadium
+1998-06-14,New England Revolution,1,Chicago Fire,3,Foxboro Stadium
+1998-06-17,Chicago Fire,1,FC Dallas,0,Soldier Field
+1998-06-18,LA Galaxy,2,Colorado Rapids,1,Rose Bowl
+1998-06-20,Columbus Crew SC,2,New York Red Bulls,1,Ohio Stadium
+1998-06-21,FC Dallas,0,Tampa Bay Mutiny,1,Cotton Bowl
+1998-06-24,New York Red Bulls,5,New England Revolution,3,Giants Stadium
+1998-06-24,Chicago Fire,4,Sporting Kansas City,1,Soldier Field
+1998-06-25,Colorado Rapids,3,D.C. United,1,Mile High Stadium
+1998-06-27,San Jose Earthquakes,1,LA Galaxy,2,Spartan Stadium
+1998-06-27,New England Revolution,3,FC Dallas,4,Foxboro Stadium
+1998-06-27,Miami Fusion,2,Tampa Bay Mutiny,1,Lockhart Stadium
+1998-07-01,Sporting Kansas City,1,New England Revolution,0,Arrowhead Stadium
+1998-07-01,Chicago Fire,4,FC Dallas,1,Soldier Field
+1998-07-02,D.C. United,3,Miami Fusion,1,RFK Stadium
+1998-07-03,San Jose Earthquakes,2,Columbus Crew SC,1,Spartan Stadium
+1998-07-04,LA Galaxy,2,Sporting Kansas City,0,Rose Bowl
+1998-07-04,Tampa Bay Mutiny,2,New England Revolution,3,Houlihan's Stadium
+1998-07-04,FC Dallas,0,Chicago Fire,1,Cotton Bowl
+1998-07-04,Colorado Rapids,1,New York Red Bulls,0,Mile High Stadium
+1998-07-09,Columbus Crew SC,3,Chicago Fire,0,Ohio Stadium
+1998-07-10,D.C. United,3,LA Galaxy,0,RFK Stadium
+1998-07-11,New York Red Bulls,1,Tampa Bay Mutiny,2,Giants Stadium
+1998-07-11,Sporting Kansas City,2,FC Dallas,0,Arrowhead Stadium
+1998-07-11,Colorado Rapids,2,New England Revolution,1,Mile High Stadium
+1998-07-15,Tampa Bay Mutiny,1,LA Galaxy,3,Houlihan's Stadium
+1998-07-15,Miami Fusion,3,San Jose Earthquakes,2,Lockhart Stadium
+1998-07-15,New England Revolution,0,D.C. United,1,Foxboro Stadium
+1998-07-18,LA Galaxy,2,Miami Fusion,3,Rose Bowl
+1998-07-18,D.C. United,4,Chicago Fire,1,RFK Stadium
+1998-07-18,FC Dallas,1,New England Revolution,3,Cotton Bowl
+1998-07-18,San Jose Earthquakes,0,Tampa Bay Mutiny,1,Spartan Stadium
+1998-07-19,New York Red Bulls,3,Columbus Crew SC,0,Giants Stadium
+1998-07-19,Sporting Kansas City,4,Colorado Rapids,1,Arrowhead Stadium
+1998-07-25,LA Galaxy,0,D.C. United,1,Rose Bowl
+1998-07-25,San Jose Earthquakes,2,Sporting Kansas City,1,Spartan Stadium
+1998-07-25,New York Red Bulls,3,Chicago Fire,2,Giants Stadium
+1998-07-25,Tampa Bay Mutiny,2,Colorado Rapids,3,Houlihan's Stadium
+1998-07-25,Columbus Crew SC,1,FC Dallas,2,Ohio Stadium
+1998-07-26,New England Revolution,1,Miami Fusion,2,Foxboro Stadium
+1998-07-29,San Jose Earthquakes,3,Chicago Fire,0,Spartan Stadium
+1998-07-29,New England Revolution,1,Colorado Rapids,3,Foxboro Stadium
+1998-07-29,D.C. United,3,Tampa Bay Mutiny,2,RFK Stadium
+1998-07-29,Miami Fusion,3,Columbus Crew SC,2,Lockhart Stadium
+1998-07-29,New York Red Bulls,3,Sporting Kansas City,2,Giants Stadium
+1998-07-29,FC Dallas,3,LA Galaxy,0,Cotton Bowl
+1998-08-05,New England Revolution,3,San Jose Earthquakes,0,Foxboro Stadium
+1998-08-05,Colorado Rapids,1,LA Galaxy,6,Mile High Stadium
+1998-08-06,Tampa Bay Mutiny,3,Miami Fusion,1,Houlihan's Stadium
+1998-08-07,FC Dallas,0,D.C. United,1,Cotton Bowl
+1998-08-08,Chicago Fire,1,LA Galaxy,2,Soldier Field
+1998-08-08,Columbus Crew SC,6,New England Revolution,1,Ohio Stadium
+1998-08-08,Sporting Kansas City,3,Colorado Rapids,1,Arrowhead Stadium
+1998-08-09,San Jose Earthquakes,5,New York Red Bulls,1,Spartan Stadium
+1998-08-12,New York Red Bulls,3,Columbus Crew SC,1,Giants Stadium
+1998-08-13,LA Galaxy,3,Sporting Kansas City,0,Rose Bowl
+1998-08-14,Tampa Bay Mutiny,1,New England Revolution,2,Houlihan's Stadium
+1998-08-15,Miami Fusion,3,New York Red Bulls,1,Lockhart Stadium
+1998-08-15,Chicago Fire,2,San Jose Earthquakes,1,Soldier Field
+1998-08-15,Colorado Rapids,0,FC Dallas,1,Mile High Stadium
+1998-08-16,Columbus Crew SC,5,Sporting Kansas City,3,Ohio Stadium
+1998-08-18,New York Red Bulls,4,Colorado Rapids,1,Giants Stadium
+1998-08-19,Miami Fusion,2,FC Dallas,1,Lockhart Stadium
+1998-08-21,Colorado Rapids,0,Chicago Fire,2,Mile High Stadium
+1998-08-22,San Jose Earthquakes,2,FC Dallas,1,Spartan Stadium
+1998-08-22,New England Revolution,1,LA Galaxy,5,Foxboro Stadium
+1998-08-22,Columbus Crew SC,3,Tampa Bay Mutiny,1,Ohio Stadium
+1998-08-22,D.C. United,2,New York Red Bulls,1,RFK Stadium
+1998-08-23,Sporting Kansas City,2,Miami Fusion,0,Arrowhead Stadium
+1998-08-26,Sporting Kansas City,1,D.C. United,2,Arrowhead Stadium
+1998-08-29,LA Galaxy,0,Columbus Crew SC,3,Rose Bowl
+1998-08-29,San Jose Earthquakes,1,Colorado Rapids,3,Spartan Stadium
+1998-08-29,Tampa Bay Mutiny,3,D.C. United,2,Houlihan's Stadium
+1998-08-29,Sporting Kansas City,2,Chicago Fire,3,Arrowhead Stadium
+1998-08-29,FC Dallas,2,New York Red Bulls,0,Cotton Bowl
+1998-08-30,Miami Fusion,3,New England Revolution,2,Lockhart Stadium
+1998-09-02,LA Galaxy,3,FC Dallas,0,Rose Bowl
+1998-09-02,New York Red Bulls,0,New England Revolution,2,Giants Stadium
+1998-09-02,Chicago Fire,3,Miami Fusion,2,Soldier Field
+1998-09-02,Colorado Rapids,3,Sporting Kansas City,2,Mile High Stadium
+1998-09-03,Tampa Bay Mutiny,2,San Jose Earthquakes,1,Houlihan's Stadium
+1998-09-05,Miami Fusion,3,LA Galaxy,5,Lockhart Stadium
+1998-09-05,Sporting Kansas City,5,San Jose Earthquakes,1,Arrowhead Stadium
+1998-09-06,Columbus Crew SC,4,New York Red Bulls,3,Ohio Stadium
+1998-09-09,Columbus Crew SC,1,Miami Fusion,0,Ohio Stadium
+1998-09-10,FC Dallas,3,Chicago Fire,2,Cotton Bowl
+1998-09-12,New England Revolution,2,Columbus Crew SC,0,Foxboro Stadium
+1998-09-13,Miami Fusion,4,D.C. United,3,Lockhart Stadium
+1998-09-13,Chicago Fire,3,Colorado Rapids,1,Soldier Field
+1998-09-13,FC Dallas,1,San Jose Earthquakes,3,Cotton Bowl
+1998-09-13,Tampa Bay Mutiny,2,New York Red Bulls,1,Houlihan's Stadium
+1998-09-16,San Jose Earthquakes,0,LA Galaxy,1,Spartan Stadium
+1998-09-16,Columbus Crew SC,2,Colorado Rapids,4,Ohio Stadium
+1998-09-16,New York Red Bulls,0,D.C. United,5,Giants Stadium
+1998-09-17,Chicago Fire,1,Sporting Kansas City,0,Soldier Field
+1998-09-19,New England Revolution,3,Tampa Bay Mutiny,0,Foxboro Stadium
+1998-09-19,D.C. United,1,Miami Fusion,3,RFK Stadium
+1998-09-19,Sporting Kansas City,0,FC Dallas,1,Arrowhead Stadium
+1998-09-19,Colorado Rapids,2,Columbus Crew SC,1,Mile High Stadium
+1998-09-20,LA Galaxy,0,San Jose Earthquakes,1,Rose Bowl
+1998-09-23,Chicago Fire,3,New England Revolution,2,Soldier Field
+1998-09-24,Columbus Crew SC,3,Tampa Bay Mutiny,4,Ohio Stadium
+1998-09-26,New England Revolution,0,New York Red Bulls,1,Foxboro Stadium
+1998-09-26,Colorado Rapids,3,FC Dallas,1,Mile High Stadium
+1998-09-27,Miami Fusion,1,Tampa Bay Mutiny,3,Lockhart Stadium
+1998-09-27,San Jose Earthquakes,2,Sporting Kansas City,0,Spartan Stadium
+1998-09-27,D.C. United,3,Columbus Crew SC,2,RFK Stadium
+1998-09-27,LA Galaxy,1,Chicago Fire,0,Rose Bowl

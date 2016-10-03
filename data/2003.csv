@@ -1,0 +1,151 @@
+date,home,home_score,away,away_score,venue
+2003-04-05,Columbus Crew SC,1,LA Galaxy,1,Columbus Crew Stadium
+2003-04-12,FC Dallas,1,LA Galaxy,1,Dragon Stadium
+2003-04-12,New York Red Bulls,0,Columbus Crew SC,1,Giants Stadium
+2003-04-12,Sporting Kansas City,3,D.C. United,2,Arrowhead Stadium
+2003-04-12,Colorado Rapids,1,San Jose Earthquakes,2,Invesco Field at Mile High
+2003-04-13,Chicago Fire,1,New England Revolution,1,Cardinal Stadium
+2003-04-19,New England Revolution,1,Columbus Crew SC,2,Gillette Stadium
+2003-04-19,New York Red Bulls,1,LA Galaxy,1,Giants Stadium
+2003-04-19,D.C. United,0,Chicago Fire,0,RFK Stadium
+2003-04-19,San Jose Earthquakes,1,Sporting Kansas City,1,Spartan Stadium
+2003-04-26,Columbus Crew SC,0,New York Red Bulls,1,Columbus Crew Stadium
+2003-04-26,Sporting Kansas City,2,Chicago Fire,3,Arrowhead Stadium
+2003-04-26,FC Dallas,1,New England Revolution,2,Dragon Stadium
+2003-04-26,Colorado Rapids,1,D.C. United,1,Invesco Field at Mile High
+2003-04-26,San Jose Earthquakes,1,LA Galaxy,0,Spartan Stadium
+2003-05-03,New England Revolution,0,San Jose Earthquakes,2,Gillette Stadium
+2003-05-03,New York Red Bulls,2,Colorado Rapids,1,Giants Stadium
+2003-05-03,D.C. United,0,FC Dallas,0,RFK Stadium
+2003-05-03,Sporting Kansas City,2,Columbus Crew SC,2,Arrowhead Stadium
+2003-05-10,New England Revolution,2,LA Galaxy,0,Gillette Stadium
+2003-05-10,New York Red Bulls,1,D.C. United,0,Giants Stadium
+2003-05-10,Columbus Crew SC,2,Colorado Rapids,0,Columbus Crew Stadium
+2003-05-10,Chicago Fire,0,San Jose Earthquakes,0,Cardinal Stadium
+2003-05-10,FC Dallas,1,Sporting Kansas City,3,Dragon Stadium
+2003-05-14,Sporting Kansas City,1,New England Revolution,1,Arrowhead Stadium
+2003-05-17,Colorado Rapids,0,New York Red Bulls,2,Invesco Field at Mile High
+2003-05-17,New England Revolution,3,Chicago Fire,0,Gillette Stadium
+2003-05-17,D.C. United,1,Sporting Kansas City,1,RFK Stadium
+2003-05-17,FC Dallas,1,LA Galaxy,1,Dragon Stadium
+2003-05-17,San Jose Earthquakes,4,Columbus Crew SC,3,Spartan Stadium
+2003-05-24,New York Red Bulls,2,FC Dallas,1,Giants Stadium
+2003-05-24,Columbus Crew SC,2,New England Revolution,3,Columbus Crew Stadium
+2003-05-24,Sporting Kansas City,2,LA Galaxy,1,Arrowhead Stadium
+2003-05-25,Chicago Fire,4,Colorado Rapids,0,Cardinal Stadium
+2003-05-31,San Jose Earthquakes,1,Chicago Fire,4,Spartan Stadium
+2003-05-31,New England Revolution,2,Sporting Kansas City,2,Gillette Stadium
+2003-05-31,Columbus Crew SC,1,New York Red Bulls,1,Columbus Crew Stadium
+2003-05-31,FC Dallas,3,D.C. United,2,Dragon Stadium
+2003-05-31,Colorado Rapids,1,LA Galaxy,0,Invesco Field at Mile High
+2003-06-07,LA Galaxy,2,Colorado Rapids,0,The Home Depot Center
+2003-06-07,D.C. United,2,Chicago Fire,0,RFK Stadium
+2003-06-07,Columbus Crew SC,1,San Jose Earthquakes,0,Columbus Crew Stadium
+2003-06-07,Sporting Kansas City,2,New York Red Bulls,1,Arrowhead Stadium
+2003-06-11,Colorado Rapids,0,D.C. United,0,Invesco Field at Mile High
+2003-06-14,New York Red Bulls,2,Chicago Fire,3,Giants Stadium
+2003-06-14,D.C. United,3,Columbus Crew SC,0,RFK Stadium
+2003-06-14,FC Dallas,1,San Jose Earthquakes,2,Dragon Stadium
+2003-06-14,Colorado Rapids,4,New England Revolution,1,Invesco Field at Mile High
+2003-06-14,LA Galaxy,2,Sporting Kansas City,1,The Home Depot Center
+2003-06-18,Chicago Fire,4,FC Dallas,1,Cardinal Stadium
+2003-06-18,LA Galaxy,1,San Jose Earthquakes,1,The Home Depot Center
+2003-06-21,New York Red Bulls,1,LA Galaxy,0,Giants Stadium
+2003-06-21,D.C. United,1,New England Revolution,1,RFK Stadium
+2003-06-21,Sporting Kansas City,4,Chicago Fire,2,Arrowhead Stadium
+2003-06-21,FC Dallas,3,Colorado Rapids,1,Dragon Stadium
+2003-06-21,San Jose Earthquakes,2,Columbus Crew SC,1,Spartan Stadium
+2003-06-25,Colorado Rapids,2,LA Galaxy,2,Invesco Field at Mile High
+2003-06-28,Chicago Fire,2,New York Red Bulls,1,Cardinal Stadium
+2003-06-28,New England Revolution,3,Colorado Rapids,2,Gillette Stadium
+2003-06-28,Columbus Crew SC,3,D.C. United,0,Columbus Crew Stadium
+2003-06-28,LA Galaxy,3,FC Dallas,0,The Home Depot Center
+2003-06-28,San Jose Earthquakes,0,Sporting Kansas City,0,Spartan Stadium
+2003-07-02,New York Red Bulls,4,San Jose Earthquakes,4,Giants Stadium
+2003-07-02,FC Dallas,1,D.C. United,3,Dragon Stadium
+2003-07-04,Colorado Rapids,3,Sporting Kansas City,2,Invesco Field at Mile High
+2003-07-04,LA Galaxy,2,New England Revolution,2,The Home Depot Center
+2003-07-05,D.C. United,2,New York Red Bulls,3,RFK Stadium
+2003-07-05,Columbus Crew SC,0,FC Dallas,0,Columbus Crew Stadium
+2003-07-05,San Jose Earthquakes,0,Chicago Fire,0,Spartan Stadium
+2003-07-09,LA Galaxy,0,Colorado Rapids,1,The Home Depot Center
+2003-07-12,New England Revolution,3,New York Red Bulls,3,Gillette Stadium
+2003-07-12,Sporting Kansas City,5,FC Dallas,1,Arrowhead Stadium
+2003-07-12,Chicago Fire,1,D.C. United,2,Cardinal Stadium
+2003-07-12,San Jose Earthquakes,0,Colorado Rapids,2,Spartan Stadium
+2003-07-16,New England Revolution,1,FC Dallas,2,Gillette Stadium
+2003-07-19,D.C. United,1,San Jose Earthquakes,2,RFK Stadium
+2003-07-19,Columbus Crew SC,0,Sporting Kansas City,1,Columbus Crew Stadium
+2003-07-19,Chicago Fire,3,New England Revolution,1,Cardinal Stadium
+2003-07-19,FC Dallas,1,New York Red Bulls,2,Dragon Stadium
+2003-07-23,Columbus Crew SC,1,New England Revolution,1,Columbus Crew Stadium
+2003-07-26,Chicago Fire,2,Sporting Kansas City,0,Cardinal Stadium
+2003-07-26,Colorado Rapids,1,New York Red Bulls,0,Invesco Field at Mile High
+2003-07-26,San Jose Earthquakes,3,FC Dallas,0,Spartan Stadium
+2003-07-27,New England Revolution,2,D.C. United,4,Gillette Stadium
+2003-07-30,LA Galaxy,2,Columbus Crew SC,1,The Home Depot Center
+2003-08-08,Sporting Kansas City,0,San Jose Earthquakes,1,Arrowhead Stadium
+2003-08-09,Chicago Fire,1,New York Red Bulls,1,Cardinal Stadium
+2003-08-09,D.C. United,1,New England Revolution,0,RFK Stadium
+2003-08-09,Colorado Rapids,2,FC Dallas,0,Invesco Field at Mile High
+2003-08-09,LA Galaxy,3,Columbus Crew SC,1,The Home Depot Center
+2003-08-13,New York Red Bulls,0,Sporting Kansas City,0,Giants Stadium
+2003-08-13,D.C. United,1,Colorado Rapids,0,RFK Stadium
+2003-08-13,Columbus Crew SC,2,Chicago Fire,2,Columbus Crew Stadium
+2003-08-13,FC Dallas,0,San Jose Earthquakes,3,Dragon Stadium
+2003-08-16,New England Revolution,1,San Jose Earthquakes,1,Gillette Stadium
+2003-08-16,Chicago Fire,3,D.C. United,1,Cardinal Stadium
+2003-08-16,FC Dallas,3,Sporting Kansas City,2,Dragon Stadium
+2003-08-16,Colorado Rapids,2,Columbus Crew SC,1,Invesco Field at Mile High
+2003-08-16,LA Galaxy,1,New York Red Bulls,1,The Home Depot Center
+2003-08-20,Chicago Fire,1,LA Galaxy,0,Cardinal Stadium
+2003-08-22,Sporting Kansas City,2,Colorado Rapids,2,Arrowhead Stadium
+2003-08-23,LA Galaxy,2,New England Revolution,1,The Home Depot Center
+2003-08-23,FC Dallas,1,Columbus Crew SC,2,Dragon Stadium
+2003-08-24,New York Red Bulls,1,Chicago Fire,2,Giants Stadium
+2003-08-24,San Jose Earthquakes,1,D.C. United,0,Spartan Stadium
+2003-08-30,New England Revolution,5,Chicago Fire,1,Gillette Stadium
+2003-08-30,LA Galaxy,2,FC Dallas,1,The Home Depot Center
+2003-08-30,San Jose Earthquakes,1,Colorado Rapids,2,Spartan Stadium
+2003-08-31,Columbus Crew SC,1,Sporting Kansas City,0,Columbus Crew Stadium
+2003-09-06,D.C. United,2,LA Galaxy,1,RFK Stadium
+2003-09-06,Sporting Kansas City,1,New York Red Bulls,2,Arrowhead Stadium
+2003-09-06,Colorado Rapids,2,FC Dallas,1,Invesco Field at Mile High
+2003-09-06,Chicago Fire,1,Columbus Crew SC,1,Cardinal Stadium
+2003-09-07,San Jose Earthquakes,2,New England Revolution,1,Spartan Stadium
+2003-09-13,New York Red Bulls,1,New England Revolution,2,Giants Stadium
+2003-09-13,Columbus Crew SC,3,FC Dallas,2,Columbus Crew Stadium
+2003-09-13,D.C. United,2,San Jose Earthquakes,1,RFK Stadium
+2003-09-13,Colorado Rapids,1,Sporting Kansas City,0,Invesco Field at Mile High
+2003-09-13,LA Galaxy,0,Chicago Fire,2,The Home Depot Center
+2003-09-18,New England Revolution,0,Colorado Rapids,0,Gillette Stadium
+2003-09-20,New York Red Bulls,1,Columbus Crew SC,0,Giants Stadium
+2003-09-20,Sporting Kansas City,1,San Jose Earthquakes,4,Arrowhead Stadium
+2003-09-20,FC Dallas,2,Chicago Fire,0,Dragon Stadium
+2003-09-20,LA Galaxy,1,D.C. United,0,The Home Depot Center
+2003-09-25,New York Red Bulls,0,D.C. United,2,Giants Stadium
+2003-09-27,LA Galaxy,1,Sporting Kansas City,2,The Home Depot Center
+2003-09-27,San Jose Earthquakes,5,FC Dallas,2,Spartan Stadium
+2003-09-28,D.C. United,1,New York Red Bulls,1,RFK Stadium
+2003-09-28,New England Revolution,3,Columbus Crew SC,2,Gillette Stadium
+2003-10-01,Colorado Rapids,1,Chicago Fire,1,Invesco Field at Mile High
+2003-10-04,Columbus Crew SC,1,D.C. United,1,Columbus Crew Stadium
+2003-10-04,Sporting Kansas City,4,Colorado Rapids,2,Arrowhead Stadium
+2003-10-04,Chicago Fire,2,LA Galaxy,0,Cardinal Stadium
+2003-10-04,FC Dallas,1,New England Revolution,4,Dragon Stadium
+2003-10-05,San Jose Earthquakes,0,New York Red Bulls,2,Spartan Stadium
+2003-10-10,Chicago Fire,2,Columbus Crew SC,0,Soldier Field
+2003-10-10,Colorado Rapids,0,San Jose Earthquakes,0,Invesco Field at Mile High
+2003-10-11,New England Revolution,1,D.C. United,0,Gillette Stadium
+2003-10-11,New York Red Bulls,0,FC Dallas,0,Giants Stadium
+2003-10-11,Sporting Kansas City,2,LA Galaxy,1,Arrowhead Stadium
+2003-10-18,New York Red Bulls,1,New England Revolution,2,Giants Stadium
+2003-10-18,Sporting Kansas City,1,FC Dallas,0,Arrowhead Stadium
+2003-10-18,Chicago Fire,4,Colorado Rapids,3,Soldier Field
+2003-10-18,LA Galaxy,3,San Jose Earthquakes,0,The Home Depot Center
+2003-10-19,D.C. United,2,Columbus Crew SC,3,RFK Stadium
+2003-10-25,New England Revolution,5,New York Red Bulls,2,Gillette Stadium
+2003-10-25,D.C. United,1,Sporting Kansas City,1,RFK Stadium
+2003-10-25,FC Dallas,4,Colorado Rapids,3,Dragon Stadium
+2003-10-25,San Jose Earthquakes,1,LA Galaxy,1,Spartan Stadium
+2003-10-26,Columbus Crew SC,6,Chicago Fire,2,Columbus Crew Stadium

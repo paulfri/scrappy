@@ -1,0 +1,193 @@
+date,home,home_score,away,away_score,venue
+2000-03-18,LA Galaxy,2,Colorado Rapids,1,Rose Bowl
+2000-03-18,FC Dallas,4,Chicago Fire,2,Cotton Bowl
+2000-03-18,Tampa Bay Mutiny,5,Columbus Crew SC,1,Raymond James Stadium
+2000-03-18,Miami Fusion,1,New England Revolution,1,Lockhart Stadium
+2000-03-25,D.C. United,0,LA Galaxy,4,RFK Stadium
+2000-03-25,Tampa Bay Mutiny,1,New England Revolution,0,Raymond James Stadium
+2000-03-25,Columbus Crew SC,2,San Jose Earthquakes,1,Columbus Crew Stadium
+2000-03-25,Sporting Kansas City,4,Chicago Fire,3,Arrowhead Stadium
+2000-03-25,FC Dallas,0,Colorado Rapids,1,Cotton Bowl
+2000-03-26,Miami Fusion,3,New York Red Bulls,1,Lockhart Stadium
+2000-04-01,LA Galaxy,2,New England Revolution,2,Rose Bowl
+2000-04-01,Miami Fusion,0,San Jose Earthquakes,0,Lockhart Stadium
+2000-04-01,Columbus Crew SC,0,Chicago Fire,2,Columbus Crew Stadium
+2000-04-01,New York Red Bulls,3,D.C. United,2,Giants Stadium
+2000-04-01,Sporting Kansas City,3,Colorado Rapids,0,Arrowhead Stadium
+2000-04-01,FC Dallas,1,Tampa Bay Mutiny,0,Cotton Bowl
+2000-04-08,San Jose Earthquakes,2,New York Red Bulls,0,Spartan Stadium
+2000-04-08,Columbus Crew SC,2,LA Galaxy,2,Columbus Crew Stadium
+2000-04-08,D.C. United,3,Chicago Fire,2,RFK Stadium
+2000-04-08,Miami Fusion,0,Sporting Kansas City,0,Lockhart Stadium
+2000-04-08,FC Dallas,2,New England Revolution,1,Cotton Bowl
+2000-04-08,Colorado Rapids,1,Tampa Bay Mutiny,0,Mile High Stadium
+2000-04-15,LA Galaxy,2,FC Dallas,1,Rose Bowl
+2000-04-15,Tampa Bay Mutiny,4,Colorado Rapids,2,Raymond James Stadium
+2000-04-15,New England Revolution,2,D.C. United,1,Foxboro Stadium
+2000-04-15,New York Red Bulls,0,Columbus Crew SC,1,Giants Stadium
+2000-04-15,Sporting Kansas City,2,San Jose Earthquakes,0,Arrowhead Stadium
+2000-04-15,Chicago Fire,1,Miami Fusion,0,Soldier Field
+2000-04-19,New York Red Bulls,1,Sporting Kansas City,2,Giants Stadium
+2000-04-22,San Jose Earthquakes,5,FC Dallas,0,Spartan Stadium
+2000-04-22,LA Galaxy,2,Miami Fusion,0,Rose Bowl
+2000-04-22,New England Revolution,1,Chicago Fire,1,Foxboro Stadium
+2000-04-22,D.C. United,2,New York Red Bulls,3,RFK Stadium
+2000-04-22,Columbus Crew SC,2,Colorado Rapids,3,Columbus Crew Stadium
+2000-04-22,Sporting Kansas City,1,Tampa Bay Mutiny,0,Arrowhead Stadium
+2000-04-26,Tampa Bay Mutiny,4,San Jose Earthquakes,0,Raymond James Stadium
+2000-04-28,Chicago Fire,5,Tampa Bay Mutiny,1,Soldier Field
+2000-04-29,San Jose Earthquakes,2,D.C. United,2,Spartan Stadium
+2000-04-29,New York Red Bulls,0,LA Galaxy,1,Giants Stadium
+2000-04-29,New England Revolution,1,Miami Fusion,1,Foxboro Stadium
+2000-04-29,FC Dallas,2,Columbus Crew SC,1,Cotton Bowl
+2000-04-29,Colorado Rapids,0,Sporting Kansas City,5,Mile High Stadium
+2000-05-03,D.C. United,1,Columbus Crew SC,2,RFK Stadium
+2000-05-03,Chicago Fire,1,Colorado Rapids,2,Soldier Field
+2000-05-06,LA Galaxy,0,Sporting Kansas City,0,Rose Bowl
+2000-05-06,Tampa Bay Mutiny,3,FC Dallas,1,Raymond James Stadium
+2000-05-06,Miami Fusion,0,Chicago Fire,3,Lockhart Stadium
+2000-05-06,Columbus Crew SC,0,New York Red Bulls,2,Columbus Crew Stadium
+2000-05-06,New England Revolution,2,San Jose Earthquakes,1,Foxboro Stadium
+2000-05-06,Colorado Rapids,2,D.C. United,5,Mile High Stadium
+2000-05-10,Miami Fusion,1,D.C. United,0,Lockhart Stadium
+2000-05-13,Chicago Fire,4,San Jose Earthquakes,1,Soldier Field
+2000-05-13,Tampa Bay Mutiny,3,Columbus Crew SC,1,Raymond James Stadium
+2000-05-13,D.C. United,1,New England Revolution,3,RFK Stadium
+2000-05-13,Sporting Kansas City,2,New York Red Bulls,0,Arrowhead Stadium
+2000-05-13,FC Dallas,1,LA Galaxy,1,Cotton Bowl
+2000-05-13,Colorado Rapids,1,Miami Fusion,2,Mile High Stadium
+2000-05-17,San Jose Earthquakes,0,LA Galaxy,0,Spartan Stadium
+2000-05-17,New England Revolution,3,Colorado Rapids,4,Foxboro Stadium
+2000-05-17,Sporting Kansas City,2,D.C. United,0,Arrowhead Stadium
+2000-05-20,LA Galaxy,2,D.C. United,1,Rose Bowl
+2000-05-20,Miami Fusion,2,Colorado Rapids,0,Lockhart Stadium
+2000-05-20,New York Red Bulls,3,Tampa Bay Mutiny,2,Giants Stadium
+2000-05-20,Columbus Crew SC,2,FC Dallas,1,Columbus Crew Stadium
+2000-05-20,Sporting Kansas City,2,San Jose Earthquakes,0,Arrowhead Stadium
+2000-05-20,Chicago Fire,0,New England Revolution,1,Soldier Field
+2000-05-24,New England Revolution,2,LA Galaxy,1,Foxboro Stadium
+2000-05-24,Chicago Fire,4,FC Dallas,3,Soldier Field
+2000-05-27,LA Galaxy,1,San Jose Earthquakes,1,Rose Bowl
+2000-05-27,Tampa Bay Mutiny,1,Sporting Kansas City,2,Raymond James Stadium
+2000-05-27,New York Red Bulls,4,Chicago Fire,1,Giants Stadium
+2000-05-27,D.C. United,3,FC Dallas,2,RFK Stadium
+2000-05-27,Miami Fusion,2,Columbus Crew SC,4,Lockhart Stadium
+2000-05-29,Colorado Rapids,2,New England Revolution,1,Mile High Stadium
+2000-06-03,LA Galaxy,0,New York Red Bulls,2,Rose Bowl
+2000-06-03,San Jose Earthquakes,4,Colorado Rapids,2,Spartan Stadium
+2000-06-03,New England Revolution,2,Miami Fusion,0,Foxboro Stadium
+2000-06-03,Columbus Crew SC,1,D.C. United,1,Columbus Crew Stadium
+2000-06-03,FC Dallas,2,Tampa Bay Mutiny,3,Cotton Bowl
+2000-06-04,Chicago Fire,3,Sporting Kansas City,2,Soldier Field
+2000-06-07,FC Dallas,3,Columbus Crew SC,2,Cotton Bowl
+2000-06-07,Chicago Fire,2,Miami Fusion,1,Soldier Field
+2000-06-09,New York Red Bulls,0,Tampa Bay Mutiny,3,Giants Stadium
+2000-06-10,Columbus Crew SC,1,FC Dallas,1,Columbus Crew Stadium
+2000-06-10,New England Revolution,3,San Jose Earthquakes,0,Foxboro Stadium
+2000-06-10,D.C. United,0,Sporting Kansas City,0,RFK Stadium
+2000-06-10,Miami Fusion,4,Chicago Fire,2,Lockhart Stadium
+2000-06-10,Colorado Rapids,1,LA Galaxy,0,Mile High Stadium
+2000-06-17,LA Galaxy,2,Tampa Bay Mutiny,1,Rose Bowl
+2000-06-17,San Jose Earthquakes,3,Miami Fusion,1,Spartan Stadium
+2000-06-17,New York Red Bulls,4,New England Revolution,2,Giants Stadium
+2000-06-17,FC Dallas,4,Sporting Kansas City,1,Cotton Bowl
+2000-06-17,Chicago Fire,3,D.C. United,2,Soldier Field
+2000-06-17,Colorado Rapids,0,Columbus Crew SC,0,Mile High Stadium
+2000-06-21,San Jose Earthquakes,2,New England Revolution,2,Spartan Stadium
+2000-06-21,LA Galaxy,1,Chicago Fire,1,Rose Bowl
+2000-06-21,Tampa Bay Mutiny,1,Miami Fusion,4,Raymond James Stadium
+2000-06-21,New York Red Bulls,2,D.C. United,2,Giants Stadium
+2000-06-21,Sporting Kansas City,0,FC Dallas,0,Arrowhead Stadium
+2000-06-24,San Jose Earthquakes,1,Chicago Fire,1,Spartan Stadium
+2000-06-24,D.C. United,2,FC Dallas,0,RFK Stadium
+2000-06-24,Colorado Rapids,1,New York Red Bulls,3,Mile High Stadium
+2000-06-24,Miami Fusion,2,Tampa Bay Mutiny,3,Lockhart Stadium
+2000-06-24,Columbus Crew SC,3,New England Revolution,1,Columbus Crew Stadium
+2000-06-24,Sporting Kansas City,2,LA Galaxy,0,Arrowhead Stadium
+2000-06-28,D.C. United,1,LA Galaxy,2,RFK Stadium
+2000-06-28,Columbus Crew SC,1,Tampa Bay Mutiny,2,Columbus Crew Stadium
+2000-06-28,New York Red Bulls,0,San Jose Earthquakes,0,Giants Stadium
+2000-06-28,Colorado Rapids,1,FC Dallas,0,Mile High Stadium
+2000-07-01,D.C. United,1,Colorado Rapids,1,RFK Stadium
+2000-07-01,Tampa Bay Mutiny,0,New York Red Bulls,2,Raymond James Stadium
+2000-07-01,Columbus Crew SC,2,San Jose Earthquakes,1,Columbus Crew Stadium
+2000-07-01,FC Dallas,4,LA Galaxy,2,Cotton Bowl
+2000-07-04,San Jose Earthquakes,0,Sporting Kansas City,0,Spartan Stadium
+2000-07-04,LA Galaxy,1,Columbus Crew SC,0,Rose Bowl
+2000-07-04,Miami Fusion,2,New England Revolution,1,Lockhart Stadium
+2000-07-04,Tampa Bay Mutiny,3,D.C. United,0,Raymond James Stadium
+2000-07-04,Colorado Rapids,2,Chicago Fire,1,Mile High Stadium
+2000-07-05,New York Red Bulls,2,FC Dallas,1,Giants Stadium
+2000-07-08,Sporting Kansas City,0,New York Red Bulls,1,Arrowhead Stadium
+2000-07-08,Miami Fusion,3,LA Galaxy,5,Lockhart Stadium
+2000-07-08,Chicago Fire,3,Columbus Crew SC,1,Soldier Field
+2000-07-08,FC Dallas,3,D.C. United,0,Cotton Bowl
+2000-07-08,Colorado Rapids,0,San Jose Earthquakes,1,Mile High Stadium
+2000-07-12,D.C. United,2,Tampa Bay Mutiny,2,RFK Stadium
+2000-07-12,Columbus Crew SC,4,New England Revolution,1,Columbus Crew Stadium
+2000-07-15,San Jose Earthquakes,1,Colorado Rapids,2,Spartan Stadium
+2000-07-15,LA Galaxy,1,D.C. United,2,Rose Bowl
+2000-07-15,New England Revolution,0,New York Red Bulls,2,Foxboro Stadium
+2000-07-15,Columbus Crew SC,2,Sporting Kansas City,0,Columbus Crew Stadium
+2000-07-15,Miami Fusion,0,FC Dallas,3,Lockhart Stadium
+2000-07-15,Chicago Fire,0,Tampa Bay Mutiny,0,Soldier Field
+2000-07-19,Sporting Kansas City,0,New England Revolution,1,Arrowhead Stadium
+2000-07-19,FC Dallas,1,Miami Fusion,1,Cotton Bowl
+2000-07-21,Colorado Rapids,1,Chicago Fire,1,Mile High Stadium
+2000-07-22,New York Red Bulls,4,Miami Fusion,2,Giants Stadium
+2000-07-22,San Jose Earthquakes,1,New England Revolution,2,Spartan Stadium
+2000-07-22,Tampa Bay Mutiny,2,LA Galaxy,0,Raymond James Stadium
+2000-07-22,Sporting Kansas City,3,Columbus Crew SC,1,Arrowhead Stadium
+2000-08-02,San Jose Earthquakes,1,Columbus Crew SC,2,Spartan Stadium
+2000-08-02,Tampa Bay Mutiny,0,Chicago Fire,1,Raymond James Stadium
+2000-08-02,D.C. United,3,New York Red Bulls,2,RFK Stadium
+2000-08-02,New England Revolution,1,FC Dallas,2,Foxboro Stadium
+2000-08-02,Sporting Kansas City,3,Colorado Rapids,1,Arrowhead Stadium
+2000-08-05,Sporting Kansas City,1,LA Galaxy,5,Arrowhead Stadium
+2000-08-05,New England Revolution,1,Columbus Crew SC,1,Foxboro Stadium
+2000-08-05,Tampa Bay Mutiny,2,FC Dallas,1,Raymond James Stadium
+2000-08-05,Miami Fusion,3,D.C. United,1,Lockhart Stadium
+2000-08-05,Colorado Rapids,2,San Jose Earthquakes,0,Mile High Stadium
+2000-08-06,Chicago Fire,3,New York Red Bulls,1,Soldier Field
+2000-08-12,LA Galaxy,1,Sporting Kansas City,1,Rose Bowl
+2000-08-12,San Jose Earthquakes,1,Tampa Bay Mutiny,2,Spartan Stadium
+2000-08-12,Miami Fusion,4,Colorado Rapids,1,Lockhart Stadium
+2000-08-12,New York Red Bulls,2,New England Revolution,1,Giants Stadium
+2000-08-12,FC Dallas,1,D.C. United,0,Cotton Bowl
+2000-08-16,San Jose Earthquakes,0,Sporting Kansas City,3,Spartan Stadium
+2000-08-16,LA Galaxy,1,Colorado Rapids,0,Rose Bowl
+2000-08-16,Tampa Bay Mutiny,4,New York Red Bulls,3,Raymond James Stadium
+2000-08-16,Columbus Crew SC,2,Miami Fusion,0,Columbus Crew Stadium
+2000-08-16,FC Dallas,3,Chicago Fire,0,Cotton Bowl
+2000-08-18,Sporting Kansas City,1,Miami Fusion,2,Arrowhead Stadium
+2000-08-19,Chicago Fire,2,LA Galaxy,1,Soldier Field
+2000-08-19,New England Revolution,2,Tampa Bay Mutiny,1,Foxboro Stadium
+2000-08-19,D.C. United,0,San Jose Earthquakes,1,RFK Stadium
+2000-08-20,New York Red Bulls,5,Colorado Rapids,3,Giants Stadium
+2000-08-23,New York Red Bulls,0,Sporting Kansas City,0,Giants Stadium
+2000-08-26,San Jose Earthquakes,0,LA Galaxy,3,Spartan Stadium
+2000-08-26,Tampa Bay Mutiny,3,Chicago Fire,3,Raymond James Stadium
+2000-08-26,New England Revolution,2,Columbus Crew SC,1,Foxboro Stadium
+2000-08-26,D.C. United,2,Miami Fusion,1,RFK Stadium
+2000-08-26,FC Dallas,4,New York Red Bulls,6,Cotton Bowl
+2000-08-26,Colorado Rapids,1,Sporting Kansas City,1,Mile High Stadium
+2000-08-30,LA Galaxy,2,San Jose Earthquakes,1,Rose Bowl
+2000-08-30,New England Revolution,1,D.C. United,0,Foxboro Stadium
+2000-08-30,Columbus Crew SC,3,Tampa Bay Mutiny,4,Columbus Crew Stadium
+2000-08-30,Chicago Fire,4,FC Dallas,0,Soldier Field
+2000-08-30,Colorado Rapids,3,Miami Fusion,1,Mile High Stadium
+2000-09-01,San Jose Earthquakes,3,Columbus Crew SC,0,Spartan Stadium
+2000-09-02,Miami Fusion,4,New York Red Bulls,1,Lockhart Stadium
+2000-09-02,Sporting Kansas City,1,Tampa Bay Mutiny,0,Arrowhead Stadium
+2000-09-03,D.C. United,2,New England Revolution,0,RFK Stadium
+2000-09-03,Chicago Fire,2,Colorado Rapids,1,Soldier Field
+2000-09-05,New York Red Bulls,2,Miami Fusion,1,Giants Stadium
+2000-09-06,LA Galaxy,0,FC Dallas,1,Rose Bowl
+2000-09-06,New England Revolution,0,Sporting Kansas City,1,Foxboro Stadium
+2000-09-06,Chicago Fire,3,Columbus Crew SC,1,Soldier Field
+2000-09-08,Colorado Rapids,1,LA Galaxy,0,Mile High Stadium
+2000-09-09,Tampa Bay Mutiny,2,Sporting Kansas City,2,Raymond James Stadium
+2000-09-09,New England Revolution,4,New York Red Bulls,3,Foxboro Stadium
+2000-09-09,Columbus Crew SC,2,Chicago Fire,3,Columbus Crew Stadium
+2000-09-09,D.C. United,2,Miami Fusion,6,RFK Stadium
+2000-09-09,FC Dallas,2,San Jose Earthquakes,1,Cotton Bowl

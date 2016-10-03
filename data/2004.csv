@@ -1,0 +1,151 @@
+date,home,home_score,away,away_score,venue
+2004-04-03,D.C. United,2,San Jose Earthquakes,1,RFK Stadium
+2004-04-03,Columbus Crew SC,1,New York Red Bulls,3,Columbus Crew Stadium
+2004-04-03,Sporting Kansas City,0,Chicago Fire,0,Arrowhead Stadium
+2004-04-03,FC Dallas,1,Colorado Rapids,1,Cotton Bowl
+2004-04-03,LA Galaxy,3,New England Revolution,2,The Home Depot Center
+2004-04-10,San Jose Earthquakes,0,Chicago Fire,0,Spartan Stadium
+2004-04-10,LA Galaxy,1,D.C. United,1,The Home Depot Center
+2004-04-17,New York Red Bulls,3,D.C. United,2,Giants Stadium
+2004-04-17,New England Revolution,1,San Jose Earthquakes,3,Gillette Stadium
+2004-04-17,Sporting Kansas City,1,Columbus Crew SC,0,Arrowhead Stadium
+2004-04-17,Chicago Fire,0,FC Dallas,2,Soldier Field
+2004-04-17,Colorado Rapids,1,LA Galaxy,1,Invesco Field at Mile High
+2004-04-24,D.C. United,0,Chicago Fire,1,RFK Stadium
+2004-04-24,FC Dallas,1,Sporting Kansas City,0,Cotton Bowl
+2004-04-24,Colorado Rapids,1,San Jose Earthquakes,0,Invesco Field at Mile High
+2004-04-24,LA Galaxy,2,Columbus Crew SC,0,The Home Depot Center
+2004-04-25,New York Red Bulls,1,New England Revolution,1,Giants Stadium
+2004-05-01,San Jose Earthquakes,1,D.C. United,1,Spartan Stadium
+2004-05-01,Columbus Crew SC,0,FC Dallas,0,Columbus Crew Stadium
+2004-05-01,New England Revolution,2,LA Galaxy,1,Gillette Stadium
+2004-05-01,Sporting Kansas City,2,Colorado Rapids,0,Arrowhead Stadium
+2004-05-01,Chicago Fire,3,New York Red Bulls,0,Soldier Field
+2004-05-07,Colorado Rapids,0,New England Revolution,0,Invesco Field at Mile High
+2004-05-08,FC Dallas,1,LA Galaxy,3,Cotton Bowl
+2004-05-08,D.C. United,1,Columbus Crew SC,1,RFK Stadium
+2004-05-08,Sporting Kansas City,2,Chicago Fire,2,Arrowhead Stadium
+2004-05-08,San Jose Earthquakes,5,New York Red Bulls,5,Spartan Stadium
+2004-05-15,Columbus Crew SC,1,New England Revolution,0,Columbus Crew Stadium
+2004-05-15,New York Red Bulls,1,Chicago Fire,1,Giants Stadium
+2004-05-15,D.C. United,1,Sporting Kansas City,0,RFK Stadium
+2004-05-15,FC Dallas,1,San Jose Earthquakes,2,Cotton Bowl
+2004-05-15,LA Galaxy,1,Colorado Rapids,1,The Home Depot Center
+2004-05-19,D.C. United,2,LA Galaxy,4,RFK Stadium
+2004-05-22,New England Revolution,1,New York Red Bulls,1,Gillette Stadium
+2004-05-22,Sporting Kansas City,2,FC Dallas,0,Arrowhead Stadium
+2004-05-22,Colorado Rapids,2,D.C. United,1,Invesco Field at Mile High
+2004-05-22,San Jose Earthquakes,4,LA Galaxy,2,Spartan Stadium
+2004-05-23,Chicago Fire,1,Columbus Crew SC,3,Soldier Field
+2004-05-29,New England Revolution,0,D.C. United,1,Gillette Stadium
+2004-05-29,Columbus Crew SC,1,San Jose Earthquakes,0,Columbus Crew Stadium
+2004-05-29,Chicago Fire,1,Colorado Rapids,0,Soldier Field
+2004-05-29,LA Galaxy,4,FC Dallas,1,The Home Depot Center
+2004-05-30,New York Red Bulls,1,Sporting Kansas City,0,Giants Stadium
+2004-06-02,Sporting Kansas City,2,New England Revolution,3,Arrowhead Stadium
+2004-06-05,Chicago Fire,3,D.C. United,0,Soldier Field
+2004-06-05,New York Red Bulls,0,FC Dallas,2,Giants Stadium
+2004-06-05,LA Galaxy,1,Sporting Kansas City,2,The Home Depot Center
+2004-06-06,New England Revolution,1,Columbus Crew SC,2,Gillette Stadium
+2004-06-09,Colorado Rapids,0,Sporting Kansas City,1,Invesco Field at Mile High
+2004-06-12,LA Galaxy,3,Chicago Fire,2,The Home Depot Center
+2004-06-12,D.C. United,0,Colorado Rapids,0,RFK Stadium
+2004-06-12,Columbus Crew SC,2,Sporting Kansas City,2,Columbus Crew Stadium
+2004-06-12,FC Dallas,3,New England Revolution,1,Cotton Bowl
+2004-06-12,San Jose Earthquakes,3,New York Red Bulls,1,Spartan Stadium
+2004-06-19,New York Red Bulls,2,LA Galaxy,1,Giants Stadium
+2004-06-19,D.C. United,3,Columbus Crew SC,1,RFK Stadium
+2004-06-19,New England Revolution,1,Sporting Kansas City,3,Gillette Stadium
+2004-06-19,Chicago Fire,1,San Jose Earthquakes,1,Soldier Field
+2004-06-19,Colorado Rapids,1,FC Dallas,1,Invesco Field at Mile High
+2004-06-23,LA Galaxy,0,New York Red Bulls,3,The Home Depot Center
+2004-06-26,FC Dallas,1,D.C. United,1,Cotton Bowl
+2004-06-26,Columbus Crew SC,1,Colorado Rapids,2,Columbus Crew Stadium
+2004-06-26,New England Revolution,2,New York Red Bulls,1,Gillette Stadium
+2004-06-26,San Jose Earthquakes,1,Sporting Kansas City,1,Spartan Stadium
+2004-06-27,Chicago Fire,0,LA Galaxy,1,Soldier Field
+2004-06-30,New York Red Bulls,2,Colorado Rapids,3,Giants Stadium
+2004-07-03,D.C. United,6,New York Red Bulls,2,RFK Stadium
+2004-07-03,Columbus Crew SC,2,Chicago Fire,0,Columbus Crew Stadium
+2004-07-03,Sporting Kansas City,5,FC Dallas,1,Arrowhead Stadium
+2004-07-04,Colorado Rapids,1,New England Revolution,0,Invesco Field at Mile High
+2004-07-04,LA Galaxy,2,San Jose Earthquakes,1,The Home Depot Center
+2004-07-07,San Jose Earthquakes,1,FC Dallas,2,Spartan Stadium
+2004-07-10,New York Red Bulls,2,San Jose Earthquakes,0,Giants Stadium
+2004-07-10,FC Dallas,0,Columbus Crew SC,0,Cotton Bowl
+2004-07-10,Sporting Kansas City,1,D.C. United,0,Arrowhead Stadium
+2004-07-10,LA Galaxy,2,Colorado Rapids,0,The Home Depot Center
+2004-07-11,Chicago Fire,1,New England Revolution,1,Soldier Field
+2004-07-14,New England Revolution,3,Chicago Fire,1,Gillette Stadium
+2004-07-14,Colorado Rapids,0,LA Galaxy,0,Invesco Field at Mile High
+2004-07-17,San Jose Earthquakes,3,Colorado Rapids,1,Spartan Stadium
+2004-07-17,D.C. United,1,LA Galaxy,1,RFK Stadium
+2004-07-17,Columbus Crew SC,1,New England Revolution,1,Columbus Crew Stadium
+2004-07-17,Chicago Fire,1,New York Red Bulls,1,Soldier Field
+2004-07-17,FC Dallas,0,Sporting Kansas City,1,Cotton Bowl
+2004-07-24,Colorado Rapids,0,Columbus Crew SC,0,Invesco Field at Mile High
+2004-07-24,New York Red Bulls,2,Chicago Fire,1,Giants Stadium
+2004-07-24,FC Dallas,5,D.C. United,1,Cotton Bowl
+2004-07-24,Sporting Kansas City,2,LA Galaxy,2,Arrowhead Stadium
+2004-07-24,San Jose Earthquakes,2,New England Revolution,2,Spartan Stadium
+2004-07-28,Columbus Crew SC,2,FC Dallas,1,Columbus Crew Stadium
+2004-07-28,Sporting Kansas City,1,New York Red Bulls,2,Arrowhead Stadium
+2004-07-28,Colorado Rapids,2,Chicago Fire,0,Invesco Field at Mile High
+2004-08-07,New England Revolution,2,Columbus Crew SC,2,Gillette Stadium
+2004-08-07,FC Dallas,1,Colorado Rapids,0,Cotton Bowl
+2004-08-07,San Jose Earthquakes,2,D.C. United,0,Spartan Stadium
+2004-08-08,New York Red Bulls,3,LA Galaxy,0,Giants Stadium
+2004-08-11,D.C. United,3,Colorado Rapids,1,RFK Stadium
+2004-08-11,FC Dallas,0,New England Revolution,3,Cotton Bowl
+2004-08-11,Chicago Fire,2,San Jose Earthquakes,1,Soldier Field
+2004-08-14,Sporting Kansas City,0,San Jose Earthquakes,2,Arrowhead Stadium
+2004-08-14,D.C. United,2,New England Revolution,2,RFK Stadium
+2004-08-14,Chicago Fire,0,Colorado Rapids,3,Soldier Field
+2004-08-14,LA Galaxy,0,Columbus Crew SC,0,The Home Depot Center
+2004-08-15,New York Red Bulls,0,FC Dallas,1,Giants Stadium
+2004-08-18,Columbus Crew SC,2,Sporting Kansas City,1,Columbus Crew Stadium
+2004-08-21,Columbus Crew SC,2,D.C. United,2,Columbus Crew Stadium
+2004-08-21,New England Revolution,1,Sporting Kansas City,2,Gillette Stadium
+2004-08-21,Colorado Rapids,1,New York Red Bulls,0,Invesco Field at Mile High
+2004-08-21,LA Galaxy,1,Chicago Fire,1,The Home Depot Center
+2004-08-21,San Jose Earthquakes,3,FC Dallas,0,Spartan Stadium
+2004-08-28,New England Revolution,0,D.C. United,0,Gillette Stadium
+2004-08-28,FC Dallas,4,Chicago Fire,1,Cotton Bowl
+2004-08-28,San Jose Earthquakes,0,Colorado Rapids,0,Spartan Stadium
+2004-08-29,New York Red Bulls,1,Columbus Crew SC,1,Giants Stadium
+2004-09-01,Chicago Fire,3,Sporting Kansas City,1,Soldier Field
+2004-09-04,New England Revolution,0,San Jose Earthquakes,1,Gillette Stadium
+2004-09-04,Columbus Crew SC,3,LA Galaxy,1,Columbus Crew Stadium
+2004-09-04,Sporting Kansas City,1,New York Red Bulls,0,Arrowhead Stadium
+2004-09-04,Chicago Fire,3,D.C. United,1,Soldier Field
+2004-09-04,Colorado Rapids,2,FC Dallas,1,Invesco Field at Mile High
+2004-09-08,San Jose Earthquakes,0,Columbus Crew SC,1,Spartan Stadium
+2004-09-10,Colorado Rapids,3,Sporting Kansas City,1,Invesco Field at Mile High
+2004-09-11,D.C. United,3,FC Dallas,0,RFK Stadium
+2004-09-11,New York Red Bulls,3,New England Revolution,2,Giants Stadium
+2004-09-11,LA Galaxy,2,San Jose Earthquakes,1,The Home Depot Center
+2004-09-18,New England Revolution,6,Colorado Rapids,1,Gillette Stadium
+2004-09-18,Columbus Crew SC,4,New York Red Bulls,2,Columbus Crew Stadium
+2004-09-18,D.C. United,3,Chicago Fire,1,RFK Stadium
+2004-09-18,FC Dallas,2,LA Galaxy,0,Cotton Bowl
+2004-09-18,Sporting Kansas City,1,San Jose Earthquakes,0,Arrowhead Stadium
+2004-09-25,Columbus Crew SC,1,D.C. United,0,Columbus Crew Stadium
+2004-09-25,Sporting Kansas City,1,Colorado Rapids,0,Arrowhead Stadium
+2004-09-25,FC Dallas,0,New York Red Bulls,2,Cotton Bowl
+2004-09-25,Chicago Fire,2,New England Revolution,0,Soldier Field
+2004-09-25,San Jose Earthquakes,0,LA Galaxy,0,Spartan Stadium
+2004-10-02,New York Red Bulls,0,D.C. United,1,Giants Stadium
+2004-10-02,New England Revolution,2,FC Dallas,0,Gillette Stadium
+2004-10-02,Columbus Crew SC,3,Chicago Fire,3,Columbus Crew Stadium
+2004-10-02,Colorado Rapids,1,San Jose Earthquakes,1,Invesco Field at Mile High
+2004-10-02,LA Galaxy,1,Sporting Kansas City,1,The Home Depot Center
+2004-10-06,Chicago Fire,0,Columbus Crew SC,1,Soldier Field
+2004-10-09,New York Red Bulls,1,Columbus Crew SC,1,Giants Stadium
+2004-10-09,D.C. United,1,New England Revolution,0,RFK Stadium
+2004-10-09,LA Galaxy,2,FC Dallas,0,The Home Depot Center
+2004-10-09,San Jose Earthquakes,0,Sporting Kansas City,0,Spartan Stadium
+2004-10-16,New England Revolution,2,Chicago Fire,1,Gillette Stadium
+2004-10-16,Sporting Kansas City,1,LA Galaxy,0,Arrowhead Stadium
+2004-10-16,FC Dallas,2,San Jose Earthquakes,2,Cotton Bowl
+2004-10-16,Colorado Rapids,1,Columbus Crew SC,1,Invesco Field at Mile High
+2004-10-17,D.C. United,3,New York Red Bulls,2,RFK Stadium

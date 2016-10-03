@@ -1,0 +1,226 @@
+date,home,home_score,away,away_score,venue
+2009-03-19,Seattle Sounders FC,3,New York Red Bulls,0,Qwest Field
+2009-03-21,Houston Dynamo,1,Columbus Crew SC,1,Robertson Stadium
+2009-03-21,FC Dallas,1,Chicago Fire,3,Pizza Hut Park
+2009-03-21,Sporting Kansas City,2,Toronto FC,3,CommunityAmerica Ballpark
+2009-03-21,CD Chivas USA,2,Colorado Rapids,1,The Home Depot Center
+2009-03-21,San Jose Earthquakes,0,New England Revolution,1,Buck Shaw Stadium
+2009-03-22,LA Galaxy,2,D.C. United,2,The Home Depot Center
+2009-03-28,Columbus Crew SC,1,Toronto FC,1,Columbus Crew Stadium
+2009-03-28,D.C. United,1,Chicago Fire,1,RFK Stadium
+2009-03-28,New York Red Bulls,1,New England Revolution,1,Giants Stadium
+2009-03-28,Colorado Rapids,2,Sporting Kansas City,1,Dick's Sporting Goods Park
+2009-03-28,Seattle Sounders FC,2,Real Salt Lake,0,Qwest Field
+2009-03-28,San Jose Earthquakes,3,Houston Dynamo,2,Buck Shaw Stadium
+2009-03-29,FC Dallas,0,CD Chivas USA,2,Pizza Hut Park
+2009-04-02,Real Salt Lake,4,Columbus Crew SC,1,Rio Tinto Stadium
+2009-04-04,Toronto FC,0,Seattle Sounders FC,2,BMO Field
+2009-04-04,D.C. United,1,Houston Dynamo,0,RFK Stadium
+2009-04-04,New England Revolution,2,FC Dallas,1,Gillette Stadium
+2009-04-04,LA Galaxy,2,Colorado Rapids,3,The Home Depot Center
+2009-04-05,Sporting Kansas City,2,San Jose Earthquakes,0,CommunityAmerica Ballpark
+2009-04-05,Chicago Fire,1,New York Red Bulls,0,Toyota Park
+2009-04-05,CD Chivas USA,2,Columbus Crew SC,1,The Home Depot Center
+2009-04-11,Toronto FC,1,FC Dallas,1,BMO Field
+2009-04-11,San Jose Earthquakes,3,Chicago Fire,3,Buck Shaw Stadium
+2009-04-11,Real Salt Lake,2,D.C. United,1,Rio Tinto Stadium
+2009-04-11,Columbus Crew SC,1,Colorado Rapids,1,Columbus Crew Stadium
+2009-04-11,Houston Dynamo,0,New York Red Bulls,0,Robertson Stadium
+2009-04-11,Seattle Sounders FC,0,Sporting Kansas City,1,Qwest Field
+2009-04-11,LA Galaxy,0,CD Chivas USA,0,The Home Depot Center
+2009-04-17,D.C. United,1,New England Revolution,1,RFK Stadium
+2009-04-18,New York Red Bulls,2,Real Salt Lake,0,Giants Stadium
+2009-04-18,Chicago Fire,2,Sporting Kansas City,2,Toyota Park
+2009-04-18,CD Chivas USA,2,Seattle Sounders FC,0,The Home Depot Center
+2009-04-18,San Jose Earthquakes,1,LA Galaxy,1,Oakland Coliseum
+2009-04-19,Houston Dynamo,1,Colorado Rapids,0,Robertson Stadium
+2009-04-19,FC Dallas,3,Toronto FC,2,Pizza Hut Park
+2009-04-22,Toronto FC,1,CD Chivas USA,0,BMO Field
+2009-04-23,Sporting Kansas City,1,New York Red Bulls,0,CommunityAmerica Ballpark
+2009-04-25,Columbus Crew SC,2,Chicago Fire,2,Columbus Crew Stadium
+2009-04-25,Real Salt Lake,6,New England Revolution,0,Rio Tinto Stadium
+2009-04-25,Colorado Rapids,1,LA Galaxy,1,Dick's Sporting Goods Park
+2009-04-25,CD Chivas USA,2,FC Dallas,0,The Home Depot Center
+2009-04-25,Seattle Sounders FC,2,San Jose Earthquakes,0,Qwest Field
+2009-04-26,New York Red Bulls,2,D.C. United,3,Giants Stadium
+2009-04-26,Toronto FC,1,Sporting Kansas City,0,BMO Field
+2009-05-02,Toronto FC,1,Columbus Crew SC,1,BMO Field
+2009-05-02,D.C. United,2,FC Dallas,1,RFK Stadium
+2009-05-02,Chicago Fire,1,Seattle Sounders FC,1,Toyota Park
+2009-05-02,Colorado Rapids,2,Real Salt Lake,0,Dick's Sporting Goods Park
+2009-05-02,LA Galaxy,1,New York Red Bulls,0,The Home Depot Center
+2009-05-02,San Jose Earthquakes,0,CD Chivas USA,1,Buck Shaw Stadium
+2009-05-03,New England Revolution,0,Houston Dynamo,2,Gillette Stadium
+2009-05-06,Sporting Kansas City,1,D.C. United,1,CommunityAmerica Ballpark
+2009-05-06,Real Salt Lake,2,LA Galaxy,2,Rio Tinto Stadium
+2009-05-08,New York Red Bulls,4,San Jose Earthquakes,1,Giants Stadium
+2009-05-09,Columbus Crew SC,3,Sporting Kansas City,2,Columbus Crew Stadium
+2009-05-09,D.C. United,3,Toronto FC,3,RFK Stadium
+2009-05-09,Chicago Fire,1,New England Revolution,1,Toyota Park
+2009-05-09,Houston Dynamo,1,FC Dallas,0,Robertson Stadium
+2009-05-09,CD Chivas USA,1,Real Salt Lake,0,The Home Depot Center
+2009-05-10,Seattle Sounders FC,1,LA Galaxy,1,Qwest Field
+2009-05-16,Toronto FC,0,Chicago Fire,2,BMO Field
+2009-05-16,New England Revolution,1,Colorado Rapids,1,Gillette Stadium
+2009-05-16,New York Red Bulls,1,Houston Dynamo,1,Giants Stadium
+2009-05-16,FC Dallas,1,Seattle Sounders FC,1,Pizza Hut Park
+2009-05-16,Real Salt Lake,0,Sporting Kansas City,2,Rio Tinto Stadium
+2009-05-16,CD Chivas USA,2,D.C. United,2,The Home Depot Center
+2009-05-17,LA Galaxy,1,Columbus Crew SC,1,The Home Depot Center
+2009-05-23,Toronto FC,3,New England Revolution,1,BMO Field
+2009-05-23,D.C. United,0,Real Salt Lake,0,RFK Stadium
+2009-05-23,FC Dallas,1,LA Galaxy,1,Pizza Hut Park
+2009-05-23,Houston Dynamo,3,San Jose Earthquakes,1,Robertson Stadium
+2009-05-23,Sporting Kansas City,1,CD Chivas USA,1,CommunityAmerica Ballpark
+2009-05-23,Colorado Rapids,2,Seattle Sounders FC,2,Dick's Sporting Goods Park
+2009-05-24,New York Red Bulls,0,Chicago Fire,1,Giants Stadium
+2009-05-27,Columbus Crew SC,2,San Jose Earthquakes,1,Columbus Crew Stadium
+2009-05-28,CD Chivas USA,2,Chicago Fire,3,The Home Depot Center
+2009-05-30,New England Revolution,2,D.C. United,1,Gillette Stadium
+2009-05-30,New York Red Bulls,2,Colorado Rapids,3,Giants Stadium
+2009-05-30,Houston Dynamo,3,Toronto FC,0,Robertson Stadium
+2009-05-30,San Jose Earthquakes,2,Real Salt Lake,1,Buck Shaw Stadium
+2009-05-30,Seattle Sounders FC,1,Columbus Crew SC,1,Qwest Field
+2009-05-30,LA Galaxy,1,Sporting Kansas City,1,The Home Depot Center
+2009-05-31,Chicago Fire,0,FC Dallas,3,Toyota Park
+2009-06-04,D.C. United,2,New York Red Bulls,0,RFK Stadium
+2009-06-05,Chicago Fire,0,Houston Dynamo,1,Toyota Park
+2009-06-06,Toronto FC,1,LA Galaxy,2,BMO Field
+2009-06-06,Sporting Kansas City,0,Columbus Crew SC,2,CommunityAmerica Ballpark
+2009-06-06,Real Salt Lake,1,Colorado Rapids,1,Rio Tinto Stadium
+2009-06-06,CD Chivas USA,1,Seattle Sounders FC,0,The Home Depot Center
+2009-06-07,FC Dallas,2,San Jose Earthquakes,2,Pizza Hut Park
+2009-06-07,New England Revolution,4,New York Red Bulls,0,Gillette Stadium
+2009-06-10,Houston Dynamo,1,CD Chivas USA,0,Robertson Stadium
+2009-06-13,D.C. United,2,Chicago Fire,1,RFK Stadium
+2009-06-13,Toronto FC,2,New York Red Bulls,1,BMO Field
+2009-06-13,FC Dallas,1,Houston Dynamo,3,Pizza Hut Park
+2009-06-13,Sporting Kansas City,3,New England Revolution,1,CommunityAmerica Ballpark
+2009-06-13,LA Galaxy,0,Real Salt Lake,2,The Home Depot Center
+2009-06-13,Seattle Sounders FC,2,San Jose Earthquakes,1,Qwest Field
+2009-06-14,Columbus Crew SC,2,CD Chivas USA,1,Columbus Crew Stadium
+2009-06-17,Seattle Sounders FC,3,D.C. United,3,Qwest Field
+2009-06-20,San Jose Earthquakes,2,LA Galaxy,1,Oakland Coliseum
+2009-06-20,New York Red Bulls,1,Seattle Sounders FC,1,Giants Stadium
+2009-06-20,FC Dallas,2,Columbus Crew SC,1,Pizza Hut Park
+2009-06-20,Houston Dynamo,1,Real Salt Lake,1,Robertson Stadium
+2009-06-20,Colorado Rapids,3,D.C. United,0,Dick's Sporting Goods Park
+2009-06-24,Toronto FC,2,New York Red Bulls,0,BMO Field
+2009-06-24,Colorado Rapids,1,FC Dallas,1,Dick's Sporting Goods Park
+2009-06-27,Columbus Crew SC,1,New York Red Bulls,0,Columbus Crew Stadium
+2009-06-27,Real Salt Lake,3,Toronto FC,0,Rio Tinto Stadium
+2009-06-28,Seattle Sounders FC,3,Colorado Rapids,0,Qwest Field
+2009-06-28,LA Galaxy,1,Houston Dynamo,0,The Home Depot Center
+2009-07-03,Real Salt Lake,1,San Jose Earthquakes,1,Rio Tinto Stadium
+2009-07-04,Columbus Crew SC,1,D.C. United,1,Columbus Crew Stadium
+2009-07-04,Colorado Rapids,1,Chicago Fire,2,Dick's Sporting Goods Park
+2009-07-04,FC Dallas,2,New York Red Bulls,1,Pizza Hut Park
+2009-07-04,Sporting Kansas City,0,Houston Dynamo,1,CommunityAmerica Ballpark
+2009-07-04,LA Galaxy,1,New England Revolution,0,The Home Depot Center
+2009-07-11,Seattle Sounders FC,2,Houston Dynamo,1,Qwest Field
+2009-07-11,New England Revolution,0,Sporting Kansas City,0,Gillette Stadium
+2009-07-11,Chicago Fire,0,Columbus Crew SC,0,Toyota Park
+2009-07-11,Colorado Rapids,1,FC Dallas,0,Dick's Sporting Goods Park
+2009-07-11,San Jose Earthquakes,1,Toronto FC,3,Buck Shaw Stadium
+2009-07-11,CD Chivas USA,0,LA Galaxy,1,The Home Depot Center
+2009-07-16,New York Red Bulls,1,LA Galaxy,3,Giants Stadium
+2009-07-18,Toronto FC,1,Houston Dynamo,1,BMO Field
+2009-07-18,Columbus Crew SC,3,Real Salt Lake,1,Columbus Crew Stadium
+2009-07-18,D.C. United,3,Colorado Rapids,1,RFK Stadium
+2009-07-18,Chicago Fire,2,San Jose Earthquakes,0,Toyota Park
+2009-07-19,New England Revolution,2,CD Chivas USA,0,Gillette Stadium
+2009-07-24,Real Salt Lake,4,FC Dallas,2,Rio Tinto Stadium
+2009-07-25,Seattle Sounders FC,0,Chicago Fire,0,Qwest Field
+2009-07-25,Columbus Crew SC,3,Toronto FC,2,Columbus Crew Stadium
+2009-07-25,Houston Dynamo,0,New England Revolution,1,Robertson Stadium
+2009-07-25,Sporting Kansas City,1,LA Galaxy,1,CommunityAmerica Ballpark
+2009-07-25,Colorado Rapids,4,New York Red Bulls,0,Dick's Sporting Goods Park
+2009-07-25,San Jose Earthquakes,2,D.C. United,2,Buck Shaw Stadium
+2009-08-01,New England Revolution,1,Toronto FC,1,Gillette Stadium
+2009-08-01,Chicago Fire,1,Real Salt Lake,0,Toyota Park
+2009-08-01,FC Dallas,6,Sporting Kansas City,0,Pizza Hut Park
+2009-08-01,Houston Dynamo,4,D.C. United,3,Robertson Stadium
+2009-08-01,Colorado Rapids,0,Columbus Crew SC,1,Dick's Sporting Goods Park
+2009-08-02,San Jose Earthquakes,4,Seattle Sounders FC,0,Buck Shaw Stadium
+2009-08-06,FC Dallas,1,Houston Dynamo,0,Pizza Hut Park
+2009-08-08,New England Revolution,1,LA Galaxy,2,Gillette Stadium
+2009-08-08,Real Salt Lake,1,Seattle Sounders FC,0,Rio Tinto Stadium
+2009-08-08,Colorado Rapids,4,CD Chivas USA,0,Dick's Sporting Goods Park
+2009-08-08,San Jose Earthquakes,0,Columbus Crew SC,3,Buck Shaw Stadium
+2009-08-09,Houston Dynamo,3,Chicago Fire,2,Robertson Stadium
+2009-08-15,Toronto FC,2,D.C. United,0,BMO Field
+2009-08-15,Columbus Crew SC,2,FC Dallas,0,Columbus Crew Stadium
+2009-08-15,New York Red Bulls,0,CD Chivas USA,2,Giants Stadium
+2009-08-15,Real Salt Lake,0,Houston Dynamo,0,Rio Tinto Stadium
+2009-08-15,LA Galaxy,0,Seattle Sounders FC,2,The Home Depot Center
+2009-08-16,Sporting Kansas City,0,Chicago Fire,2,CommunityAmerica Ballpark
+2009-08-19,Chicago Fire,0,LA Galaxy,2,Toyota Park
+2009-08-20,Seattle Sounders FC,0,New England Revolution,1,Qwest Field
+2009-08-22,D.C. United,0,LA Galaxy,0,RFK Stadium
+2009-08-22,San Jose Earthquakes,1,Sporting Kansas City,0,Buck Shaw Stadium
+2009-08-22,CD Chivas USA,2,Toronto FC,0,The Home Depot Center
+2009-08-23,New York Red Bulls,3,FC Dallas,2,Giants Stadium
+2009-08-23,Chicago Fire,3,Colorado Rapids,2,Toyota Park
+2009-08-23,New England Revolution,3,Real Salt Lake,1,Gillette Stadium
+2009-08-23,Houston Dynamo,1,Seattle Sounders FC,1,Robertson Stadium
+2009-08-26,Real Salt Lake,4,CD Chivas USA,0,Rio Tinto Stadium
+2009-08-29,Seattle Sounders FC,0,Toronto FC,0,Qwest Field
+2009-08-29,New England Revolution,2,San Jose Earthquakes,1,Gillette Stadium
+2009-08-29,Chicago Fire,0,D.C. United,1,Toyota Park
+2009-08-29,Sporting Kansas City,0,Real Salt Lake,1,CommunityAmerica Ballpark
+2009-08-29,LA Galaxy,1,CD Chivas USA,0,The Home Depot Center
+2009-08-30,Colorado Rapids,1,Houston Dynamo,0,Dick's Sporting Goods Park
+2009-08-30,New York Red Bulls,1,Columbus Crew SC,0,Giants Stadium
+2009-09-05,New England Revolution,2,Sporting Kansas City,4,Gillette Stadium
+2009-09-05,FC Dallas,2,D.C. United,2,Pizza Hut Park
+2009-09-05,Colorado Rapids,1,Toronto FC,0,Dick's Sporting Goods Park
+2009-09-09,D.C. United,1,Sporting Kansas City,0,RFK Stadium
+2009-09-12,Toronto FC,3,Colorado Rapids,2,BMO Field
+2009-09-12,D.C. United,1,Seattle Sounders FC,2,RFK Stadium
+2009-09-12,New York Red Bulls,0,Sporting Kansas City,1,Giants Stadium
+2009-09-12,Real Salt Lake,1,Chicago Fire,1,Rio Tinto Stadium
+2009-09-12,LA Galaxy,3,FC Dallas,6,The Home Depot Center
+2009-09-13,CD Chivas USA,2,New England Revolution,0,The Home Depot Center
+2009-09-13,Columbus Crew SC,2,Houston Dynamo,1,Columbus Crew Stadium
+2009-09-18,New York Red Bulls,1,New England Revolution,1,Giants Stadium
+2009-09-18,San Jose Earthquakes,1,Colorado Rapids,1,Buck Shaw Stadium
+2009-09-19,Seattle Sounders FC,0,CD Chivas USA,0,Qwest Field
+2009-09-19,Houston Dynamo,3,Real Salt Lake,2,Robertson Stadium
+2009-09-19,Sporting Kansas City,3,FC Dallas,2,CommunityAmerica Ballpark
+2009-09-19,LA Galaxy,2,Toronto FC,0,The Home Depot Center
+2009-09-20,Chicago Fire,2,Columbus Crew SC,2,Toyota Park
+2009-09-23,Colorado Rapids,1,San Jose Earthquakes,1,Dick's Sporting Goods Park
+2009-09-26,Columbus Crew SC,2,LA Galaxy,0,Columbus Crew Stadium
+2009-09-26,New England Revolution,2,Seattle Sounders FC,1,Gillette Stadium
+2009-09-26,Sporting Kansas City,0,Colorado Rapids,0,CommunityAmerica Ballpark
+2009-09-26,Chicago Fire,2,Toronto FC,2,Toyota Park
+2009-09-26,FC Dallas,3,Real Salt Lake,0,Pizza Hut Park
+2009-09-26,CD Chivas USA,1,New York Red Bulls,1,The Home Depot Center
+2009-09-27,D.C. United,1,San Jose Earthquakes,2,RFK Stadium
+2009-09-30,FC Dallas,1,New England Revolution,0,Cotton Bowl
+2009-10-02,LA Galaxy,1,Chicago Fire,0,The Home Depot Center
+2009-10-03,Columbus Crew SC,0,Seattle Sounders FC,1,Columbus Crew Stadium
+2009-10-03,D.C. United,0,CD Chivas USA,2,RFK Stadium
+2009-10-03,Colorado Rapids,1,New England Revolution,1,Dick's Sporting Goods Park
+2009-10-03,San Jose Earthquakes,1,New York Red Bulls,0,Buck Shaw Stadium
+2009-10-04,Houston Dynamo,1,Sporting Kansas City,1,Robertson Stadium
+2009-10-07,San Jose Earthquakes,1,FC Dallas,2,Buck Shaw Stadium
+2009-10-10,Toronto FC,1,San Jose Earthquakes,1,BMO Field
+2009-10-10,New England Revolution,0,Columbus Crew SC,1,Gillette Stadium
+2009-10-10,CD Chivas USA,2,Sporting Kansas City,0,The Home Depot Center
+2009-10-14,Real Salt Lake,2,New York Red Bulls,0,Rio Tinto Stadium
+2009-10-17,Toronto FC,1,Real Salt Lake,0,BMO Field
+2009-10-17,New England Revolution,0,Chicago Fire,0,Gillette Stadium
+2009-10-17,D.C. United,1,Columbus Crew SC,0,RFK Stadium
+2009-10-17,FC Dallas,2,Colorado Rapids,1,Pizza Hut Park
+2009-10-17,Sporting Kansas City,2,Seattle Sounders FC,3,CommunityAmerica Ballpark
+2009-10-17,CD Chivas USA,2,San Jose Earthquakes,2,The Home Depot Center
+2009-10-18,Houston Dynamo,0,LA Galaxy,0,Robertson Stadium
+2009-10-22,Chicago Fire,1,CD Chivas USA,0,Toyota Park
+2009-10-24,New York Red Bulls,5,Toronto FC,0,Giants Stadium
+2009-10-24,Sporting Kansas City,2,D.C. United,2,CommunityAmerica Ballpark
+2009-10-24,Real Salt Lake,3,Colorado Rapids,0,Rio Tinto Stadium
+2009-10-24,LA Galaxy,2,San Jose Earthquakes,0,The Home Depot Center
+2009-10-24,Seattle Sounders FC,2,FC Dallas,1,Qwest Field
+2009-10-25,CD Chivas USA,2,Houston Dynamo,3,The Home Depot Center
+2009-10-25,Columbus Crew SC,0,New England Revolution,1,Columbus Crew Stadium

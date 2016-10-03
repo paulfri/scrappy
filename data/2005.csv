@@ -1,0 +1,193 @@
+date,home,home_score,away,away_score,venue
+2005-04-02,CD Chivas USA,0,D.C. United,2,The Home Depot Center
+2005-04-02,New York Red Bulls,0,Real Salt Lake,0,Giants Stadium
+2005-04-02,Columbus Crew SC,3,LA Galaxy,0,Columbus Crew Stadium
+2005-04-02,Sporting Kansas City,3,Colorado Rapids,2,Arrowhead Stadium
+2005-04-02,FC Dallas,2,Chicago Fire,1,Cotton Bowl
+2005-04-02,San Jose Earthquakes,2,New England Revolution,2,Spartan Stadium
+2005-04-09,San Jose Earthquakes,3,CD Chivas USA,3,Spartan Stadium
+2005-04-09,New England Revolution,3,Columbus Crew SC,0,Gillette Stadium
+2005-04-09,D.C. United,1,Chicago Fire,1,RFK Stadium
+2005-04-09,Colorado Rapids,0,FC Dallas,0,Invesco Field at Mile High
+2005-04-09,LA Galaxy,3,Real Salt Lake,1,The Home Depot Center
+2005-04-15,Columbus Crew SC,1,D.C. United,0,Columbus Crew Stadium
+2005-04-16,Real Salt Lake,1,Colorado Rapids,0,Rice-Eccles Stadium
+2005-04-16,New York Red Bulls,2,Sporting Kansas City,2,Giants Stadium
+2005-04-16,Chicago Fire,2,San Jose Earthquakes,1,Soldier Field
+2005-04-16,CD Chivas USA,1,FC Dallas,3,The Home Depot Center
+2005-04-22,New York Red Bulls,0,Chicago Fire,1,Giants Stadium
+2005-04-23,D.C. United,3,New England Revolution,4,RFK Stadium
+2005-04-23,FC Dallas,3,Real Salt Lake,0,Cotton Bowl
+2005-04-23,Colorado Rapids,2,Columbus Crew SC,0,Invesco Field at Mile High
+2005-04-23,LA Galaxy,3,CD Chivas USA,1,The Home Depot Center
+2005-04-23,San Jose Earthquakes,3,Sporting Kansas City,2,Spartan Stadium
+2005-04-27,Chicago Fire,0,New England Revolution,3,Soldier Field
+2005-04-30,Sporting Kansas City,0,D.C. United,0,Arrowhead Stadium
+2005-04-30,New England Revolution,1,CD Chivas USA,0,Gillette Stadium
+2005-04-30,Columbus Crew SC,0,Chicago Fire,2,Columbus Crew Stadium
+2005-04-30,Colorado Rapids,1,New York Red Bulls,3,Invesco Field at Mile High
+2005-04-30,Real Salt Lake,2,San Jose Earthquakes,2,Rice-Eccles Stadium
+2005-04-30,LA Galaxy,2,FC Dallas,0,The Home Depot Center
+2005-05-07,New York Red Bulls,0,San Jose Earthquakes,1,Giants Stadium
+2005-05-07,New England Revolution,2,Chicago Fire,0,Gillette Stadium
+2005-05-07,D.C. United,3,Columbus Crew SC,1,RFK Stadium
+2005-05-07,Sporting Kansas City,3,FC Dallas,3,Arrowhead Stadium
+2005-05-07,CD Chivas USA,1,Real Salt Lake,0,The Home Depot Center
+2005-05-08,LA Galaxy,3,Colorado Rapids,2,The Home Depot Center
+2005-05-14,New England Revolution,1,D.C. United,0,Gillette Stadium
+2005-05-14,Columbus Crew SC,0,Sporting Kansas City,4,Columbus Crew Stadium
+2005-05-14,Chicago Fire,0,New York Red Bulls,3,Soldier Field
+2005-05-14,Colorado Rapids,2,CD Chivas USA,1,Invesco Field at Mile High
+2005-05-14,Real Salt Lake,2,LA Galaxy,1,Rice-Eccles Stadium
+2005-05-14,San Jose Earthquakes,0,FC Dallas,0,Spartan Stadium
+2005-05-18,FC Dallas,2,Colorado Rapids,1,Cotton Bowl
+2005-05-18,Real Salt Lake,2,CD Chivas USA,0,Rice-Eccles Stadium
+2005-05-21,New York Red Bulls,2,New England Revolution,2,Giants Stadium
+2005-05-21,D.C. United,3,Sporting Kansas City,2,RFK Stadium
+2005-05-21,Columbus Crew SC,2,Real Salt Lake,0,Columbus Crew Stadium
+2005-05-21,Chicago Fire,2,Colorado Rapids,1,Soldier Field
+2005-05-21,LA Galaxy,2,San Jose Earthquakes,1,The Home Depot Center
+2005-05-22,CD Chivas USA,2,FC Dallas,5,The Home Depot Center
+2005-05-25,Sporting Kansas City,1,New York Red Bulls,0,Arrowhead Stadium
+2005-05-25,Colorado Rapids,0,San Jose Earthquakes,1,Invesco Field at Mile High
+2005-05-25,LA Galaxy,0,Columbus Crew SC,0,The Home Depot Center
+2005-05-28,New England Revolution,0,Colorado Rapids,0,Gillette Stadium
+2005-05-28,D.C. United,0,FC Dallas,2,RFK Stadium
+2005-05-28,Columbus Crew SC,0,New York Red Bulls,3,Columbus Crew Stadium
+2005-05-28,Sporting Kansas City,1,San Jose Earthquakes,0,Arrowhead Stadium
+2005-05-28,Real Salt Lake,0,Chicago Fire,3,Rice-Eccles Stadium
+2005-05-28,CD Chivas USA,0,LA Galaxy,2,The Home Depot Center
+2005-05-31,New York Red Bulls,2,Chicago Fire,1,Giants Stadium
+2005-06-01,CD Chivas USA,1,Sporting Kansas City,1,The Home Depot Center
+2005-06-04,Chicago Fire,5,CD Chivas USA,2,Soldier Field
+2005-06-04,New England Revolution,1,Sporting Kansas City,1,Gillette Stadium
+2005-06-04,Real Salt Lake,0,FC Dallas,2,Rice-Eccles Stadium
+2005-06-04,LA Galaxy,2,New York Red Bulls,2,The Home Depot Center
+2005-06-04,San Jose Earthquakes,0,D.C. United,0,Spartan Stadium
+2005-06-11,Columbus Crew SC,1,Colorado Rapids,0,Columbus Crew Stadium
+2005-06-11,Sporting Kansas City,0,New England Revolution,2,Arrowhead Stadium
+2005-06-11,LA Galaxy,1,Real Salt Lake,0,The Home Depot Center
+2005-06-12,New York Red Bulls,0,D.C. United,0,Giants Stadium
+2005-06-12,Chicago Fire,2,FC Dallas,0,Soldier Field
+2005-06-12,CD Chivas USA,1,San Jose Earthquakes,1,The Home Depot Center
+2005-06-15,D.C. United,4,Chicago Fire,3,RFK Stadium
+2005-06-15,Colorado Rapids,1,LA Galaxy,0,Invesco Field at Mile High
+2005-06-18,Chicago Fire,1,Sporting Kansas City,1,Soldier Field
+2005-06-18,New York Red Bulls,3,Columbus Crew SC,2,Giants Stadium
+2005-06-18,D.C. United,2,New England Revolution,0,RFK Stadium
+2005-06-18,FC Dallas,1,LA Galaxy,0,Cotton Bowl
+2005-06-18,San Jose Earthquakes,3,Real Salt Lake,0,Spartan Stadium
+2005-06-18,CD Chivas USA,1,Colorado Rapids,3,The Home Depot Center
+2005-06-22,Columbus Crew SC,1,New England Revolution,3,Columbus Crew Stadium
+2005-06-22,FC Dallas,2,CD Chivas USA,1,Cotton Bowl
+2005-06-22,Real Salt Lake,1,LA Galaxy,1,Rice-Eccles Stadium
+2005-06-25,New England Revolution,4,New York Red Bulls,2,Gillette Stadium
+2005-06-25,Sporting Kansas City,3,CD Chivas USA,0,Arrowhead Stadium
+2005-06-25,Colorado Rapids,1,FC Dallas,3,Invesco Field at Mile High
+2005-06-25,San Jose Earthquakes,3,LA Galaxy,0,Spartan Stadium
+2005-06-26,Chicago Fire,3,Real Salt Lake,1,Soldier Field
+2005-06-29,Sporting Kansas City,1,Columbus Crew SC,1,Arrowhead Stadium
+2005-06-29,Chicago Fire,4,D.C. United,3,Soldier Field
+2005-06-29,San Jose Earthquakes,1,Colorado Rapids,0,Spartan Stadium
+2005-07-02,Columbus Crew SC,0,D.C. United,1,Columbus Crew Stadium
+2005-07-02,FC Dallas,2,San Jose Earthquakes,2,Cotton Bowl
+2005-07-02,CD Chivas USA,0,Chicago Fire,1,The Home Depot Center
+2005-07-04,Real Salt Lake,2,New York Red Bulls,2,Rice-Eccles Stadium
+2005-07-04,Colorado Rapids,2,Sporting Kansas City,1,Invesco Field at Mile High
+2005-07-04,LA Galaxy,1,New England Revolution,1,The Home Depot Center
+2005-07-09,D.C. United,0,Sporting Kansas City,1,RFK Stadium
+2005-07-09,Columbus Crew SC,1,San Jose Earthquakes,2,Columbus Crew Stadium
+2005-07-09,New York Red Bulls,2,LA Galaxy,1,Giants Stadium
+2005-07-09,Chicago Fire,1,New England Revolution,0,Soldier Field
+2005-07-09,CD Chivas USA,5,Real Salt Lake,1,The Home Depot Center
+2005-07-15,D.C. United,3,San Jose Earthquakes,0,RFK Stadium
+2005-07-16,Chicago Fire,1,Columbus Crew SC,1,Soldier Field
+2005-07-16,New England Revolution,3,FC Dallas,2,Gillette Stadium
+2005-07-16,New York Red Bulls,1,Colorado Rapids,1,Giants Stadium
+2005-07-16,Sporting Kansas City,3,Real Salt Lake,2,Arrowhead Stadium
+2005-07-16,LA Galaxy,2,CD Chivas USA,0,The Home Depot Center
+2005-07-20,Columbus Crew SC,1,New York Red Bulls,0,Columbus Crew Stadium
+2005-07-20,Sporting Kansas City,1,D.C. United,1,Arrowhead Stadium
+2005-07-20,Colorado Rapids,1,San Jose Earthquakes,2,Invesco Field at Mile High
+2005-07-22,CD Chivas USA,1,New England Revolution,0,The Home Depot Center
+2005-07-23,LA Galaxy,0,D.C. United,1,The Home Depot Center
+2005-07-23,Columbus Crew SC,2,Sporting Kansas City,0,Columbus Crew Stadium
+2005-07-23,Colorado Rapids,4,Chicago Fire,1,Invesco Field at Mile High
+2005-07-23,Real Salt Lake,3,FC Dallas,0,Rice-Eccles Stadium
+2005-07-23,San Jose Earthquakes,2,New York Red Bulls,1,Spartan Stadium
+2005-07-27,New York Red Bulls,3,FC Dallas,2,Giants Stadium
+2005-07-27,New England Revolution,1,LA Galaxy,1,Gillette Stadium
+2005-08-06,Real Salt Lake,2,CD Chivas USA,1,Rice-Eccles Stadium
+2005-08-06,New England Revolution,1,Sporting Kansas City,2,Gillette Stadium
+2005-08-06,Chicago Fire,2,D.C. United,3,Soldier Field
+2005-08-06,FC Dallas,2,New York Red Bulls,2,Pizza Hut Park
+2005-08-06,Colorado Rapids,2,LA Galaxy,0,Invesco Field at Mile High
+2005-08-06,San Jose Earthquakes,2,Columbus Crew SC,1,Spartan Stadium
+2005-08-10,New England Revolution,4,Real Salt Lake,1,Gillette Stadium
+2005-08-10,D.C. United,3,New York Red Bulls,0,RFK Stadium
+2005-08-10,Chicago Fire,2,Sporting Kansas City,3,Soldier Field
+2005-08-10,CD Chivas USA,0,LA Galaxy,1,Los Angeles Memorial Coliseum
+2005-08-13,D.C. United,3,CD Chivas USA,0,RFK Stadium
+2005-08-13,Chicago Fire,2,LA Galaxy,1,Soldier Field
+2005-08-13,FC Dallas,1,New England Revolution,2,Pizza Hut Park
+2005-08-13,Real Salt Lake,2,Sporting Kansas City,4,Rice-Eccles Stadium
+2005-08-13,San Jose Earthquakes,1,Colorado Rapids,1,Spartan Stadium
+2005-08-14,New York Red Bulls,2,Columbus Crew SC,1,Giants Stadium
+2005-08-17,Colorado Rapids,2,New England Revolution,0,Invesco Field at Mile High
+2005-08-19,Sporting Kansas City,3,Chicago Fire,0,Arrowhead Stadium
+2005-08-20,Columbus Crew SC,1,FC Dallas,0,Columbus Crew Stadium
+2005-08-20,D.C. United,2,LA Galaxy,3,RFK Stadium
+2005-08-20,Real Salt Lake,0,San Jose Earthquakes,1,Rice-Eccles Stadium
+2005-08-21,New York Red Bulls,3,CD Chivas USA,3,Giants Stadium
+2005-08-26,Sporting Kansas City,0,Columbus Crew SC,1,Arrowhead Stadium
+2005-08-27,New England Revolution,2,D.C. United,1,Gillette Stadium
+2005-08-27,FC Dallas,2,CD Chivas USA,2,Pizza Hut Park
+2005-08-27,San Jose Earthquakes,2,LA Galaxy,1,Spartan Stadium
+2005-08-31,D.C. United,5,Real Salt Lake,1,RFK Stadium
+2005-09-03,New York Red Bulls,2,Sporting Kansas City,2,Giants Stadium
+2005-09-03,FC Dallas,0,San Jose Earthquakes,2,Pizza Hut Park
+2005-09-03,Colorado Rapids,1,D.C. United,0,Invesco Field at Mile High
+2005-09-03,Real Salt Lake,0,New England Revolution,1,Rice-Eccles Stadium
+2005-09-03,CD Chivas USA,0,Columbus Crew SC,3,The Home Depot Center
+2005-09-04,LA Galaxy,1,Chicago Fire,2,The Home Depot Center
+2005-09-10,New England Revolution,3,Columbus Crew SC,1,Gillette Stadium
+2005-09-10,Sporting Kansas City,0,New York Red Bulls,1,Arrowhead Stadium
+2005-09-10,FC Dallas,1,D.C. United,2,Pizza Hut Park
+2005-09-10,LA Galaxy,4,Colorado Rapids,1,The Home Depot Center
+2005-09-10,San Jose Earthquakes,3,CD Chivas USA,0,Spartan Stadium
+2005-09-17,New York Red Bulls,5,New England Revolution,4,Giants Stadium
+2005-09-17,D.C. United,2,Colorado Rapids,0,RFK Stadium
+2005-09-17,Columbus Crew SC,1,Chicago Fire,2,Columbus Crew Stadium
+2005-09-17,Sporting Kansas City,2,LA Galaxy,2,Arrowhead Stadium
+2005-09-17,CD Chivas USA,1,San Jose Earthquakes,2,The Home Depot Center
+2005-09-18,FC Dallas,2,Real Salt Lake,1,Pizza Hut Park
+2005-09-21,Columbus Crew SC,1,New England Revolution,1,Columbus Crew Stadium
+2005-09-21,FC Dallas,4,LA Galaxy,1,Pizza Hut Park
+2005-09-21,Colorado Rapids,2,Real Salt Lake,0,Invesco Field at Mile High
+2005-09-21,San Jose Earthquakes,2,Chicago Fire,0,Spartan Stadium
+2005-09-24,New England Revolution,1,New York Red Bulls,0,Gillette Stadium
+2005-09-24,Real Salt Lake,1,Columbus Crew SC,2,Rice-Eccles Stadium
+2005-09-24,San Jose Earthquakes,1,FC Dallas,1,Spartan Stadium
+2005-09-24,CD Chivas USA,1,Colorado Rapids,3,The Home Depot Center
+2005-09-25,LA Galaxy,2,Sporting Kansas City,1,The Home Depot Center
+2005-10-01,Columbus Crew SC,0,CD Chivas USA,1,Columbus Crew Stadium
+2005-10-01,New York Red Bulls,1,D.C. United,4,Giants Stadium
+2005-10-01,New England Revolution,0,San Jose Earthquakes,2,Gillette Stadium
+2005-10-01,Sporting Kansas City,0,Chicago Fire,1,Arrowhead Stadium
+2005-10-01,Colorado Rapids,2,Real Salt Lake,1,Invesco Field at Mile High
+2005-10-01,LA Galaxy,2,FC Dallas,1,The Home Depot Center
+2005-10-05,Chicago Fire,2,New York Red Bulls,2,Soldier Field
+2005-10-05,FC Dallas,2,Columbus Crew SC,1,Pizza Hut Park
+2005-10-05,Colorado Rapids,1,CD Chivas USA,1,Invesco Field at Mile High
+2005-10-05,Real Salt Lake,1,D.C. United,3,Rice-Eccles Stadium
+2005-10-08,D.C. United,1,New York Red Bulls,2,RFK Stadium
+2005-10-08,Sporting Kansas City,2,New England Revolution,2,Arrowhead Stadium
+2005-10-08,Chicago Fire,1,Columbus Crew SC,2,Soldier Field
+2005-10-08,FC Dallas,0,Colorado Rapids,0,Pizza Hut Park
+2005-10-08,San Jose Earthquakes,2,Real Salt Lake,2,Spartan Stadium
+2005-10-12,Real Salt Lake,0,Colorado Rapids,1,Rice-Eccles Stadium
+2005-10-15,New England Revolution,1,Chicago Fire,0,Gillette Stadium
+2005-10-15,D.C. United,2,Columbus Crew SC,2,RFK Stadium
+2005-10-15,FC Dallas,2,Sporting Kansas City,2,Pizza Hut Park
+2005-10-15,LA Galaxy,1,San Jose Earthquakes,3,The Home Depot Center
+2005-10-16,CD Chivas USA,0,New York Red Bulls,2,The Home Depot Center

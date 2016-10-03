@@ -1,0 +1,160 @@
+date,home,home_score,away,away_score,venue
+2001-04-07,LA Galaxy,2,San Jose Earthquakes,3,Rose Bowl
+2001-04-07,New York Red Bulls,2,New England Revolution,1,Giants Stadium
+2001-04-07,Columbus Crew SC,1,Chicago Fire,1,Columbus Crew Stadium
+2001-04-07,D.C. United,3,Sporting Kansas City,2,RFK Stadium
+2001-04-07,Miami Fusion,2,Colorado Rapids,1,Lockhart Stadium
+2001-04-07,FC Dallas,2,Tampa Bay Mutiny,4,Cotton Bowl
+2001-04-14,San Jose Earthquakes,0,FC Dallas,1,Spartan Stadium
+2001-04-14,Tampa Bay Mutiny,1,Columbus Crew SC,2,Raymond James Stadium
+2001-04-14,New England Revolution,0,Miami Fusion,1,Foxboro Stadium
+2001-04-14,Sporting Kansas City,2,LA Galaxy,1,Arrowhead Stadium
+2001-04-14,Chicago Fire,2,D.C. United,0,Soldier Field
+2001-04-14,Colorado Rapids,1,New York Red Bulls,1,Mile High Stadium
+2001-04-18,Sporting Kansas City,2,Miami Fusion,1,Arrowhead Stadium
+2001-04-21,LA Galaxy,1,Colorado Rapids,0,Rose Bowl
+2001-04-21,New York Red Bulls,1,Tampa Bay Mutiny,3,Giants Stadium
+2001-04-21,FC Dallas,3,Chicago Fire,2,Cotton Bowl
+2001-04-21,Columbus Crew SC,0,Sporting Kansas City,3,Columbus Crew Stadium
+2001-04-21,D.C. United,2,New England Revolution,1,RFK Stadium
+2001-04-21,Miami Fusion,2,San Jose Earthquakes,1,Lockhart Stadium
+2001-04-28,Tampa Bay Mutiny,0,Chicago Fire,1,Raymond James Stadium
+2001-04-28,Colorado Rapids,2,LA Galaxy,3,Mile High Stadium
+2001-04-28,New York Red Bulls,3,FC Dallas,2,Giants Stadium
+2001-04-28,Miami Fusion,1,New England Revolution,0,Lockhart Stadium
+2001-04-28,Sporting Kansas City,0,San Jose Earthquakes,0,Arrowhead Stadium
+2001-05-02,New York Red Bulls,4,Sporting Kansas City,1,Giants Stadium
+2001-05-05,San Jose Earthquakes,3,New England Revolution,2,Spartan Stadium
+2001-05-05,LA Galaxy,2,Sporting Kansas City,1,Rose Bowl
+2001-05-05,Columbus Crew SC,0,Miami Fusion,0,Columbus Crew Stadium
+2001-05-05,New York Red Bulls,3,D.C. United,2,Giants Stadium
+2001-05-05,Chicago Fire,2,Tampa Bay Mutiny,0,Soldier Field
+2001-05-05,FC Dallas,0,Colorado Rapids,1,Cotton Bowl
+2001-05-09,Tampa Bay Mutiny,4,LA Galaxy,4,Raymond James Stadium
+2001-05-09,D.C. United,5,New England Revolution,0,RFK Stadium
+2001-05-12,New England Revolution,2,Chicago Fire,1,Foxboro Stadium
+2001-05-12,D.C. United,2,San Jose Earthquakes,3,RFK Stadium
+2001-05-12,New York Red Bulls,2,LA Galaxy,0,Giants Stadium
+2001-05-12,FC Dallas,4,Columbus Crew SC,0,Cotton Bowl
+2001-05-12,Colorado Rapids,2,Tampa Bay Mutiny,1,Mile High Stadium
+2001-05-16,New England Revolution,2,Columbus Crew SC,1,Foxboro Stadium
+2001-05-16,New York Red Bulls,1,Colorado Rapids,0,Giants Stadium
+2001-05-19,LA Galaxy,0,FC Dallas,0,Rose Bowl
+2001-05-19,San Jose Earthquakes,2,New York Red Bulls,0,Spartan Stadium
+2001-05-19,Miami Fusion,3,Tampa Bay Mutiny,1,Lockhart Stadium
+2001-05-19,Columbus Crew SC,2,D.C. United,1,Columbus Crew Stadium
+2001-05-19,Chicago Fire,2,Sporting Kansas City,0,Soldier Field
+2001-05-19,Colorado Rapids,0,New England Revolution,1,Mile High Stadium
+2001-05-23,FC Dallas,0,San Jose Earthquakes,2,Cotton Bowl
+2001-05-23,Colorado Rapids,0,Miami Fusion,1,Mile High Stadium
+2001-05-24,Sporting Kansas City,1,New York Red Bulls,0,Arrowhead Stadium
+2001-05-26,LA Galaxy,2,New England Revolution,0,Rose Bowl
+2001-05-26,Chicago Fire,1,San Jose Earthquakes,1,Soldier Field
+2001-05-26,Tampa Bay Mutiny,0,Miami Fusion,4,Raymond James Stadium
+2001-05-26,Columbus Crew SC,3,Colorado Rapids,3,Columbus Crew Stadium
+2001-05-30,San Jose Earthquakes,1,Colorado Rapids,1,Spartan Stadium
+2001-05-30,Miami Fusion,2,D.C. United,1,Lockhart Stadium
+2001-05-30,Chicago Fire,3,LA Galaxy,4,Soldier Field
+2001-06-02,D.C. United,1,Chicago Fire,2,RFK Stadium
+2001-06-02,Columbus Crew SC,1,LA Galaxy,1,Columbus Crew Stadium
+2001-06-02,Tampa Bay Mutiny,1,Sporting Kansas City,2,Raymond James Stadium
+2001-06-02,FC Dallas,2,Miami Fusion,6,Cotton Bowl
+2001-06-02,Colorado Rapids,1,San Jose Earthquakes,2,Mile High Stadium
+2001-06-03,New England Revolution,1,New York Red Bulls,1,Foxboro Stadium
+2001-06-06,Tampa Bay Mutiny,0,FC Dallas,1,Raymond James Stadium
+2001-06-09,San Jose Earthquakes,3,LA Galaxy,1,Spartan Stadium
+2001-06-09,FC Dallas,3,D.C. United,0,Cotton Bowl
+2001-06-09,Miami Fusion,5,Sporting Kansas City,1,Lockhart Stadium
+2001-06-09,New England Revolution,3,Tampa Bay Mutiny,0,Foxboro Stadium
+2001-06-09,Chicago Fire,1,Columbus Crew SC,0,Soldier Field
+2001-06-13,LA Galaxy,4,Sporting Kansas City,0,Rose Bowl
+2001-06-13,D.C. United,2,New York Red Bulls,1,RFK Stadium
+2001-06-16,Sporting Kansas City,0,D.C. United,3,Arrowhead Stadium
+2001-06-16,New York Red Bulls,0,San Jose Earthquakes,0,Giants Stadium
+2001-06-16,Columbus Crew SC,6,Tampa Bay Mutiny,1,Columbus Crew Stadium
+2001-06-16,Miami Fusion,3,LA Galaxy,3,Lockhart Stadium
+2001-06-16,Colorado Rapids,3,FC Dallas,6,Mile High Stadium
+2001-06-20,New England Revolution,3,Colorado Rapids,3,Foxboro Stadium
+2001-06-23,San Jose Earthquakes,2,Sporting Kansas City,0,Spartan Stadium
+2001-06-23,LA Galaxy,2,New York Red Bulls,0,Rose Bowl
+2001-06-23,Tampa Bay Mutiny,3,D.C. United,2,Raymond James Stadium
+2001-06-23,Chicago Fire,1,New England Revolution,1,Soldier Field
+2001-06-23,FC Dallas,1,Columbus Crew SC,2,Cotton Bowl
+2001-06-30,FC Dallas,0,LA Galaxy,0,Cotton Bowl
+2001-06-30,New England Revolution,0,San Jose Earthquakes,0,Foxboro Stadium
+2001-06-30,Miami Fusion,4,Columbus Crew SC,3,Lockhart Stadium
+2001-06-30,D.C. United,1,Colorado Rapids,1,RFK Stadium
+2001-06-30,Sporting Kansas City,3,Tampa Bay Mutiny,0,Arrowhead Stadium
+2001-06-30,Chicago Fire,3,New York Red Bulls,1,Soldier Field
+2001-07-04,LA Galaxy,0,Columbus Crew SC,2,Rose Bowl
+2001-07-04,Tampa Bay Mutiny,1,New York Red Bulls,2,Raymond James Stadium
+2001-07-04,Sporting Kansas City,0,Chicago Fire,7,Arrowhead Stadium
+2001-07-04,FC Dallas,1,New England Revolution,1,Cotton Bowl
+2001-07-04,San Jose Earthquakes,1,Miami Fusion,1,Spartan Stadium
+2001-07-04,Colorado Rapids,3,D.C. United,1,Mile High Stadium
+2001-07-07,Columbus Crew SC,2,FC Dallas,2,Columbus Crew Stadium
+2001-07-07,Tampa Bay Mutiny,2,Chicago Fire,3,Raymond James Stadium
+2001-07-07,Miami Fusion,0,New York Red Bulls,3,Lockhart Stadium
+2001-07-07,New England Revolution,1,Sporting Kansas City,2,Foxboro Stadium
+2001-07-07,D.C. United,0,LA Galaxy,3,RFK Stadium
+2001-07-07,Colorado Rapids,3,San Jose Earthquakes,1,Mile High Stadium
+2001-07-14,LA Galaxy,3,Miami Fusion,0,Rose Bowl
+2001-07-14,San Jose Earthquakes,2,Tampa Bay Mutiny,1,Spartan Stadium
+2001-07-14,New England Revolution,1,D.C. United,3,Foxboro Stadium
+2001-07-14,Chicago Fire,1,Colorado Rapids,0,Soldier Field
+2001-07-14,Sporting Kansas City,3,FC Dallas,2,Arrowhead Stadium
+2001-07-17,New England Revolution,3,LA Galaxy,2,Foxboro Stadium
+2001-07-18,San Jose Earthquakes,4,D.C. United,0,Spartan Stadium
+2001-07-18,Miami Fusion,2,Chicago Fire,1,Lockhart Stadium
+2001-07-18,Columbus Crew SC,2,New York Red Bulls,1,Columbus Crew Stadium
+2001-07-18,FC Dallas,3,Tampa Bay Mutiny,0,Cotton Bowl
+2001-07-18,Colorado Rapids,0,Sporting Kansas City,0,Mile High Stadium
+2001-07-21,New York Red Bulls,2,D.C. United,1,Giants Stadium
+2001-07-21,Tampa Bay Mutiny,1,Colorado Rapids,2,Raymond James Stadium
+2001-07-21,Miami Fusion,1,New England Revolution,1,Lockhart Stadium
+2001-07-21,Columbus Crew SC,2,San Jose Earthquakes,1,Columbus Crew Stadium
+2001-07-21,Chicago Fire,2,FC Dallas,1,Soldier Field
+2001-07-29,Sporting Kansas City,2,New England Revolution,0,Arrowhead Stadium
+2001-08-01,Columbus Crew SC,3,Chicago Fire,0,Columbus Crew Stadium
+2001-08-01,D.C. United,2,Miami Fusion,2,RFK Stadium
+2001-08-04,Colorado Rapids,1,Chicago Fire,1,Mile High Stadium
+2001-08-04,Tampa Bay Mutiny,2,San Jose Earthquakes,0,Raymond James Stadium
+2001-08-04,New England Revolution,5,FC Dallas,1,Foxboro Stadium
+2001-08-04,New York Red Bulls,2,Miami Fusion,1,Giants Stadium
+2001-08-04,Sporting Kansas City,1,Columbus Crew SC,3,Arrowhead Stadium
+2001-08-08,New England Revolution,1,San Jose Earthquakes,5,Foxboro Stadium
+2001-08-11,San Jose Earthquakes,2,Columbus Crew SC,2,Spartan Stadium
+2001-08-11,LA Galaxy,1,D.C. United,0,Rose Bowl
+2001-08-11,New England Revolution,1,Miami Fusion,4,Foxboro Stadium
+2001-08-11,Chicago Fire,3,Tampa Bay Mutiny,1,Soldier Field
+2001-08-11,FC Dallas,3,New York Red Bulls,0,Cotton Bowl
+2001-08-12,Colorado Rapids,2,Sporting Kansas City,2,Mile High Stadium
+2001-08-15,D.C. United,1,New York Red Bulls,2,RFK Stadium
+2001-08-15,Columbus Crew SC,3,FC Dallas,0,Columbus Crew Stadium
+2001-08-15,Chicago Fire,1,Miami Fusion,2,Soldier Field
+2001-08-15,Sporting Kansas City,1,LA Galaxy,2,Arrowhead Stadium
+2001-08-18,San Jose Earthquakes,0,Chicago Fire,1,Spartan Stadium
+2001-08-18,LA Galaxy,5,Tampa Bay Mutiny,1,Rose Bowl
+2001-08-18,New England Revolution,2,D.C. United,1,Foxboro Stadium
+2001-08-18,Miami Fusion,4,FC Dallas,2,Lockhart Stadium
+2001-08-19,New York Red Bulls,0,Columbus Crew SC,1,Giants Stadium
+2001-08-19,Sporting Kansas City,3,Colorado Rapids,2,Arrowhead Stadium
+2001-08-25,San Jose Earthquakes,5,Colorado Rapids,2,Spartan Stadium
+2001-08-25,D.C. United,2,Columbus Crew SC,1,RFK Stadium
+2001-08-25,LA Galaxy,1,Chicago Fire,3,Rose Bowl
+2001-08-25,Miami Fusion,2,New York Red Bulls,3,Lockhart Stadium
+2001-08-25,FC Dallas,3,Sporting Kansas City,0,Cotton Bowl
+2001-08-26,Tampa Bay Mutiny,0,New England Revolution,0,Raymond James Stadium
+2001-08-29,Tampa Bay Mutiny,2,FC Dallas,3,Raymond James Stadium
+2001-08-29,Chicago Fire,2,Columbus Crew SC,1,Soldier Field
+2001-09-01,D.C. United,5,Tampa Bay Mutiny,1,RFK Stadium
+2001-09-01,LA Galaxy,3,Colorado Rapids,2,Rose Bowl
+2001-09-01,San Jose Earthquakes,3,Sporting Kansas City,0,Spartan Stadium
+2001-09-01,New York Red Bulls,0,Chicago Fire,1,Giants Stadium
+2001-09-01,Columbus Crew SC,4,New England Revolution,1,Columbus Crew Stadium
+2001-09-07,New York Red Bulls,3,New England Revolution,1,Giants Stadium
+2001-09-08,Miami Fusion,3,D.C. United,1,Lockhart Stadium
+2001-09-08,Chicago Fire,2,FC Dallas,2,Soldier Field
+2001-09-08,Sporting Kansas City,1,San Jose Earthquakes,0,Arrowhead Stadium
+2001-09-08,Colorado Rapids,0,LA Galaxy,2,Mile High Stadium
+2001-09-09,Tampa Bay Mutiny,1,Columbus Crew SC,2,Raymond James Stadium

@@ -1,3 +1,6 @@
+*Note*: MLS reimplemented the schedule/score pages so this no longer works. Feel free
+to dig around the `data/` directory for historical result CSVs.
+
 # Scrappy
 
 This is a scraper I wrote to get historical MLS game data from mlssoccer.com. It
